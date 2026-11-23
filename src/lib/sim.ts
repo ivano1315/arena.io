@@ -26,6 +26,12 @@ export interface Annotation {
   needs: { skill: string; window: number | null } | null;
   reliability: number;
   note: string;
+  /** Chakra the character data does not show (e.g. "costs 1 additional random chakra for each animal"). */
+  extraCost?: number;
+  /** Minimum cooldown when the game text implies a lockout the cooldown field does not carry. */
+  cdOverride?: number;
+  /** "Can only be used N times": the simulator stops using the skill after that many uses. */
+  maxUses?: number;
   source?: 'agent' | 'heuristic';
 }
 
@@ -81,6 +87,7 @@ interface State {
   bud: number;
   last: number[];
   stacks: number[];
+  uses: number[];
   bonus: Bonus[];
   total: number;
   vec: number[];
@@ -100,7 +107,7 @@ function simulate(skills: { a: Annotation; cost: number; cooldown: number }[], w
   const n = skills.length;
   const idxOf = new Map(skills.map((s, i) => [s.a.skill, i]));
   let beam: State[] = [{
-    cd: new Array(n).fill(0), bud: 0, last: new Array(n).fill(-99), stacks: new Array(n).fill(0),
+    cd: new Array(n).fill(0), bud: 0, last: new Array(n).fill(-99), stacks: new Array(n).fill(0), uses: new Array(n).fill(0),
     bonus: skills.map(zeroBonus), total: 0, vec: [0, 0, 0, 0, 0], spent: 0, seq: [], key: 0,
   }];
   const dot = (v: number[]) => v.reduce((s, x, i) => s + x * weights[i], 0);
@@ -126,6 +133,7 @@ function simulate(skills: { a: Annotation; cost: number; cooldown: number }[], w
 
       skills.forEach((sk, i) => {
         if (sk.a.passive || s.cd[i] > 0 || bud + 1e-9 < sk.cost) return;
+        if (sk.a.maxUses && s.uses[i] >= sk.a.maxUses) return;
         const nd = sk.a.needs && idxOf.has(sk.a.needs.skill) ? idxOf.get(sk.a.needs.skill)! : -1;
         if (nd >= 0) {
           const lu = s.last[nd];
@@ -136,6 +144,7 @@ function simulate(skills: { a: Annotation; cost: number; cooldown: number }[], w
         const cd = s.cd.slice(); cd[i] = sk.cooldown + 1;
         const last = s.last.slice(); last[i] = t;
         const stacks = s.stacks.slice();
+        const uses = s.uses.slice(); uses[i]++;
         const bonus = s.bonus.map((b) => ({ ...b }));
         let heur = 0;
         const st = sk.a.stack;
@@ -148,7 +157,7 @@ function simulate(skills: { a: Annotation; cost: number; cooldown: number }[], w
         }
         const total = base + dot(v);
         next.push({
-          cd: advance(cd), bud: bud - sk.cost, last, stacks, bonus, total, vec: cvec,
+          cd: advance(cd), bud: bud - sk.cost, last, stacks, uses, bonus, total, vec: cvec,
           spent: s.spent + sk.cost, seq: [...s.seq, i], key: total + heur,
         });
       });
@@ -168,7 +177,11 @@ export interface CharacterSim {
 }
 
 export function simulateCharacter(c: Character, ann: Annotation[]): CharacterSim {
-  const skills = c.skills.map((s, i) => ({ a: ann[i], cost: chakraCost(s.cost), cooldown: s.cooldown }));
+  const skills = c.skills.map((s, i) => ({
+    a: ann[i],
+    cost: chakraCost(s.cost) + (ann[i].extraCost ?? 0),
+    cooldown: Math.max(s.cooldown, ann[i].cdOverride ?? 0),
+  }));
   const perStat = {} as Record<Stat, number>;
   STATS.forEach((st, k) => {
     const w = [0, 0, 0, 0, 0]; w[k] = 1;
@@ -228,6 +241,9 @@ export function cleanAnnotation(raw: Partial<Annotation> & { id: string; skill: 
     stack, needs,
     reliability: Math.min(1, Math.max(0.3, num(raw.reliability, 1))),
     note: String(raw.note ?? ''),
+    extraCost: Math.max(0, num(raw.extraCost)),
+    cdOverride: Math.max(0, num(raw.cdOverride)),
+    maxUses: raw.maxUses ? Math.max(1, num(raw.maxUses)) : undefined,
     source: raw.source ?? 'agent',
   };
 }

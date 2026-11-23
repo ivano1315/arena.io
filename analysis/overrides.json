@@ -1,0 +1,144 @@
+{
+  "_readme": "Manual corrections applied on top of the agents' annotations by scripts/merge-analysis.mjs. Keys are 'character id::skill name'; fields replace the agent's. extraCost = chakra the game text adds on top of the listed cost; cdOverride = minimum cooldown implied by the text.",
+  "female-animal-path-pein-(s)::Animal Path Summoning": {
+    "extraCost": 2,
+    "cdOverride": 3,
+    "note": "Costs 1 extra random chakra per animal (about 2 used); animals locked out 3 turns after."
+  },
+  "female-animal-path-pein-(s)::Rampaging Buffalo": {
+    "cdOverride": 4,
+    "needs": {
+      "skill": "Animal Path Summoning",
+      "window": 3
+    },
+    "note": "Pre-selects an animal: it cannot be chosen again for 3 turns after it is summoned."
+  },
+  "female-animal-path-pein-(s)::Venomous Centipede": {
+    "cdOverride": 4,
+    "needs": {
+      "skill": "Animal Path Summoning",
+      "window": 3
+    },
+    "note": "Pre-selects an animal: it cannot be chosen again for 3 turns after it is summoned."
+  },
+  "female-animal-path-pein-(s)::Giant Crab": {
+    "cdOverride": 4,
+    "needs": {
+      "skill": "Animal Path Summoning",
+      "window": 3
+    },
+    "note": "Pre-selects an animal: it cannot be chosen again for 3 turns after it is summoned."
+  },
+  "female-animal-path-pein-(s)::Stampeding Rhino": {
+    "cdOverride": 4,
+    "needs": {
+      "skill": "Animal Path Summoning",
+      "window": 3
+    },
+    "note": "Pre-selects an animal: it cannot be chosen again for 3 turns after it is summoned."
+  },
+  "edo-tensei-kimimaro-(s)::Bone Spikes": {
+    "maxUses": 3,
+    "note": "Stacks with no stated limit; capped at 3 uses as a judgement call."
+  },
+  "edo-tensei-kuriarare-(s)::Wire String": {
+    "maxUses": 3,
+    "note": "Marks one enemy per use, so at most three useful uses."
+  },
+  "edo-tensei-mangetsu-(s)::Impure World Regeneration": {
+    "maxUses": 5,
+    "note": "Text: may only be used 5 times."
+  },
+  "edo-tensei-yagura-(s)::Water Mirror": {
+    "maxUses": 3,
+    "note": "Cannot be used twice on the same target."
+  },
+  "edo-tensei-yagura-(s)::Reflective Mirror": {
+    "cdOverride": 2,
+    "note": "Text: disabled for 2 turns when activated."
+  },
+  "et-sandaime-raikage-(s)::Three Finger Nukite": {
+    "maxUses": 1,
+    "note": "One-time permanent damage reduction that unlocks other skills."
+  },
+  "et-susanoo-itachi-(s)::Edo Tensei Susanoo": {
+    "maxUses": 1,
+    "note": "Auto-triggers once when his health drops to 35 or less."
+  },
+  "four-tail-kyuubi-naruto-(s)::Kyuubi Chakra Gather": {
+    "maxUses": 3,
+    "note": "Text: may only stack 3 times."
+  },
+  "fuuton-naruto-(s)::Wind Destruction": {
+    "cdOverride": 2,
+    "maxUses": 3,
+    "note": "Follow-up to the clone state; not usable every turn."
+  },
+  "hanzo-of-the-salamander-(s)::Explosive Tag Wrap": {
+    "maxUses": 1,
+    "note": "Triggers once, when Ibuse is killed."
+  },
+  "hiruko-sasori-(s)::Puppet Reveal": {
+    "maxUses": 1,
+    "note": "Text: can only be used once."
+  },
+  "inuzuka-kiba::Dynamic Air Marking": {
+    "maxUses": 3,
+    "note": "Cannot be reapplied to an enemy already marked."
+  },
+  "inuzuka-kiba-(s)::Man Beast Clone": {
+    "maxUses": 1,
+    "note": "Permanent transformation into Enhanced Garouga."
+  },
+  "shinobi-alliance-neji-(s)::A Fate of His Own": {
+    "maxUses": 1,
+    "note": "Text: can only be used once."
+  },
+  "utakata-(s)::Bubble Prision": {
+    "maxUses": 3,
+    "note": "Permanent damage on one target; three enemies at most."
+  },
+  "raikage-(s)::Lightning Release": {
+    "extraCost": 1.5,
+    "maxUses": 4,
+    "note": "Costs 1 more random chakra each time it is used."
+  },
+  "susanoo-itachi-(s)::Susanoo Activation": {
+    "maxUses": 1,
+    "note": "Cannot be used while active; one activation per game."
+  },
+  "temari-(s)::Fan Increase Moon": {
+    "maxUses": 3,
+    "note": "Text: can only be used 3 times."
+  },
+  "tenten-(s)::Weapon Upgrade": {
+    "cdOverride": 1,
+    "note": "Replaced by another skill for 1 turn after use."
+  },
+  "tsunade::Creation Rebirth": {
+    "needs": {
+      "skill": "Revitalizing Heal",
+      "window": 1
+    },
+    "cdOverride": 2,
+    "reliability": 0.7,
+    "note": "Only fires when Revitalizing Heal is used on herself."
+  },
+  "white-zetsu-(s)::Clones Assault": {
+    "extraCost": 1,
+    "cdOverride": 1,
+    "note": "Costs 1 additional random chakra at 3/6/9 clones."
+  },
+  "yahiko-(s)::Final Command": {
+    "maxUses": 1,
+    "note": "Only below 25 health and kills Yahiko; once per game."
+  },
+  "kankuro-(s)::Salamander Puppet": {
+    "cdOverride": 2,
+    "note": "One-turn protection; not meant to be chained every turn."
+  },
+  "akimichi-chouji::Akimichi Pills": {
+    "maxUses": 3,
+    "note": "Three pills in total; each costs 15 health (self-damage is not scored)."
+  }
+}

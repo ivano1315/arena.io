@@ -36,6 +36,19 @@ for (const f of files) {
 }
 for (const key of expected.keys()) if (!merged[key]) problems.missing.push(key);
 
+// manual corrections on top of the agents' numbers
+const overridesFile = path.join(root, 'analysis', 'overrides.json');
+let overridden = 0;
+if (fs.existsSync(overridesFile)) {
+  const overrides = JSON.parse(fs.readFileSync(overridesFile, 'utf8'));
+  for (const [key, patch] of Object.entries(overrides)) {
+    if (key.startsWith('_')) continue;
+    if (!merged[key]) { problems.unknown.push(`overrides: ${key}`); continue; }
+    merged[key] = { ...merged[key], ...patch };
+    overridden++;
+  }
+}
+
 fs.writeFileSync(path.join(root, 'src', 'data', 'analysis.json'), JSON.stringify(merged));
-console.log(`annotated ${Object.keys(merged).length} / ${expected.size} skills from ${files.length} files`);
+console.log(`annotated ${Object.keys(merged).length} / ${expected.size} skills from ${files.length} files, ${overridden} manual overrides`);
 for (const [k, v] of Object.entries(problems)) if (v.length) console.log(`${k}: ${v.length}\n  ` + v.slice(0, 12).join('\n  '));
