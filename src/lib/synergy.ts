@@ -24,6 +24,8 @@ export interface Features {
   removesHarm: boolean;
   aoeCount: number;
   colors: Record<Exclude<Chakra, 'random'>, number>;
+  /** How many chakra of the "random" kind the skills ask for (any type pays for them). */
+  random: number;
 }
 
 const RE = {
@@ -45,8 +47,10 @@ function featuresOf(c: Character, r: RankedCharacter): Features {
   const pierce = sum((x) => (x.a.dmgKind === 'piercing' || x.a.dmgKind === 'affliction' ? dmg(x) : 0));
   const text = (re: RegExp) => c.skills.filter((s) => re.test(s.description)).length;
   const colors = { taijutsu: 0, bloodline: 0, ninjutsu: 0, genjutsu: 0 } as Features['colors'];
-  for (const s of c.skills) for (const k of s.cost) if (k !== 'random') colors[k]++;
+  let random = 0;
+  for (const s of c.skills) for (const k of s.cost) { if (k === 'random') random++; else colors[k]++; }
   return {
+    random,
     id: c.id,
     ctrlTotal: sum((x) => x.a.ctrl),
     defTotal: sum((x) => x.a.def),
@@ -166,18 +170,20 @@ export class Matchups {
     }
     const coverage = cs / cw;
 
+    // Chakra arrives at random across the four types, so a team whose skills ask for every type uses what it
+    // draws, while a team that leans on one type starves. "Random" costs can be paid with anything, so they count
+    // as an even demand over the four types. fit = 100 when demand is perfectly even, 0 when all on one type.
     const col = { taijutsu: 0, bloodline: 0, ninjutsu: 0, genjutsu: 0 };
     for (const id of ids) {
       const f = this.features.get(id)!;
-      const t = Object.values(f.colors).reduce((a, b) => a + b, 0) || 1;
-      for (const k of Object.keys(col) as (keyof typeof col)[]) col[k] += f.colors[k] / t;
+      for (const k of Object.keys(col) as (keyof typeof col)[]) col[k] += f.colors[k] + f.random / 4;
     }
     const total = Object.values(col).reduce((a, b) => a + b, 0) || 1;
-    // concentrated colour demand fits better than demand spread over all four colours (normalised entropy)
-    const entropy = -Object.values(col).reduce((a, v) => (v > 0 ? a + (v / total) * Math.log(v / total) : a), 0) / Math.log(4);
-    const fit = 100 - 45 * entropy;
+    const share = { taijutsu: col.taijutsu / total, bloodline: col.bloodline / total, ninjutsu: col.ninjutsu / total, genjutsu: col.genjutsu / total };
+    const tvd = 0.5 * Object.values(share).reduce((a, p) => a + Math.abs(p - 0.25), 0); // 0 (even) .. 0.75 (one type)
+    const fit = 100 * (1 - tvd / 0.75);
 
-    return { ids, score: 0.45 * power + 0.4 * coverage + 0.15 * fit, power, coverage, fit, cover, colors: col };
+    return { ids, score: 0.45 * power + 0.4 * coverage + 0.15 * fit, power, coverage, fit, cover, colors: share };
   }
 
   /** Best trios containing `anchors` (0, 1 or 2 ids). */

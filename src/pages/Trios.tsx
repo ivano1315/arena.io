@@ -146,7 +146,7 @@ export default function Trios() {
                   <div className="trio-side">
                     <p className="fine">{t('trios.power')} <strong>{num(tr.power, 0)}</strong> · {t('trios.coverage')} <strong>{num(tr.coverage, 0)}</strong> · {t('trios.fit')} <strong>{num(tr.fit, 0)}</strong></p>
                     <div className="cost">
-                      {CHAKRA_COLORS.filter((k) => tr.colors[k] > 0.35).map((k) => <ChakraPip key={k} type={k} />)}
+                      {CHAKRA_COLORS.filter((k) => tr.colors[k] >= 0.15).map((k) => <ChakraPip key={k} type={k} />)}
                     </div>
                     {tr.ids.filter((id) => !picked.includes(id)).map((id) => {
                       const gaps = mu.gapsFilled(id, tr.ids.filter((o) => o !== id));
