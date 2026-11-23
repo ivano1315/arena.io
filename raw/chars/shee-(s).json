@@ -1,0 +1,50 @@
+{
+ "slug": "shee-(s)",
+ "name": "Shee (S)",
+ "portrait": "https://i.imgur.com/lBS7djv.png",
+ "description": "Shee (S) is a jounin of the Hidden Cloud Village and a sensor. Shee is one of the Raikage's most reliable shinobi.",
+ "unlock": "Mission: A Respected Cloud Ninja",
+ "skills": [
+  {
+   "name": "Sensor Awareness",
+   "image": "https://i.imgur.com/4mYooCj.png",
+   "description": "Shee uses his sensor, dealing 25 damage to one enemy. For 1 turn, if a new harmful skill is used on Shee, he will become invulnerable for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Ally Heal",
+   "image": "https://i.imgur.com/oRKPqvn.png",
+   "description": "Using Ally Heal, Shee heals himself or an ally for 25 health.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Lightning Illusion Flash",
+   "image": "https://i.imgur.com/U3MPxDG.png",
+   "description": "Shee blinds one enemy with a lightning-based illusion, dealing 35 damage to them and making them invulnerable to helpful skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Defensive Reaction",
+   "image": "https://i.imgur.com/4XC8A04.png",
+   "description": "This skill makes Shee (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

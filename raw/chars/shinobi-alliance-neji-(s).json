@@ -1,0 +1,65 @@
+{
+ "slug": "shinobi-alliance-neji-(s)",
+ "name": "Shinobi Alliance Neji (S)",
+ "portrait": "https://i.imgur.com/yhSVMbC.png",
+ "description": "During the Fourth Great Ninja War, Neji fights alongside the Allied Shinobi Forces, using his mastery of the Byakugan and Gentle Fist to protect his comrades. Despite his chakra reserves gradually wearing thin, Neji remains determined to defend those he cares about.",
+ "unlock": "Mission: The Genius' Final Stand",
+ "skills": [
+  {
+   "name": "Heavenly Palm Rotation",
+   "image": "https://i.imgur.com/C4YUHeb.png",
+   "description": "By refining his mastery of the Gentle Fist, Neji performs an enhanced rotation, dealing 20 damage to all enemies and becoming invulnerable for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Airborne Palm Crush",
+   "image": "https://i.imgur.com/pJCdThp.png",
+   "description": "Neji unleashes a powerful wave of chakra that strikes an enemy from a distance. The enemy takes 30 damage and has 1 random chakra removed from them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Gentle Fist Art: One Blow Body",
+   "image": "https://i.imgur.com/aNWajGT.png",
+   "description": "Neji releases a powerful burst of chakra from every tenketsu in his body, removing every harmful skill from himself. His skills will cost 1 less random chakra for 1 turn.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Eight Trigrams: Vanishing Step",
+   "image": "https://i.imgur.com/VKiHKtQ.png",
+   "description": "This skill makes Neji invulnerable for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Passive: The Price of Perseverance",
+   "image": "https://i.imgur.com/SrgnMgX.png",
+   "description": "As the battle drags on, Neji pushes his chakra network beyond its limits. Everytime he uses a new skill, the base cooldowns of all his skills are increased by 1 turn (stacks). Once he uses 6 skills in the game, 'Heavenly Palm Rotation' and 'Airborne Palm Crush' will lose their non-damage effects and 'Eight Trigrams: Vanishing Step' is permanently replaced by 'A Fate of His Own'.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Instant."
+  },
+  {
+   "name": "A Fate of His Own",
+   "image": "https://i.imgur.com/jmX5THV.png",
+   "description": "Neji defies his own destiny and places himself between an ally and deadly attacks. For the rest of the game, every harmful skill used on that ally will be reflected to Neji. This skill can only be used once.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

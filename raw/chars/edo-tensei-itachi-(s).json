@@ -1,0 +1,81 @@
+{
+ "slug": "edo-tensei-itachi-(s)",
+ "name": "Edo Tensei Itachi (S)",
+ "portrait": "https://i.imgur.com/vH1YXnT.png",
+ "description": "One of the five past Akatsuki members reanimated by Kabuto during the Fourth Shinobi World War, Itachi sees this as an opportunity to pursue his true goals and set things right with Naruto and Sasuke. Freeing himself from Kabuto's shackles, Itachi unleashes the full power of the Uchiha with his deathless body.",
+ "unlock": "Mission: A Chance at Redemption",
+ "skills": [
+  {
+   "name": "Phoenix Flower Shuriken",
+   "image": "https://i.imgur.com/8NnsH3z.png",
+   "description": "Itachi unleashes a volley of fire-infused shuriken, dealing 10 affliction damage to all enemies. For 1 turn, if they use a new harmful skill, they will have 'Phoenix Flower Shuriken' re-applied on them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Demonic Illusion: Mirage Crow",
+   "image": "https://i.imgur.com/t9WmNqD.png",
+   "description": "For 2 turns, one enemy will be unable to reduce damage or become invulnerable and will take 15 damage each turn. During this time, Itachi will become invulnerable to that enemy's skills.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Action, Melee."
+  },
+  {
+   "name": "Passive: Edo Tensei Sharingan",
+   "image": "https://i.imgur.com/zQmLQIZ.png",
+   "description": "Each turn, this skill will randomly switch between 'Izanami', 'Itachi Mangekyou Sharingan', and 'Itachi Kotoamatsukami'. Each of these skills can only be used once per game. This passive is invisible.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Itachi Block",
+   "image": "https://i.imgur.com/dRzvq1D.png",
+   "description": "This skill makes Edo Tensei Itachi (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Edo Tensei Mangekyou Sharingan",
+   "image": "https://i.imgur.com/ULhIp3y.png",
+   "description": "This skill can only be used once to apply both 'Amaterasu' and 'Tsukuyomi' on an enemy; This skill ends when Itachi killed. Amaterasu: Deals 20 affliction damage instantly, and 5 affliction permanently. Tsukuyomi: Fully stuns the enemy's skills for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Edo Tensei Kotoamatsukami",
+   "image": "https://i.imgur.com/X23a3RH.png",
+   "description": "This skill can only be used once to target Itachi or an ally permanently. The next time the marked target's health drops to 5 or less, they will instantly heal to 40 health, and then heal 5 health for the following 3 turns. This skill is invisible until triggered.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Izanami",
+   "image": "https://i.imgur.com/tFHZSah.png",
+   "description": "This skill can only be used once to target an enemy permanently. The next time that enemy uses a new skill, they will be countered and this skill will end. If successful, the countered skill will be stunned for 3 turns; This duration is increased by the skill's current cooldown. This skill is invisible until triggered.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  }
+ ]
+}

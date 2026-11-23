@@ -1,0 +1,49 @@
+{
+ "slug": "uchiha-itachi",
+ "name": "Uchiha Itachi",
+ "portrait": "https://i.imgur.com/DXGV0Uz.png",
+ "description": "The only other surviving Uchiha, Itachi is a master of doujutsu, an S-Rank missing nin, and a member of Akatsuki, having been partnered with Hoshigaki Kisame. Despite being powerful, Itachi is slowly going blind, making his abilities weaker, but when Itachi activates his Sharingan he becomes an unstoppable force of pure power.",
+ "unlock": "Mission: S-Rank Criminal Itachi!",
+ "skills": [
+  {
+   "name": "Mangekyo Sharingan",
+   "image": "https://i.imgur.com/4o5RMUj.png",
+   "description": "Itachi becomes invulnerable, enhancing 'Amaterasu' and 'Tsukuyomi', increasing their cooldowns by 2, and doubling their costs. During this time, Itachi will receive 15 affliction damage a turn, which cannot be ignored, and will ignore healing effects. This skill can be used again for free to cancel it.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Mental, Instant, Affliction*."
+  },
+  {
+   "name": "Amaterasu",
+   "image": "https://i.imgur.com/Ta3ymyS.png",
+   "description": "Itachi burns one enemy with his flames, dealing 15 affliction damage to them and, each following turn, they will receive 10 affliction damage a turn. This skill does not stack. During 'Mangekyou Sharingan', this skill will deal 30 initial affliction damage and target all enemies. Ends if Itachi dies.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Tsukuyomi",
+   "image": "https://i.imgur.com/Nmdk6oj.png",
+   "description": "Itachi mentally tortures one enemy for 3 days and nights in a matter of seconds, dealing 20 damage to them and stunning them for 1 turn. If used during 'Mangekyou Sharingan', this skill will last 3 turns.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Sharingan Insight",
+   "image": "https://i.imgur.com/YxNILAJ.png",
+   "description": "This skill makes Uchiha Itachi invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

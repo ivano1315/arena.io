@@ -1,0 +1,62 @@
+{
+ "slug": "masked-man",
+ "name": "Masked Man",
+ "portrait": "https://i.imgur.com/zp0TERK.png",
+ "description": "Not much is known about the Masked Man, other than his uncontrollable hatred for the Leaf Village. After extracting the Kyuubi from Kushina, Masked Man is able to summon the Nine Tails Beast into the battlefield, while also being able to use his other unknown techniques.",
+ "unlock": "Mission: Masked Man vs Yondaime Minato",
+ "skills": [
+  {
+   "name": "Strange Jutsu",
+   "image": "https://i.imgur.com/pTLohi4.png",
+   "description": "Masked Man isolates himself and one enemy from the battlefield, *making them both invulnerable to every characters except each other for 3 turns; This effect cannot be ignored. During this time, that enemy will take 15 damage each turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Action, *Instant, Melee."
+  },
+  {
+   "name": "Chain Assault",
+   "image": "https://i.imgur.com/5N1uOWp.png",
+   "description": "Producing chains from his wrists, Masked Man deals 20 damage to one enemy, reducing their non-affliction damage by 10 for 1 turn. This skill deals 30 damage if they are affected by 'Strange Jutsu'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Summoning: Kyuubi",
+   "image": "https://i.imgur.com/lfO8e0S.png",
+   "description": "Masked Man may summon Kyuubi if he has 50 health or less, granting himself 40 permanent points of destructible defense. While he has this destructible defense, this skill will be replaced by 'Summoned Kyuubi: Bijuudama'.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Masked Man Block",
+   "image": "https://i.imgur.com/BLdXQ3T.png",
+   "description": "This skill makes Masked Man invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Summoned Kyuubi: Bijuudama",
+   "image": "https://i.imgur.com/G5lZyNP.png",
+   "description": "Kyuubi gathers a massive sphere of chakra and fires it at all enemies dealing 35 piercing damage to them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "edo-tensei-ginkaku-(s)",
+ "name": "Edo Tensei Ginkaku (S)",
+ "portrait": "https://i.imgur.com/KCSEBsR.png",
+ "description": "Edo Tensei Ginkaku (S) is one half of the legendary gold and silver brothers of the Hidden Cloud Village. They were the most notorious criminals in the history of the Hidden Cloud.",
+ "unlock": "Mission: The Silver Brother",
+ "skills": [
+  {
+   "name": "Shichiseiken Slash",
+   "image": "https://i.imgur.com/NwtZWJW.png",
+   "description": "Ginkaku deals 20 piercing damage to one enemy. For this turn, any new stun effects used on that enemy will last 1 additional turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Silence is Golden",
+   "image": "https://i.imgur.com/kM5gxCn.png",
+   "description": "Ginkaku politely approaches an enemy, dealing 10 piercing damage to that enemy and stunning their skills for 1 turn. During this time, that enemy will become invulnerable to helpful skills and will receive 5 additional melee damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Benihisago",
+   "image": "https://i.imgur.com/cv4JVMX.png",
+   "description": "Ginkaku targets one enemy, selecting one random skill from that enemy for 3 turns. The next time that enemy uses the selected skill, they will be countered and Shichiseiken Slash will deal 5 additional damage to the countered enemy permanently. The selected skill is invisible.",
+   "cooldown": "3",
+   "energy": [],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Shichiseiken Defense",
+   "image": "https://i.imgur.com/xjsL8vq.png",
+   "description": "This skill makes Edo Tensei Ginkaku (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

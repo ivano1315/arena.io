@@ -1,0 +1,59 @@
+{
+ "slug": "susanoo-sasuke-(s)",
+ "name": "Susanoo Sasuke (S)",
+ "portrait": "https://i.imgur.com/8EyNW0H.png",
+ "description": "Sasuke takes control of the powerful Susano'o, achieving a high level of strength with an unimaginable impenetrable defense. He can also still use other techniques of his Mangekyo Sharingan.",
+ "unlock": "Mission: Curse of the Uchiha",
+ "skills": [
+  {
+   "name": "Sasuke Susano'o",
+   "image": "https://i.imgur.com/IvPeIEb.png",
+   "description": "Using his Susanoo, Sasuke gains 50 points of destructible defense permanent and may use his skills. During this time, this skill is replaced and Sasuke will ignore any effects that destroy destructible defense. When this defense is destroyed, Sasuke will be stunned for 2 turns.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Susano'o Arrow",
+   "image": "https://i.imgur.com/ts2DJlr.png",
+   "description": "Using his Susano'o bow, Sasuke destroys all destructible defense of one enemy and deals 20 piercing damage and an additional 5 damage for each 10 points of destructible defense that 'Sasuke Susano'o' currently has. This skill requires 'Sasuke Susano'o'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Spreading Amaterasu",
+   "image": "https://i.imgur.com/CrxZrrj.png",
+   "description": "Susanoo Sasuke deals 2 affliction damage to one enemy permanently. This skill will double its damage everytime that enemy uses a new skill. This skill cannot be removed and it requires 'Sasuke Susano'o'. This skill will have its cooldown reset if the enemy target is killed.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Mangekyo Insight",
+   "image": "https://i.imgur.com/f9ZJ3KY.png",
+   "description": "This skill makes Susanoo Sasuke (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Sasuke Mangekyo Sharingan",
+   "image": "https://i.imgur.com/aoX9e2o.png",
+   "description": "Sasuke activates his Mangekyou Sharingan and gains 25% unpierceable damage reduction until 'Sasuke Susano'o' destructible defense is destroyed. When this skill is used, the cooldown of 'Spreading Amaterasu' is reset.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

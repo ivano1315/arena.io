@@ -1,0 +1,51 @@
+{
+ "slug": "naraka-path-pein-(s)",
+ "name": "Naraka Path Pein (S)",
+ "portrait": "https://i.imgur.com/mkVVxYO.png",
+ "description": "Naraka Path Pein (S) is one of the six paths of Pein. This path is able to interrogate it's enemies at will. Naraka Path Pein (S) can also give life as well as take it.",
+ "unlock": "Mission: Naraka Path",
+ "skills": [
+  {
+   "name": "Outer Path",
+   "image": "https://i.imgur.com/4aboIoQ.png",
+   "description": "Naraka Path summons the Outer Path, dealing 10 affliction damage to all enemies for 3 turns. During this time, 'Judgement' can be used.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Action, Ranged."
+  },
+  {
+   "name": "Judgement",
+   "image": "https://i.imgur.com/xf6e75f.png",
+   "description": "Naraka executes an enemy affected by 'Outer Path', stealing 35 health from them. For 1 turn, that enemy will ignore healing effects.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Melee."
+  },
+  {
+   "name": "Rejuvenation",
+   "image": "https://i.imgur.com/zaX6YtB.png",
+   "description": "Naraka Path uses Rejuvination on himself or an ally, healing them for 25 health and removing all affliction skills from them. This skill can be used on dead allies. If used on a dead ally, 'Rejuvination' will have its cost increased by 1 genjutsu chakra and heal increased by 15 permanently.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Chakra Rod Deflection",
+   "image": "https://i.imgur.com/Ry4Xmau.png",
+   "description": "This skill makes Naraka Path Pein (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

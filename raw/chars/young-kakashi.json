@@ -1,0 +1,47 @@
+{
+ "slug": "young-kakashi",
+ "name": "Young Kakashi",
+ "portrait": "https://i.imgur.com/Jgctdrf.png",
+ "description": "A jounin at the age of 13 and the son of the legendary White Fang, Kakashi is a member of Team Minato. Using his early ninjutsu, and borrowed sharingan, Kakashi can fight any adult on an equal level.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "White Fang Slash",
+   "image": "https://i.imgur.com/IpdntOA.png",
+   "description": "Using his sword, Young Kakashi deals 20 piercing damage to one enemy. For 1 turn, that enemy will deal 5 less non-affliction damage. The following turn, Young Kakashi's skills will deal 10 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Amateur Raikiri",
+   "image": "https://i.imgur.com/DFBg2VL.png",
+   "description": "Using a weaker form of his signature jutsu, Young Kakashi deals 25 piercing damage to one enemy. For 1 turn, that enemy will deal 5 less non-affliction damage. The following turn, Young Kakashi's skills will deal 10 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Implanted Sharingan",
+   "image": "https://i.imgur.com/nBwjX6M.png",
+   "description": "For 1 turn, if one enemy uses a skill that removes or steals chakra, Kakashi will gain 1 random chakra; if they use a skill that stuns, Kakashi's skills will stun for 1 turn; if they use a skill that deals damage, Kakashi will deal 10 additional damage for 1 turn. This skill is invisible and ends when triggered.",
+   "cooldown": "1",
+   "energy": [],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Sword Parry",
+   "image": "https://i.imgur.com/2L2GQSA.png",
+   "description": "This skill makes Young Kakashi invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "nara-shikaku-(s)",
+ "name": "Nara Shikaku (S)",
+ "portrait": "https://i.imgur.com/zk8rpMS.png",
+ "description": "The father of Nara Shikamaru, and the head of the Nara clan, Shikaku is a cool-headed Jounin of Konoha who will go to any lengths to protect his friends and family. In battle, Shikaku is merciless, combining his impressive shadow imitation skills with his unparalleled intellect to grab victory for his team.",
+ "unlock": "Mission: Intellect and Shadows",
+ "skills": [
+  {
+   "name": "Master Shadow Imitation",
+   "image": "https://i.imgur.com/daGBuKS.png",
+   "description": "Shikaku grabs an enemy with his shadow, forcing their body to do as he pleases. That enemy will take 20 damage and have their non-mental skills stunned for 2 turns. The following turn, this skill will be replaced by 'Shadow Dispersion'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Control, Ranged."
+  },
+  {
+   "name": "Black Spider Lily",
+   "image": "https://i.imgur.com/OTNQw5N.png",
+   "description": "Shikaku extends his shadows out to his enemies. For 3 turns, Shikaku's skills will deal an additional 10 damage to them, and each time they use a new stun skill, then for 3 turns the next time Shikaku stuns that enemy, they will be stunned for 1 additional turn.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Problem Analysis",
+   "image": "https://i.imgur.com/SrDeUzW.png",
+   "description": "Shikaku targets himself or one ally for 1 turn, and the first new harmful non-affliction damage skill that is used on them will deal no damage and that ally will gain destructible defense equal to the original damage of that skill. This skill is invisible.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Human Barricade",
+   "image": "https://i.imgur.com/Nyx7LfT.png",
+   "description": "This skill makes Nara Shikaku (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Shadow Dispersion",
+   "image": "https://i.imgur.com/474zyLo.png",
+   "description": "Nara Shikaku targets all enemies not affected by 'Master Shadow Imitation', stunning their non-mental skills for 1 turn and dealing 20 damage to them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  }
+ ]
+}

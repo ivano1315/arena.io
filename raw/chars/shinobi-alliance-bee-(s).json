@@ -1,0 +1,60 @@
+{
+ "slug": "shinobi-alliance-bee-(s)",
+ "name": "Shinobi Alliance Bee (S)",
+ "portrait": "https://i.imgur.com/BLN8TdO.png",
+ "description": "After his encounter with Kisame, in which the sentient weapon took a liking to his chakra, Killer Bee became the owner of the legendary Shark-Skin Blade, Samehada. With it at his side, Bee can use his arsenal of swords more efficiently, combining them with Samehada's ability to absorb chakra.",
+ "unlock": "Mission: The Eight-Tails at War",
+ "skills": [
+  {
+   "name": "Sting Pierce",
+   "image": "https://i.imgur.com/5JiYtYD.png",
+   "description": "Bee deals 15 piercing damage to one enemy, marking them for 3 turns. For 1 turn, Bee will nullify the first harmful physical or chakra skill used on him. This skill cannot be used on an already marked enemy.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Samehada Monstruous Drain",
+   "image": "https://i.imgur.com/sNKe6IC.png",
+   "description": "Bee targets all enemies marked by 'Sting Pierce', stealing 15 health and 1 bloodline or ninjutsu chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Hachibi Chakra Cloak",
+   "image": "https://i.imgur.com/7jU7DeH.png",
+   "description": "Bee releases his jinchuuriki chakra, gaining 20 points of destructible defense. During this time, he will heal 10 health each turn. When destroyed, this skill will end and, for 1 turn, Bee's entire team will deal 5 additional non-affliction damage. While active, this skill will be replaced by 'Fatal Sting'.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Bee Block",
+   "image": "https://i.imgur.com/nhPcsFS.png",
+   "description": "This skill makes Shinobi Alliance Bee (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Fatal Sting",
+   "image": "https://i.imgur.com/bLqa2IA.png",
+   "description": "Bee deals 25 piercing damage to one enemy and reduces their non-affliction damage to a maximum of 10 for 1 turn. If that enemy is marked by 'Sting Pierce', they will receive 15 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

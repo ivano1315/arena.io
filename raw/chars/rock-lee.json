@@ -1,0 +1,62 @@
+{
+ "slug": "rock-lee",
+ "name": "Rock Lee",
+ "portrait": "https://i.imgur.com/LUA3QK2.jpg",
+ "description": "A member of team Gai; Lee is a genin with no talent at all in ninjutsu or genjutsu, so he has focused his life all on taijutsu. With his powerful hand to hand techniques, Lee can crush any defense with his immense power.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "High Speed Taijutsu",
+   "image": "https://i.imgur.com/roHIgPj.jpg",
+   "description": "Lee deals 10 damage to one enemy for 3 turns. During this time, Lee will deal 10 additional damage with 'Front Lotus' and gain 5 points of damage reduction.* This skill stacks and will deal 10 additional damage during 'Fifth Gate Opening'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Melee, Action."
+  },
+  {
+   "name": "Front Lotus",
+   "image": "https://i.imgur.com/xTW0rSg.jpg",
+   "description": "Opening the first gate, Lee uses a high-powered taijutsu to deal 35 damage to one enemy. This skill will deal 10 additional damage for each 'High Speed Taijutsu'. During 'Fifth Gate Opening', this skill will deal 15 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Melee, Instant."
+  },
+  {
+   "name": "Fifth Gate Opening",
+   "image": "https://i.imgur.com/P9VlwlX.jpg",
+   "description": "Lee removes all harmful effects from himself, and for 2 turns, he will be invulnerable to all harmful skills. The following 2 turns, this skill will be replaced by 'Final Lotus' and when Lee uses a new skill, he will receive 10 damage.* Lee cannot die from this skill.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Mental, Affliction*, Instant."
+  },
+  {
+   "name": "Lee Block",
+   "image": "https://i.imgur.com/FzYdXrC.jpg",
+   "description": "This skill makes Rock Leeinvulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Final Lotus",
+   "image": "https://i.imgur.com/Zyh8oLG.png",
+   "description": "Lee uses his strongest ability, expending all his chakra and dealing 80 damage to one enemy'. Afterwards, 'Fifth Gate Opening' will end.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Melee, Instant."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "edo-tensei-jinpachi-(s)",
+ "name": "Edo Tensei Jinpachi (S)",
+ "portrait": "https://i.imgur.com/ljV9Yzu.png",
+ "description": "Edo Tensei Jinpachi (S) is one of the previous Seven Swordsmen of the Mist and a particularly cruel individual.",
+ "unlock": "Mission: A Psychotic Swordsman",
+ "skills": [
+  {
+   "name": "Explosive Tag Primer",
+   "image": "https://i.imgur.com/Ko68Yvv.png",
+   "description": "ET Jinpachi gains 10 permanent destructible defense. The next use of 'Silent Explosion' will deal 15 chakra piercing damage* to the target. If an enemy destroys the defense of this skill, they will take 15 piercing damage* and this skill will end.",
+   "cooldown": "2",
+   "energy": [],
+   "classes": "Chakra, Instant, Melee*."
+  },
+  {
+   "name": "Silent Explosion",
+   "image": "https://i.imgur.com/RKv7ubV.png",
+   "description": "Jinpachi deals 20 piercing damage to one enemy and reduces their non-affliction damage by 5 for 1 turn. If 'Explosive Tag Primer' is used on the last turn, this skill will cost 1 additional random chakra for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Shibuki Explosion Chain",
+   "image": "https://i.imgur.com/DdGU68F.png",
+   "description": "ET Jinpachi gains 10 permanent destructible defense. The next use of 'Silent Explosion' will deal 10 permanent affliction damage* to the target. If an enemy destroys the defense of this skill, they will take 10 affliction damage* permanently and this skill will end.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee*."
+  },
+  {
+   "name": "Shibuki Defense",
+   "image": "https://i.imgur.com/rmCtifZ.png",
+   "description": "This skill makes Edo Tensei Jinpachi (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

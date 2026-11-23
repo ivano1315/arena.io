@@ -1,0 +1,53 @@
+{
+ "slug": "shinobi-alliance-tenten-(s)",
+ "name": "Shinobi Alliance Tenten (S)",
+ "portrait": "https://i.imgur.com/P6mlV26.png",
+ "description": "During the Fourth Shinobi World War, Tenten joins the Shinobi Alliance and takes possession of the Bashousen, one of the treasured tools of the Sage of the Six Paths. By channeling large amounts of chakra through the fan, she can unleash elemental devastation or adapt its power to protect her allies.",
+ "unlock": "Mission: Wielder of the Bashousen",
+ "skills": [
+  {
+   "name": "Bashousen: Coil of Fire",
+   "image": "https://i.imgur.com/uN0jdru.png",
+   "description": "Using the Sage of the Six Paths' legendary leaf fan, Tenten blasts her enemies with a sea of raging fire, dealing 15 damage and 15 affliction damage* to them. The following 3 turns, they will take 5 affliction damage.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, *Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Bashousen: Coil of Wind",
+   "image": "https://i.imgur.com/5k03jVr.png",
+   "description": "Using the Bashousen to throw a gust of wind, the following turn all non-mental skills used on Tenten or her team will be reflected back to the enemy. This skill is invisible.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Bashousen: Strike",
+   "image": "https://i.imgur.com/DKeGeKN.png",
+   "description": "If used on an enemy, deals 15 affliction damage. If used on herself, or an ally, grants 15 points of destructible defense. If used after 'Bashousen: Coil of Fire', this will also deal 5 affliction damage permanently. If used after 'Bashousen: Coil of Wind', this will also reflect non-mental skills for 1 turn; Invisible.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Reflective Paper Bombs",
+   "image": "https://i.imgur.com/tky4LDV.png",
+   "description": "This skill makes Shinobi Alliance Tenten (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "uzumaki-naruto",
+ "name": "Uzumaki Naruto",
+ "portrait": "https://i.imgur.com/B52DL1t.png",
+ "description": "A Genin from Team 7, Naruto is an orphan with the goal to one day become Hokage. Using his signature move, Shadow Clones, Naruto is able to perform powerful moves such as the Uzumaki Naruto Combo and the Rasengan.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Uzumaki Naruto Combo",
+   "image": "https://i.imgur.com/Uy1TKG3.png",
+   "description": "Naruto's version of the Lion Combo. This skill deals 20 damage to one enemy. During 'Shadow Clones', this skill will deal 10 additional damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Rasengan",
+   "image": "https://i.imgur.com/thNhBRH.png",
+   "description": "Naruto hits one enemy with a ball of chakra, dealing 45 damage to them and stunning their skills for 1 turn. This skill requires 'Shadow Clones'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Shadow Clones",
+   "image": "https://i.imgur.com/98c5RRL.png",
+   "description": "Naruto creates multiple shadow clones hiding his true self. Naruto gains 15 points of damage reduction for 5 turns. During this time, 'Uzumaki Naruto Combo' will deal an additional 10 damage and 'Rasengan' may be used.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Sexy Technique",
+   "image": "https://i.imgur.com/Aue7Pce.png",
+   "description": "This skill makes Uzumaki Naruto invulnerable for 1 turn. During 'Kyuubi's Chakra Awakening', this skill will be replaced by 'Kyuubi's Presence' and will be classed as Mental.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Passive: Kyuubi's Chakra Awakening",
+   "image": "https://i.imgur.com/vU2LIZQ.png",
+   "description": "When Naruto reaches 50 health for the first time, Kyuubi's chakra will awaken, healing Naruto for 5 health every turn permanently. During this time, 'Shadow Clones' is improved and will grant 10 points of unpierceable damage reduction.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Instant."
+  }
+ ]
+}

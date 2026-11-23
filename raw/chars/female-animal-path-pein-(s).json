@@ -1,0 +1,51 @@
+{
+ "slug": "female-animal-path-pein-(s)",
+ "name": "Female Animal Path Pein (S)",
+ "portrait": "https://i.imgur.com/KctmoJL.png",
+ "description": "One of Nagato's Six Paths of Pain, the Female Animal Path is a relentless and tactical combatant who overwhelms her enemies through the summoning of massive, destructive creatures. Calm and emotionless, she specializes in battlefield control, using her summons to pressure multiple opponents at once while remaining difficult to pin down.",
+ "unlock": "Mission: Female Animal Path",
+ "skills": [
+  {
+   "name": "Animal Path Summoning",
+   "image": "https://i.imgur.com/CL8frm9.png",
+   "description": "Female Animal Path summons all pre-selected animals to the battlefield. For each animal summoned, Female Animal Path gains 5 destructible defense. Animals, when summoned, cannot be pre-selected for the following 3 turns. This skill will cost 1 additional random chakra for each pre-selected animal. This skill ignores invulnerability and cannot be countered or reflected.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Rampaging Buffalo",
+   "image": "https://i.imgur.com/CWeyhMz.png",
+   "description": "Pre-selects this animal for the next use of 'Animal Path Summoning'. When active, deals 10 damage to all enemies for 3 turns. During this time, any enemy that does not use a new skill will take another 10 damage. This skill will be replaced by 'Stampeding Rhino'.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Venomous Centipede",
+   "image": "https://i.imgur.com/oWVPAx6.png",
+   "description": "Pre-selects this animal for the next use of 'Animal Path Summoning'. When active, Female Animal Path grants her team 15 points of destructible defense and any enemy that destroys it will take 5 affliction damage* for 3 turns.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Affliction*, Instant."
+  },
+  {
+   "name": "Giant Crab",
+   "image": "https://i.imgur.com/8H6I6Cq.png",
+   "description": "Pre-selects this animal for the next use of 'Animal Path Summoning'. When active, Female Animal Path and her allies become invulnerable to non-affliction skills for 1 turn.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Stampeding Rhino",
+   "image": "https://i.imgur.com/FnrAebv.png",
+   "description": "Pre-selects this animal for the next use of 'Animal Path Summoning'. For 3 turns, each turn a random enemy will take 20 damage and will have their non-mental skills stunned for 1 turn. This skill will be replaced by 'Rampaging Buffalo' after use.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

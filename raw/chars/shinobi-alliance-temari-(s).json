@@ -1,0 +1,52 @@
+{
+ "slug": "shinobi-alliance-temari-(s)",
+ "name": "Shinobi Alliance Temari (S)",
+ "portrait": "https://i.imgur.com/gCW8OWG.png",
+ "description": "At the outset of the Fourth Shinobi World War, Temari is placed in the Fourth Division. Although Gaara is officially in command of the division and Shikamaru is in Gaara's proxy, Temari is the one who leads the division on the battlefield, including personally commanding the division's Wind Release combat unit.",
+ "unlock": "Mission: The Winds of War",
+ "skills": [
+  {
+   "name": "Third Moon Unleash",
+   "image": "https://i.imgur.com/pkik6W0.png",
+   "description": "Temari unleashes her fan with all three moons revealed. For 4 turns, Temari's skilLs will cost 1 less random chakra. During this time, any enemy that uses a new skill on Temari will receive 5 additional damage from her permanently.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Temari Air Slash",
+   "image": "https://i.imgur.com/Dg0om1m.png",
+   "description": "Temari sweeps her fan to create a slicing current of wind. For 1 turn, Temari becomes invulnerable to non-mental skills, deals 15 piercing damage to one enemy and stuns their non-mental skills. The following turn, that enemy will be dealt 15 damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Ranged."
+  },
+  {
+   "name": "Summoning: Kamatari",
+   "image": "https://i.imgur.com/BPoMd3i.png",
+   "description": "Summoning Kamatari, Temari deals 40 piercing damage to one enemy. After used, if the target of this skill is killed, Temari gains 1 random chakra.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Fan Heavy Block",
+   "image": "https://i.imgur.com/BZkHN4g.png",
+   "description": "This skill makes Shinobi Alliance Temari (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

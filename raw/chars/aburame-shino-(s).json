@@ -1,0 +1,60 @@
+{
+ "slug": "aburame-shino-(s)",
+ "name": "Aburame Shino (S)",
+ "portrait": "https://i.imgur.com/tTKpPqk.png",
+ "description": "Still as mysterious and secretive as ever, Shino has improved greatly over the years, learning and practicing with his loyal bugs. With his new found mastery, Shino can disable enemies even harder while slowly waiting for his bugs to erupt from their bodies and destroy them.",
+ "unlock": "Mission: The Konoha Man of Mystery",
+ "skills": [
+  {
+   "name": "Insect Swarm",
+   "image": "https://i.imgur.com/FcaqanX.png",
+   "description": "Shino sends out wave of his insect army at one enemy, dealing 15 affliction damage to them for 3 turns. The following 3 turns, that enemy will be invulnerable to all friendly skills each turn and during this time this skill will be replaced by 'Insect Consumption'.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Action, Ranged."
+  },
+  {
+   "name": "Insect Barricade",
+   "image": "https://i.imgur.com/JIRZUb3.png",
+   "description": "The following turn, the first new harmful skill used on himself or one ally will be countered, 'Parasitic Giant Beetle Infestation' will be placed on the countered enemy and then activated. If this skill does not counter an enemy, Shino will gain 1 Bloodline chakra. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Affliction, Instant."
+  },
+  {
+   "name": "Parasitic Giant Beetle Infestation",
+   "image": "https://i.imgur.com/c5NaVkK.png",
+   "description": "Shino infects one enemy with a small bug. 3 turns after this skill has been used, the bug bursts out, dealing 30 affliction damage to them and activating all other copies of this skill on that enemy. This skill is invisible.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Insect Cocoon",
+   "image": "https://i.imgur.com/Ae7nPxG.png",
+   "description": "This skill makes Aburame Shino (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Insect Consumption",
+   "image": "https://i.imgur.com/w0m7Tt8.png",
+   "description": "Shino commands his insects to drain the chakra of one enemy affected by 'Insect Swarm' stealing 1 random chakra from them and increasing the damage that enemy receives from 'Insect Swarm' by 5 that turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  }
+ ]
+}

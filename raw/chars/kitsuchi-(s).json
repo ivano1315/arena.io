@@ -1,0 +1,50 @@
+{
+ "slug": "kitsuchi-(s)",
+ "name": "Kitsuchi (S)",
+ "portrait": "https://i.imgur.com/UIvCvlp.png",
+ "description": "A jounin of the Hidden Rock Village, Kitsuchi is the father of Kurotsuchi and the Commander of the Second Division of the Allied Shinobi Forces. A calm and disciplined but proud man, Kitsuchi fights aggressively on the front lines, leaving no stone unturned with his various Earth Release techniques.",
+ "unlock": "Mission: The Rocks Second in Command",
+ "skills": [
+  {
+   "name": "Granite Fist",
+   "image": "https://i.imgur.com/hJ7MEsD.png",
+   "description": "Kitsuchi targets one enemy, dealing 20 damage to them. For 1 turn, the non-damage effects of any new skill this enemy uses will be nullified.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Earth Rising Excavation Jutsu",
+   "image": "https://i.imgur.com/K13biUA.png",
+   "description": "Kitsuchi deals 10 damage to all enemies. For 1 turn, Kitsuchi and his allies gain 10 points of unpierceable damage reduction and ignore stun effects.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Earth Sandwich Jutsu",
+   "image": "https://i.imgur.com/YGlE70v.png",
+   "description": "Kitsuchi crushes one enemy between two massive walls of earth, dealing 40 piercing damage to them. For 2 turns, that enemy's non-mental skills will be stunned. Next turn 'Earth Rising Excavation Jutsu' will cost 1 random chakra.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Earth Shelter",
+   "image": "https://i.imgur.com/PZPIMS8.png",
+   "description": "This skill makes Kitsuchi invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

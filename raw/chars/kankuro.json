@@ -1,0 +1,48 @@
+{
+ "slug": "kankuro",
+ "name": "Kankuro",
+ "portrait": "https://i.imgur.com/5uxGoSN.png",
+ "description": "The brother of Gaara, and a master puppeeter, Kankuro is one of the three sand siblings. With his puppets, Kankuro is able to use the varied abilities hidden inside them to attack his enemies, or even protect himself.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Black Secret Machine One Shot",
+   "image": "https://i.imgur.com/dHWzRYI.png",
+   "description": "Kankuro uses two of his puppets to stab one enemy, dealing 30 piercing damage to them. During 'Puppet Preparation', this skill will deal an additional 5 damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Poison Bomb",
+   "image": "https://i.imgur.com/vJFqLIY.png",
+   "description": "One of Kankuro's puppets creates a cloud of smoke, dealing 10 affliction damage to all enemies. During 'Puppet Preparation', this skill will last 1 additional turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Puppet Preparation",
+   "image": "https://i.imgur.com/Kya84CC.png",
+   "description": "Kankuro prepares his puppets for combat, gaining 10 points of destructible defense permanently. The following 3 turns, Kankuro's skills will be improved.",
+   "cooldown": "3",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Puppet Replacement Technique",
+   "image": "https://i.imgur.com/mpGOYy6.png",
+   "description": "This skill makes Kankuro invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "yamanaka-ino-(s)",
+ "name": "Yamanaka Ino (S)",
+ "portrait": "https://i.imgur.com/zA72t3a.png",
+ "description": "In the past couple years Ino(s) has become a chuunin and improved her ability with her family's mind control techniques. During this time she also began learning rudimentary medical techniques.",
+ "unlock": "Mission: Blondes Have All the Fun",
+ "skills": [
+  {
+   "name": "Mind Body Switch",
+   "image": "https://i.imgur.com/lSobTDI.pngs",
+   "description": "Ino forces her mind into one enemy, dealing 25 piercing damage to them and ending any delayed skill that enemy currently has. Afterwards, that enemy will be stunned for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Proxy Surveillance",
+   "image": "https://i.imgur.com/y3bJlyB.png",
+   "description": "Ino predicts one enemy's move. For 1 turn, if this character uses a new harmful skill, it will be delayed by 2 turns. This skill is invisible.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Rudimentary Healing",
+   "image": "https://i.imgur.com/eTrzRC4.png",
+   "description": "Using her healing skills, Ino heals an ally for 20 health. If Ino has used any of her other skills on the previous turn, this skill will heal 10 additional health instead.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Hide",
+   "image": "https://i.imgur.com/GYxhrYp.png",
+   "description": "This skill makes Yamanaka Ino (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

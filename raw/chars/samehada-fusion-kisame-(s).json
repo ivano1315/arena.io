@@ -1,0 +1,53 @@
+{
+ "slug": "samehada-fusion-kisame-(s)",
+ "name": "Samehada Fusion Kisame (S)",
+ "portrait": "https://i.imgur.com/HP3pmdA.png",
+ "description": "After merging with the sentient blade Samehada, Kisame transforms into a monstrous shark-like being. In this form, he reigns supreme underwater, draining chakra upon contact and relentlessly hunting his prey within a vast, moving prison of water.",
+ "unlock": "Mission: The No-Tailed Beast",
+ "skills": [
+  {
+   "name": "Water Prison Shark Dance",
+   "image": "https://i.imgur.com/TWeVlfV.png",
+   "description": "For 3 turns, all enemies and all allies will have the cost of their harmful skills increased by 1 random chakra, while Kisame's harmful skills will cost 1 less random chakra. During this time, any target that uses a new harmful skill will ignore 'Water Prison Shark Dance' for 1 turn. This skill ends when Kisame dies.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Non-Stop Hunting",
+   "image": "https://i.imgur.com/edOwJ9I.png",
+   "description": "Kisame relentlessly hunts an enemy from underwater. For 2 turns, Kisame will deal 20 piercing damage to that enemy and remove 1 random chakra from them each turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Great Water Shark Missile",
+   "image": "https://i.imgur.com/WLcRFZx.png",
+   "description": "Kisame launches a massive shark-shaped water missile, dealing 25 damage to all enemies and removing 1 random chakra from a random enemy. Afterwards, Kisame gains 15 points of destructible defense. This skill cannot be countered.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Shark Skin",
+   "image": "https://i.imgur.com/1Qa5p92.png",
+   "description": "This skill makes Samehada Fusion Kisame (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

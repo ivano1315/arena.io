@@ -1,0 +1,48 @@
+{
+ "slug": "darui-(s)",
+ "name": "Darui (S)",
+ "portrait": "https://i.imgur.com/4zQxemJ.png",
+ "description": "Darui (S) is a jounin of the Hidden Cloud Village and the right hand of the Yondaime Raikage. Despite his appearance Darui (S) is a formidable shinobi.",
+ "unlock": "Mission: The Dull Genius of the Cloud",
+ "skills": [
+  {
+   "name": "Laser Circus",
+   "image": "https://i.imgur.com/gnwtJrI.png",
+   "description": "Darui creates several beams and shoots his opponents, stunning one enemy for 1 turn. Afterwards, all other enemies take 15 piercing damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Electric Water Encampment Wall",
+   "image": "https://i.imgur.com/arWmbIl.png",
+   "description": "Darui targets all enemies for 1 turn. Any enemy that uses a new skill will take 5 affliction damage. The following turn, all enemies affected by this skill will receive 5 additional damage from 'Laser Circus' and 'Black Panther Lightning'. This skill cannot be countered.",
+   "cooldown": "1",
+   "energy": [],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Black Panther Lightning",
+   "image": "https://i.imgur.com/lbXhosJ.png",
+   "description": "Darui generates a black panther lightning from his body and releases it at one enemy, dealing 35 piercing damage to them. For 1 turn, that enemy's skills will have 2 additional cooldown. This skill ignores invulnerability.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Cleaver Sword Defense",
+   "image": "https://i.imgur.com/GoWroAB.png",
+   "description": "This skill makes Darui (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

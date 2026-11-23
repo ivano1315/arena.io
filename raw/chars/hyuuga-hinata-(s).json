@@ -1,0 +1,51 @@
+{
+ "slug": "hyuuga-hinata-(s)",
+ "name": "Hyuuga Hinata (S)",
+ "portrait": "https://i.imgur.com/IvkdaCw.png",
+ "description": "Hinata(s) has taken the lessons she learned during the chuunin exam, and Naruto's words of support to heart in the last couple years. She has matured greatly as a ninja, the heir to the Hyuuga clan, and as a woman.",
+ "unlock": "Mission: A Lovestruck Girl",
+ "skills": [
+  {
+   "name": "Gentle Step Twin Lions Fist",
+   "image": "https://i.imgur.com/RDPoiGZ.png",
+   "description": "Hinata creates two chakra lions and attacks an enemy, dealing 30 piercing damage to them and removing 1 taijutsu or ninjutsu chakra from them. The following turn, 'Pressure Point Closure' will stun for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Eight Trigrams Thirty Two Palms",
+   "image": "https://i.imgur.com/3igdVzH.png",
+   "description": "Hinata uses a lesser form of eight trigram sixty four palms, dealing 30 piercing damage to one enemy and stunning their non-mental skills for 1 turn. The following turn, 'Pressure Point Closure' will remove 1 taijutsu or ninjutsu chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Pressure Point Closure",
+   "image": "https://i.imgur.com/rtAhdls.png",
+   "description": "Hinata closes an enemy's pressure point, dealing 20 damage to them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Byakugan Sight",
+   "image": "https://i.imgur.com/JikfyqH.png",
+   "description": "This skill makes Hyuuga Hinata (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "tsuchikage-(s)",
+ "name": "Tsuchikage (S)",
+ "portrait": "https://i.imgur.com/2TGh48c.png",
+ "description": "The Third Tsuchikage of the Hidden Rock Village, Oonoki is an intensely proud and headstrong man, despite his advanced age. An expert in a variety of jutsu, and notably able to fly, Oonoki is renowned for his unique nature transformation, the Dust Release kekkei tota, with which he can outright vaporize his enemies.",
+ "unlock": "Mission: The Third Tsuchikage",
+ "skills": [
+  {
+   "name": "Detachment of Primitive World",
+   "image": "https://i.imgur.com/IRQ1VBv.png",
+   "description": "Ohnoki isolates an enemy with his dust release, dealing 10 affliction damage to them. For 1 turn, that enemy will be invulnerable to helpful skills and their harmful skills will be stunned. The following turn, this skill will be replaced by 'Dust Implode'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Super-Weighted Boulder Technique",
+   "image": "https://i.imgur.com/pb0qXK6.png",
+   "description": "Onhoki touches an enemy and makes them much heavier. For 2 turns, the cost of their harmful skills will be increased by 1 random chakra.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Rock Fist",
+   "image": "https://i.imgur.com/Tq9Cs0X.png",
+   "description": "Increasing his striking power with Rock Fist, Ohnoki deals 30 damage to one enemy. Afterwards, Ohnoki gains 15 permanent destructible defense.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Effortless Flight",
+   "image": "https://i.imgur.com/5ctULD8.png",
+   "description": "This skill makes Tsuchikage (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Dust Implode",
+   "image": "https://i.imgur.com/L9B79qi.png",
+   "description": "Ohnoki incinerates an enemey trapped by 'Detachment of Primitive World' into mere particles, removing all helpful skills from that enemy and dealing 40 damage to them. This skill cannot be ignored or countered.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  }
+ ]
+}

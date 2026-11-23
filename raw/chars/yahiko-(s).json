@@ -1,0 +1,48 @@
+{
+ "slug": "yahiko-(s)",
+ "name": "Yahiko (S)",
+ "portrait": "https://i.imgur.com/4xsZM93.png",
+ "description": "The leader of the original Akatsuki and one of the three Rain Orphans mentored by Jiraiya, Yahiko was a dear friend of Nagato and Konan and a highly idealistic person. Striving for world peace, Yahiko established the Akatsuki, leading them through the war-torn reality of their time with a 'kill or be killed' philosophy.",
+ "unlock": "Mission: The Original Akatsuki Leader",
+ "skills": [
+  {
+   "name": "Wild Rip Wave",
+   "image": "https://i.imgur.com/24CVhRK.png",
+   "description": "Yahiko throws a wave, dealing 25 damage to all enemies. For 1 turn, Yahiko's team will heal 5 health and ignore affliction damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Water Pillar",
+   "image": "https://i.imgur.com/uDkGeUJ.png",
+   "description": "Yahiko targets one ally permanently. The first harmful skill used on that ally will be reflected to Yahiko. If successful, that ally will heal 20 health and gain 15 points of destructible defense. This skill is invisible and cannot be used on an already affected ally. This skill ends when Yahiko is killed.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Final Command",
+   "image": "https://i.imgur.com/qgdZ6wD.png",
+   "description": "This skill can only be used when Yahiko has 25 health or less. Yahiko chooses one ally to execute him, killing himself instantly. Afterwards, that ally enters a bloodthirsty rage. For 2 turns, they will deal 15 additional damage, ignore stun effects, and gain 1 random chakra each turn.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Squad Leader",
+   "image": "https://i.imgur.com/KFtWWgW.png",
+   "description": "For 1 turn, all new harmful skills used on Yahiko's allies will be reflected back to him. During this time, Yahiko gains 15 points of unpierceable damage reduction and becomes immune to affliction damage.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  }
+ ]
+}

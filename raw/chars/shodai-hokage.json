@@ -1,0 +1,51 @@
+{
+ "slug": "shodai-hokage",
+ "name": "Shodai Hokage",
+ "portrait": "https://i.imgur.com/4Qt9UaS.png",
+ "description": "The First Hokage and the founder of the Hidden Village of Konoha, Shodai Hokage has the ability to create and manipulate trees. This ability to give life shows the extent of his power.",
+ "unlock": "Mission: The Resurrection of the First",
+ "skills": [
+  {
+   "name": "Tree Strangulation",
+   "image": "https://i.imgur.com/3ghIvfW.png",
+   "description": "Hashirama catches and crushes one enemy in giant tree branches, dealing 25 piercing damage to that enemy and stunning their physical and chakra skills for 1 turn. During 'Birth of the Trees', this skill will cost 1 less random chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Branch Manipulation",
+   "image": "https://i.imgur.com/2ZW1vwA.png",
+   "description": "Hashirama sends out his trees in all directions, dealing 10 affliction damage to all enemies and granting 5 points of permanent destructible defense to himself and his allies. During 'Birth of the Trees', this skill will have no cooldown.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Birth of the Trees",
+   "image": "https://i.imgur.com/ztMMKn0.png",
+   "description": "Hashirama summons a giant field of trees. For 3 turns, any enemy that uses a new harmful skill will have the cost of their harmful skills increased by 2 random chakra for 1 turn. For 3 turns, Hashirama and his allies are granted 10 points of destructible defense.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Deflection",
+   "image": "https://i.imgur.com/RyqXqfk.png",
+   "description": "This skill makes Shodai Hokage invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

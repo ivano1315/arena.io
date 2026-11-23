@@ -1,0 +1,50 @@
+{
+ "slug": "yamanaka-inoichi-(s)",
+ "name": "Yamanaka Inoichi (S)",
+ "portrait": "https://i.imgur.com/D5wMgU4.png",
+ "description": "Yamanaka Inoichi (S) is the father of Ino and the leader of the Yamanaka clan. He is a jounin and a member of the Konoha interrogation squad.",
+ "unlock": "Mission: The Mental Genius",
+ "skills": [
+  {
+   "name": "Mastered Mind Disturbance",
+   "image": "https://i.imgur.com/JAS3deU.png",
+   "description": "Inoichi invades an enemy's mind, dealing 10 piercing damage to them and stunning their non-mental skills for 1 turn. If used one turn after 'Mind Shatter', this skill will deal 10 additional damage.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Mind Shatter",
+   "image": "https://i.imgur.com/KOiB091.png",
+   "description": "Inoichi deals 30 piercing damage to one enemy. For 1 turn, that enemy's physical skills will cost 1 additional taijutsu chakra, their chakra skills will cost 1 additional ninjutsu chakra, their mental skills will cost 1 additional genjutsu chakra, and their affliction skills will cost 1 additional bloodline chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Melee."
+  },
+  {
+   "name": "Mental Invasion",
+   "image": "https://i.imgur.com/LiPZiOp.png",
+   "description": "For 1 turn, if one enemy uses a new harmful skill, that skill will heal instead of dealing damage, and its non-damage effects will be nullified. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Sensing Water Sphere",
+   "image": "https://i.imgur.com/jFSF2I3.png",
+   "description": "This skill makes Yamanaka Inoichi (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

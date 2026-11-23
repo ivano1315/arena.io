@@ -1,0 +1,51 @@
+{
+ "slug": "edo-tensei-sakon-(s)",
+ "name": "Edo Tensei Sakon (S)",
+ "portrait": "https://i.imgur.com/SZvKvma.png",
+ "description": "Reanimated by Kabuto during the Fourth Shinobi World War along with their Sound Four teammates, Sakon and Ukon relish being on the battlefield once again. Dynamically splitting and merging their bodies through the use of their Cursed Seal, the twins fight as a powerful unit, showing no mercy to anyone.",
+ "unlock": "Mission: Sakon is revived",
+ "skills": [
+  {
+   "name": "Enhanced Gatling Punch",
+   "image": "https://i.imgur.com/ZR38u95.png",
+   "description": "Sakon rapidly punches one enemy, dealing 20 damage and 15 piercing damage to them. For 1 turn, that enemy will deal 15 less non-affliction damage. The following turn, 'Parasite Demon' will be improved and fully stun the target instead.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Parasite Demon",
+   "image": "https://i.imgur.com/gYjh7DV.png",
+   "description": "Sakon enters an enemy's body, dealing 20 affliction damage to them and stunning their physical and chakra skills for 1 turn. This skill cannot be used on the same target next turn. The following turn, 'Enhanced Gatling Punch' will deal 5 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Summoning: Triple Rashoman",
+   "image": "https://i.imgur.com/myrNy2w.png",
+   "description": "Sakon summons the walls of Triple Rashoman, removing all harmful skills from himself and gaining 15 points of destructible defense for every skill he has used in the game. This skill will increase its current cooldown by 1 for every 15 destructible defense granted. These stacks reset when used.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Sakon: Chakra Unseal",
+   "image": "https://i.imgur.com/KxXqw14.png",
+   "description": "This skill makes Sakon invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

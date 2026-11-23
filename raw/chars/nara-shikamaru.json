@@ -1,0 +1,48 @@
+{
+ "slug": "nara-shikamaru",
+ "name": "Nara Shikamaru",
+ "portrait": "https://i.imgur.com/K2zZmN5.png",
+ "description": "A Genin from Team 10, a member of the Nara clan, Shikamaru is considered to be the smartest Genin of all the Konoha 11. Using his bloodline, Shikamaru can manipulate the shadows in the battlefield to disable and attack his enemies.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Meditate",
+   "image": "https://i.imgur.com/a7S5C5w.png",
+   "description": "Shikamaru begins thinking up a strategy against one enemy, marking them for 5 turns. During this time, 'Shadow-Neck Bind' and 'Shadow Imitation' will last 1 additional turn on them. This skill cannot be countered or reflected and may not used on an enemy already affected by it.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Shadow-Neck Bind",
+   "image": "https://i.imgur.com/CmEudLR.png",
+   "description": "Shikamaru chokes all enemies, making them unable to reduce damage and becoming invulnerable* while dealing 15 damage to them for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Action, Instant*, Ranged."
+  },
+  {
+   "name": "Shadow Imitation",
+   "image": "https://i.imgur.com/eC9GWCD.png",
+   "description": "Shikamaru captures all enemies in shadows, stunning their non-mental skills for 1 turn.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Control, Ranged."
+  },
+  {
+   "name": "Shikamaru Hide",
+   "image": "https://i.imgur.com/GhEHgrl.png",
+   "description": "This skill makes Nara Shikamaru invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

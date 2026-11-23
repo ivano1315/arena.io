@@ -1,0 +1,51 @@
+{
+ "slug": "sarutobi-asuma",
+ "name": "Sarutobi Asuma",
+ "portrait": "https://i.imgur.com/N4ZFINr.png",
+ "description": "Sarutobi Asuma is the leader of Team 10. He uses trench knives extended by his chakra to fight and protect his teammates.",
+ "unlock": "Mission: Team 10 Fights vs the Sound",
+ "skills": [
+  {
+   "name": "Flying Swallow",
+   "image": "https://i.imgur.com/Dnwx46P.png",
+   "description": "Using blades with wind chakra, Asuma and his allies gain 10 points of damage reduction and all enemies take 10 damage for 3 turns. *While active, each turn this skill will increase its damage and points of damage redution by 5.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, *Instant, Melee."
+  },
+  {
+   "name": "Finishing Blow",
+   "image": "https://i.imgur.com/gjMSfaG.png",
+   "description": "Asuma deals 35 damage to one enemy. During the second turn of 'Flying Swallow', this skill will fully stun for 1 turn. During the third turn of 'Flying Swallow', this skill will deal 5 additional damage and will remove 1 random chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Self Sacrifice",
+   "image": "https://i.imgur.com/iHE7E8U.png",
+   "description": "Sarutobi Asuma protects one ally from harm. For 1 turn, that ally will become invulnerable to harmful skills.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Wind Chakra Blades Block",
+   "image": "https://i.imgur.com/vndck21.png",
+   "description": "This skill makes Sarutobi Asuma invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "kazekage-gaara-(s)",
+ "name": "Kazekage Gaara (S)",
+ "portrait": "https://i.imgur.com/U2EqAaP.png",
+ "description": "After a few short years and much soul-searching, Gaara(s) has risen to be his village's Kazekage. Rather than destroying others he now protects those he cares about to prove his existence.",
+ "unlock": "Mission: Finding His Purpose",
+ "skills": [
+  {
+   "name": "Desert Missile",
+   "image": "https://i.imgur.com/etCSgky.png",
+   "description": "Using thin ropes of sand Kazekage Gaara hunts down one enemy dealing 10 piercing damage to them. New skills used by the target of this skill will deal 15 less non-affliction damage for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Desert Prison",
+   "image": "https://i.imgur.com/qYDrZ1Z.png",
+   "description": "Kazekage Gaara entraps and crushes one enemy in a giant maw of sand stunning their physical and chakra skills for 1 turn and dealing 10 piercing damage to them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Sand Summoning",
+   "image": "https://i.imgur.com/JkrNwQV.png",
+   "description": "Gaara and his allies will gain 5 permanent destructible defense every 3 turns, for the rest of the game. Permanently, 'Desert Missile' will deal 15 additional damage and 'Desert Prison' will deal 20 additional damage. This skill can only be used twice.",
+   "cooldown": "4",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Sand Sphere",
+   "image": "https://i.imgur.com/0g1o76R.png",
+   "description": "This skill makes Kazekage Gaara (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

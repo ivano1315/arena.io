@@ -1,0 +1,50 @@
+{
+ "slug": "nohara-rin",
+ "name": "Nohara Rin",
+ "portrait": "https://i.imgur.com/kJ3u53S.png",
+ "description": "A chuunin medical nin assigned to Team Minato, Rin is a quiet and passive girl who focuses on keeping her team mates alive. Using her healing abilities, and her intelligence, Rin is able to heal her allies while trapping her enemies.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Pit Trap",
+   "image": "https://i.imgur.com/k6wzRLL.png",
+   "description": "Rin traps one enemy, dealing 20 piercing damage to them. For 1 turn, if that enemy uses a new skill, they will take another 20 piercing damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Healing Touch",
+   "image": "https://i.imgur.com/zLmVk8s.png",
+   "description": "Rin heals herself or an ally for 25 health and removes all harmful affliction skills from them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Medical Kit",
+   "image": "https://i.imgur.com/c4HwOLU.png",
+   "description": "Rin gives her medical kit to herself or an ally, granting them 15 points of damage reduction and healing them 15 health for 3 turns.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Flee",
+   "image": "https://i.imgur.com/0XboBBP.png",
+   "description": "This skill makes Nohara Rin invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

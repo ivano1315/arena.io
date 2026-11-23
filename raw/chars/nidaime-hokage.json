@@ -1,0 +1,50 @@
+{
+ "slug": "nidaime-hokage",
+ "name": "Nidaime Hokage",
+ "portrait": "https://i.imgur.com/GyEmocs.png",
+ "description": "Nidaime is the second Hokage and the grand uncle of Tsunade. He is very skilled with water jutsu, requiring no water source to perform them.",
+ "unlock": "Mission: The Resurrection of the Second",
+ "skills": [
+  {
+   "name": "Water Assault",
+   "image": "https://i.imgur.com/TzDpZzQ.png",
+   "description": "Tobirama encases one enemy in water, making them ignore all helpful effects for 1 turn and dealing 15 damage to them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Water Collision Destruction",
+   "image": "https://i.imgur.com/qfJm4UQ.png",
+   "description": "Summoning a giant wave of water, Tobirama deals 10 damage to all enemies for 3 turns. Each turn, all enemies will have all their affliction skills stunned. The following 3 turns, 'Water Assault' will deal 15 additional damage.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Ranged."
+  },
+  {
+   "name": "Bringer of Darkness",
+   "image": "https://i.imgur.com/9aqZPND.png",
+   "description": "Tobirama plunges the battlefield into total darkness. For 1 turn, Tobirama and his allies will become invulnerable to physical and mental skills.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Water Encampment Wall",
+   "image": "https://i.imgur.com/bUxeevY.png",
+   "description": "This skill makes Nidaime Hokage invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

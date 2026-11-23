@@ -1,0 +1,51 @@
+{
+ "slug": "hyuuga-neji",
+ "name": "Hyuuga Neji",
+ "portrait": "https://i.imgur.com/SnXl3u9.jpg",
+ "description": "A member of team Gai; Neji is the most talented member of the Hyuuga clan in both mind and body. Neji can use the most powerful techniques of his clan, shutting down an enemy's chakra or defending with an absolute defense.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Neji Gentle Fist",
+   "image": "https://i.imgur.com/TO1FgCV.png",
+   "description": "Using the Hyuuga clan's special form of taijutsu, Neji deals 25 damage to one enemy for 2 turns. Each turn, their non-harmful skills will cost 1 additional random chakra. The following turn, 'Eight Trigram Sixty-Four Palms' will cost 1 taijutsu and 1 random chakra.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Eight Trigram Heavenly Spin",
+   "image": "https://i.imgur.com/SbXg9y7.png",
+   "description": "Neji becomes invulnerable for 1 turn while dealing 15 damage to all enemies. The following turn, 'Eight Trigram Sixty-Four Palms' will cost 1 bloodline and 1 random chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Eight Trigram Sixty-Four Palms",
+   "image": "https://i.imgur.com/gLzCj5f.png",
+   "description": "Neji closes all of one enemy's chakra nodes, dealing 40 damage to them and removing 1 random chakra from them for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Neji Byakugan",
+   "image": "https://i.imgur.com/8mfr9KF.png",
+   "description": "This skill makes Hyuuga Neji invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

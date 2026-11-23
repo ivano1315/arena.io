@@ -1,0 +1,57 @@
+{
+ "slug": "utakata-(s)",
+ "name": "Utakata (S)",
+ "portrait": "https://i.imgur.com/aJd17zi.png",
+ "description": "A missing-nin from the Hidden Mist Village, Utakata is the jinchuuriki host of the Six-Tailed Beast, Saiken, and a kind person, though fairly distant most of the time. In battle, Utakata uses the powers of the Six-Tails to create chakra-based soap bubbles in which he can trap his enemies and slowly asphyxiate them.",
+ "unlock": "Mission: The Elusive Six-Tails",
+ "skills": [
+  {
+   "name": "Soap Bubble",
+   "image": "https://i.imgur.com/6V5wX9J.png",
+   "description": "Utakata deals 10 piercing damage to one enemy and applies 'Bubble Prision' on them. 'Bubble Prision' deals 5 unremovable affliction damage to one enemy, and the first time that enemy uses a new harmful skill, it will cause 'Soap Bubble' to cost 1 random chakra until the next use of it.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Drowning Bubble Jutsu",
+   "image": "https://i.imgur.com/qOH6hYH.png",
+   "description": "Utakata targets all enemies affected by 'Bubble Prision' and stuns their non-mental skills for 1 turn. These enemies will also receive 5 additional damage from 'Bubble Prision' and will lose 1 random chakra for each stack of 'Bubble Prision' on them. Cannot be countered, reflected and ignores invulnerability.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Rokubi Transformation",
+   "image": "https://i.imgur.com/cqKvfBc.png",
+   "description": "Utakata heals 10 health for each time 'Soap Bubble' was used. Afterwards, he becomes invulnerable to Physical and Chakra skills for 2 turns. This skill removes all stacks from 'Soap Bubble'.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Bubble Dome",
+   "image": "https://i.imgur.com/C4cV4rh.png",
+   "description": "This skill makes Utakata (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Bubble Prision",
+   "image": "https://i.imgur.com/dpO1t3r.png",
+   "description": "This skill deals 5 unremovable affliction damage to a target permanently. The first time that enemy uses a new harmful skill, it will cause 'Soap Bubble' to cost 1 random chakra until the next use of it.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Affliction, Instant."
+  }
+ ]
+}

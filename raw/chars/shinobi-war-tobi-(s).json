@@ -1,0 +1,48 @@
+{
+ "slug": "shinobi-war-tobi-(s)",
+ "name": "Shinobi War Tobi (S)",
+ "portrait": "https://i.imgur.com/URMIjrR.png",
+ "description": "During the Fourth Great Ninja War, Tobi conceals his identity behind a white mask, wielding both the Sharingan and Rinnegan. Using the Demonic Statue of the Outer Path, he commands the resurrected jinchuuriki, while his Kamui allows him to evade attacks by rendering his body intangible.",
+ "unlock": "Mission: A Path to Infinite Dreams",
+ "skills": [
+  {
+   "name": "Demonic Chakra Chains",
+   "image": "https://i.imgur.com/NwLR4yI.png",
+   "description": "By releasing the Demonic Statue's chakra chains, Tobi steals 15 health from one enemy. For 1 turn, if that enemy uses a new skill, 1 bloodline chakra will be stored in 'Demonic Statue of the Outer Path'. The following turn, if Tobi uses 'Demonic Statue of the Outer Path', 'Demonic Chakra Chains' will also be applied to all enemies and Tobi will become invulnerable for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Demonic Statue of the Outer Path",
+   "image": "https://i.imgur.com/468zdbU.png",
+   "description": "Tobi summons the Demonic Statue, unleashing its destructive power. Tobi gains all chakra stored in this skill, consuming the stored chakra. If targetable, all enemies take 25 damage.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Six Paths Connection",
+   "image": "https://i.imgur.com/txgZWqc.png",
+   "description": "Tobi grants an ally the Sharingan and Rinnegan, connecting them through their visual powers. The Sharingan permanently increases that ally's non-affliction damage by 5. The Rinnegan connects the ally to Tobi, causing either character to become invulnerable for 1 turn whenever the other uses an invulnerability skill. This skill ends when Tobi dies and can only be used once.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Kamui: Intangibility",
+   "image": "https://i.imgur.com/KcjPSdW.png",
+   "description": "Tobi uses Kamui to phase his body into another dimension, avoiding incoming attacks. Every other turn, Tobi ignores all damage dealt to him for 1 turn. This skill cannot be used while active.",
+   "cooldown": "3",
+   "energy": [],
+   "classes": "Mental, Control."
+  }
+ ]
+}

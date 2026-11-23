@@ -1,0 +1,60 @@
+{
+ "slug": "mitarashi-anko",
+ "name": "Mitarashi Anko",
+ "portrait": "https://i.imgur.com/q0YFcWg.png",
+ "description": "Once a student of Orochimaru and a bearer of the Cursed Seal of Heaven, Anko is now a special Jounin who oversees the second portion of the Chuunin exams.",
+ "unlock": "Mission: The Survivor of the Seal",
+ "skills": [
+  {
+   "name": "Dual Pin",
+   "image": "https://i.imgur.com/tjBSEBp.png",
+   "description": "Anko deals 5 affliction damage to one enemy permanently. Until that enemy is killed, they will receive an additional 5 damage from all Anko's other skills. During this time, this skill will be replaced by 'Dragon Fire'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Twin Snakes",
+   "image": "https://i.imgur.com/0vzNgam.png",
+   "description": "Anko delivers a large dose of poison, dealing 15 affliction damage to one random enemy. For 1 turn, Anko becomes invulnerable to physical skills. The following turn, Anko's skills will cost 1 less random chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Hidden Shadow Snake Hand",
+   "image": "https://i.imgur.com/QRV4RTd.png",
+   "description": "Anko calls forth snakes from under her jacket which slam into one enemy, dealing 20 damage and *15 affliction damage to them. Afterwards, Anko gains 5 permanent destructible defense.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee, Affliction*."
+  },
+  {
+   "name": "Quick Reflexes",
+   "image": "https://i.imgur.com/aLUTqtz.png",
+   "description": "This skill makes Mitarashi Anko invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Dragon Fire",
+   "image": "https://i.imgur.com/JfRvVaJ.png",
+   "description": "Anko scorches the battlefield with fire, dealing 10 affliction damage to one enemy and 5 affliction damage to all others for 2 turns. During this time, they will also receive an additional 5 affliction damage from all other affliction skills. This skill ends when Anko dies.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "sasori-of-the-red-sand-(s)",
+ "name": "Sasori of the Red Sand (S)",
+ "portrait": "https://i.imgur.com/zosLJnp.png",
+ "description": "Sasori is a senior Akatsuki member and a legendary puppet master. He is even rumored to have defeated an entire nation with puppets alone. ORIGINAL DESIGN: Pavera",
+ "unlock": "Mission: Master of Puppets",
+ "skills": [
+  {
+   "name": "Thousand Hands",
+   "image": "https://i.imgur.com/uH3QQ4A.png",
+   "description": "Using this skill, Sasori deals 10 damage to an enemy for 2 turns and gains 5 points of destructible defense each turn. If 'Poison Gas' is used on the target in the following turn, it will last 1 additional turn on them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Poison Gas",
+   "image": "https://i.imgur.com/rO92pL5.png",
+   "description": "Sasori deals 5 affliction damage to all enemies for 5 turns. During this time, Sasori gains 5 points of destructible defense and any enemy that uses a new harmful skill will be dealt 5 affliction damage. This skill lasts 1 additional turn on an enemy affected by 'Thousand Hands'. This skill cannot be countered and ends when Sasori is killed.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Iron Sand",
+   "image": "https://i.imgur.com/S86HOEG.png",
+   "description": "Sasori summons the Third Kazekage's puppet for 3 turns. Each turn, Sasori gains 10 permanent destructible defense and any enemy that uses a new harmful skill on Sasori will take 5 piercing damage. During this time, this skill becomes 'Satetsu Kaiho' and 'Thousand Hands' becomes 'Satetsu Kesshu'.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Puppet Protection",
+   "image": "https://i.imgur.com/DOMTlX3.png",
+   "description": "This skill makes Sasori invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Satetsu Kaiho",
+   "image": "https://i.imgur.com/pjprSct.png",
+   "description": "Sasori gathers a great volume of iron sand. This skill deals 30 piercing damage to one enemy. For 2 turns, that enemy will be unable to reduce damage or become invulnerable. Afterwards, Sasori gains 15 points of destructible defense for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Satetsu Kesshu",
+   "image": "https://i.imgur.com/XM4Cwb1.png",
+   "description": "Sasori creates a giant sphere of branching spikes. This skill deals 25 piercing damage to all enemies. If an enemy's health drops to 10 or lower, they will be killed. This skill cannot be countered or reflected.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  }
+ ]
+}

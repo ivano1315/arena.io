@@ -1,0 +1,47 @@
+{
+ "slug": "hyuuga-hanabi",
+ "name": "Hyuuga Hanabi",
+ "portrait": "https://i.imgur.com/ovkEczm.jpg",
+ "description": "The younger sister of Hinata, Hanabi is a Hyuuga clan member from the main branch family who trains endlessly to prove her worth. While young, Hanabi's skills surpass her elder sister's, and although unable to utilize her byakugan yet and lacking in physical strength, Hanabi makes up for it with her tenacity and speed.",
+ "unlock": "Mission: The Adored Elder Sister",
+ "skills": [
+  {
+   "name": "Hanabi Gentle Fist",
+   "image": "https://i.imgur.com/it1bsDV.png",
+   "description": "Hanabi deals 20 damage to one enemy for 1 turn, and 10 damage the following turn. For 1 turn, if that enemy uses a new non-chakra skill, they will lose 1 non-genjutsu chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Hanabi Kaiten",
+   "image": "https://i.imgur.com/plUIFd7.png",
+   "description": "Hanabi spins at one enemy, dealing 20 damage to them for 1 turn, and 10 damage the following turn. For 1 turn, if that enemy uses a new non-physical skill, their skills will be stunned for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Action, Melee."
+  },
+  {
+   "name": "Unyielding Tenacity",
+   "image": "https://i.imgur.com/ZKzud8s.jpg",
+   "description": "Hanabi fights to the bitter end. For 2 turns, Hanabi will be unable to be killed and will ignore all stun effects. During this time, 'Hanabi Gentle Fist' and 'Hanabi Kaiten' will cost 1 random chakra and Hanabi will deal 5 additional damage.",
+   "cooldown": "4",
+   "energy": [],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Byakugan Insight",
+   "image": "https://i.imgur.com/To9EsI6.png",
+   "description": "This skill makes Hyuuga Hanabi invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

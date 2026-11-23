@@ -1,0 +1,71 @@
+{
+ "slug": "guren-(s)",
+ "name": "Guren (S)",
+ "portrait": "https://i.imgur.com/MYgqDSZ.png",
+ "description": "One of Orochimaru's highest-ranking subordinates, Guren is a sadistic, proud, and ambitious woman, and is utterly devoted to Orochimaru, considered one of his most promising potential vessels. Possessing the Crystal Release kekkei genkai, Guren is able to create crystals for a wide range of combat purposes.",
+ "unlock": "Mission: The Crystal Lady",
+ "skills": [
+  {
+   "name": "Crystal Dragon",
+   "image": "https://i.imgur.com/ZGr8S1i.png",
+   "description": "Guren sends a massive crystal dragon towards one enemy, dealing 35 damage to them and stunning their skills for 1 turn. The following turn, that enemy will receive 10 additional damage from 'Crystal Barrage'. This skill will be replaced by 'Crystal Barrage' permanently.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Crystal Prison",
+   "image": "https://i.imgur.com/d9vMZRp.png",
+   "description": "Guren encases an enemy in a crystal prison. For 1 turn, that enemy will become invulnerable to helpful skills. The following turn, this skill will be replaced 'Crystal Break'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Crystal Clone",
+   "image": "https://i.imgur.com/4bAKN6O.png",
+   "description": "Guren forms a crystal clone. For 1 turn, the first harmful skill used against her will be countered, and the countered enemy will take 20 piercing damage*. This skill is invisible and ends when triggered.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Melee*."
+  },
+  {
+   "name": "Crystal Formation: Arrow of Light",
+   "image": "https://i.imgur.com/BCEqlhi.png",
+   "description": "This skill makes Guren (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Crystal Barrage",
+   "image": "https://i.imgur.com/obkmuvR.png",
+   "description": "Guren unleashes a barrage of crystal spikes, dealing 25 damage to all enemis. After this skill is used, it will be replaced by 'Crystal Dragon'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Crystal Break",
+   "image": "https://i.imgur.com/5rx7tg0.png",
+   "description": "Guren crushes the enemy affected by 'Crystal Prison', dealing 30 piercing damage to them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  }
+ ]
+}

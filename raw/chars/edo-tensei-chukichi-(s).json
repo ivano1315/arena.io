@@ -1,0 +1,48 @@
+{
+ "slug": "edo-tensei-chukichi-(s)",
+ "name": "Edo Tensei Chukichi (S)",
+ "portrait": "https://i.imgur.com/IfoRyuq.png",
+ "description": "Reanimated during the Fourth Shinobi World War, Chukichi was a renowned sensor from the Hidden Mist, capable of detecting even the faintest chakra signatures. Combining his exceptional sensory abilities with frost-based concealment and silent assassination techniques, he became a deadly threat on the battlefield.",
+ "unlock": "Mission: The Silent Sensor Ninja",
+ "skills": [
+  {
+   "name": "Frozen Veil",
+   "image": "https://i.imgur.com/FyBX2PC.png",
+   "description": "By surrounding himself with a veil of frost, Chukichi conceals his presence from his enemies. For the rest of the game, each turn he will become invulnerable to a random main class of skills for 1 turn. This skill can be used while active to make Chukichi immortal for 1 turn.",
+   "cooldown": "2",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Chakra Tracing",
+   "image": "https://i.imgur.com/Ax4DRLj.png",
+   "description": "Using his exceptional sensory abilities, Chukichi detects the chakra signatures of his enemies, increasing the cost of their skills by 1 random chakra for 1 turn. Any invisible skills active on them will be revealed.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Soundless Execution",
+   "image": "https://i.imgur.com/BpsVXaB.png",
+   "description": "Taking advantage of his concealed presence, Chukichi silently approaches his enemy and delivers a deadly strike, dealing 35 piercing damage to an enemy. The active cooldown of 'Chakra Tracing' will be reduced by 1 turn. This skill ignores invulnerability and cannot be countered or reflected.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Swift Withdrawal",
+   "image": "https://i.imgur.com/dubpkVQ.png",
+   "description": "This skill makes Chukichi invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

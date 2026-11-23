@@ -1,0 +1,59 @@
+{
+ "slug": "edo-tensei-roshi-(s)",
+ "name": "Edo Tensei Roshi (S)",
+ "portrait": "https://i.imgur.com/y6AbxAJ.png",
+ "description": "Reanimated by Kabuto during the Fourth Shinobi World War, Roshi has had the Four-Tails, Son Goku, sealed back inside him. Having been made into one of Tobi's new Six Paths of Pain along with the other fallen jinchuuriki, Roshi is under his full control, spewing the Four-Tails' lava at anyone who might get in his way.",
+ "unlock": "Mission: Roshi, the Path of Pain",
+ "skills": [
+  {
+   "name": "Multiple Scorching Rocks",
+   "image": "https://i.imgur.com/HwZzAM9.png",
+   "description": "Roshi deals 30 affliction damage to one enemy and 10 affliction damage to a random different enemy. 'Passive: Fiery Body' deals 1 additional damage permanently (stacks).",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Lava Armor",
+   "image": "https://i.imgur.com/n0wL9wH.png",
+   "description": "Roshi gains 15 unpierceable defense and deals 10 affliction damage to any enemy that uses a new non-mental skill on him for 4 turns. 'Passive: Fiery Body' deals 1 additional damage permanently (stacks).",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Affliction, Instant."
+  },
+  {
+   "name": "Magma Field",
+   "image": "https://i.imgur.com/IjiFToG.png",
+   "description": "For 3 turns, Roshi will automatically trigger 'Passive: Fiery Body' at the end of every turn. The following 3 turns, the enemy team will remove/steal 1 less chakra with their skills. During this time, 'Multiple Scorching Rocks' will cost 1 less random energy. 'Passive: Fiery Body' deals 1 additional damage permanently (stacks).",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Roshi Partial-Tailed Beast Defense",
+   "image": "https://i.imgur.com/nn8FN5I.png",
+   "description": "This skill makes Roshi invulnerable for 1 turn. 'Passive: Fiery Body' deals 1 additional damage permanently (stacks).",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Passive: Fiery Body",
+   "image": "https://i.imgur.com/PDlsJvb.png",
+   "description": "Every time Roshi uses a new skill, he deals 1 affliction damage to the enemy team, ignoring invulnerability.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Affliction, Instant."
+  }
+ ]
+}

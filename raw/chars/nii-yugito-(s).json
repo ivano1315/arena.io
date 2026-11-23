@@ -1,0 +1,48 @@
+{
+ "slug": "nii-yugito-(s)",
+ "name": "Nii Yugito (S)",
+ "portrait": "https://i.imgur.com/Mix50cS.png",
+ "description": "A kunoichi from Kumogakure, Nii Yugito holds within her the two-tailed beast. She has full control over the bijuu Nibi, and is able to transform into it and use its powers to fight.",
+ "unlock": "Mission: The Two Tailed Beast",
+ "skills": [
+  {
+   "name": "Nibi Transformation",
+   "image": "https://i.imgur.com/ehIzoqE.png",
+   "description": "Yugito gains 5 points of damage reduction and targets all enemies. Every time an enemy uses a new harmful skill, Yugito will deal 5 additional damage for 1 turn. While active, this skill can be used to heal 20 health and grant 50% unpierceable damage reduction for 1 turn. This skill ignores invulnerability.",
+   "cooldown": "2",
+   "energy": [],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Claw Swipe",
+   "image": "https://i.imgur.com/s7vWIeS.png",
+   "description": "Yugito takes a huge swipe of her claw, dealing 15 damage to one enemy for 2 turns. During this time, that enemy's helpful skills will cost 1 additional random chakra. Requires 'Nibi Transformation'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Chakra, Action, Melee."
+  },
+  {
+   "name": "Spectral Fireball",
+   "image": "https://i.imgur.com/8xEGIsC.png",
+   "description": "Yugito fires a large fireball from her mouth, dealing 30 piercing damage to one enemy. For 1 turn, that enemy's non-affliction damage will be reduced to a maximum of 25. Requires 'Nibi Transformation'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Rage",
+   "image": "https://i.imgur.com/akLKyX0.png",
+   "description": "This skill makes Nii Yugito (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

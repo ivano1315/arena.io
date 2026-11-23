@@ -1,0 +1,57 @@
+{
+ "slug": "shizune-(s)",
+ "name": "Shizune (S)",
+ "portrait": "https://i.imgur.com/wfbdjRK.png",
+ "description": "Having spent the past few years as the right-hand woman and de facto secretary to the Fifth Hokage, Shizune has matured and become more experienced. Still a top-class medical-nin, Shizune has also become proficient at sealing jutsu, defensive chakra control, and strategically utilizing her summon Katsuyu.",
+ "unlock": "Mission: An Experienced Medical-Nin",
+ "skills": [
+  {
+   "name": "Full Team Recovery",
+   "image": "https://i.imgur.com/gAeXBgQ.png",
+   "description": "Shizune instantly heals herself and her allies for 15 health. During 'Chakra Reinforcement', this skill will heal Shizune and her allies for 20 health.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Katsuyu Interception",
+   "image": "https://i.imgur.com/F0LJq9u.png",
+   "description": "Shizune calls upon Katsuyu to protect herself or an ally. For 1 turn, the first harmful skill used on the protected ally will be countered. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Chakra Reinforcement",
+   "image": "https://i.imgur.com/SBQ7uNx.png",
+   "description": "For 3 turns, Shizune will have 10 points of damage reduction. During this time, 'Full Team Recovery' will be improved. The following 3 turns, this skill will be replaced by 'Four-Corner Sealing Barrier'.",
+   "cooldown": "3",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Sliding Dodge",
+   "image": "https://i.imgur.com/ykKkwKV.png",
+   "description": "This skill makes Shizune (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Four-Corner Sealing Barrier",
+   "image": "https://i.imgur.com/8nbPdUT.png",
+   "description": "Shizune seals one enemy inside a four-corner barrier, dealing 25 damage to them. Afterwards, Shizune will become invulnerable for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  }
+ ]
+}

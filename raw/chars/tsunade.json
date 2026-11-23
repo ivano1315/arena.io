@@ -1,0 +1,71 @@
+{
+ "slug": "tsunade",
+ "name": "Tsunade",
+ "portrait": "https://i.imgur.com/hFS7FaF.png",
+ "description": "Tsunade is the Godaime Hokage and a Legendary Sannin. Her skill with medical ninjutsu allows her to do significant damage and heal herself and teammates.",
+ "unlock": "Mission: Disciples of the Slug",
+ "skills": [
+  {
+   "name": "Painful Sky Leg",
+   "image": "https://i.imgur.com/w5xkFjJ.png",
+   "description": "Tsunade performs a drop kick with her insane strength, dealing 35 damage to one enemy and stunning their skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Revitalizing Heal",
+   "image": "https://i.imgur.com/zDm6exf.png",
+   "description": "If used on an ally: That ally will heal 30 health for 1 turn.  If used on Tsunade: She will apply 'Creation Rebirth' on herself instead, removing all affliction skills from her, healing 35 health and becoming immune to affliction damage for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Major Summoning: Katsuyu",
+   "image": "https://i.imgur.com/nzOVhYU.png",
+   "description": "Tsunade summons the slug queen Katsuyu, healing her team for 20 health instantly. Katsuyu also spits acid on all enemies, dealing 20 affliction damage to them. For the rest of the game, Tsunade and her allies will heal 5 health and this skill will be replaced by 'Tongue Tooth Sticky Acid'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Elbow Block",
+   "image": "https://i.imgur.com/qXkTeHs.png",
+   "description": "This skill makes Tsunade invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Creation Rebirth",
+   "image": "https://i.imgur.com/1SBxj2P.png",
+   "description": "Tsunade uses her stored chakra to remove all harmful affliction skills from herself, heal 35 health, and become immune to affliction damage for 1 turn. This skill is automatically activated when 'Revitalizing Heal' is used on Tsunade.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Tongue Tooth Sticky Acid",
+   "image": "https://i.imgur.com/1Xunvkc.png",
+   "description": "Katsuyu releases an acidic paste from the mouth, dealing 15 affliction damage to all enemies and healing 15 health for Tsunade and her allies.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  }
+ ]
+}

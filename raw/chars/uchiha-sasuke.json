@@ -1,0 +1,57 @@
+{
+ "slug": "uchiha-sasuke",
+ "name": "Uchiha Sasuke",
+ "portrait": "https://i.imgur.com/Y6S9VsR.png",
+ "description": "A Genin from Team 7, Sasuke is the lone survivor of the Uchiha clan and has sworn vengeance against his brother. Using his sharingan, Sasuke is able to anticipate incoming attacks and is capable of advanced offensive moves.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Lion Combo",
+   "image": "https://i.imgur.com/tEIH5fQ.png",
+   "description": "Copying a taijutsu combo that Lee used on him, Sasuke deals 30 damage to one enemy. This skill will deal an additional 15 damage to an enemy affected by 'Sharingan'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Chidori",
+   "image": "https://i.imgur.com/kQpuuuX.png",
+   "description": "Using a lightning element attack jutsu, Sasuke deals 40 piercing damage to one enemy. This skill will deal an additional 15 damage to an enemy affected by 'Sharingan'. This skill requires 'Sharingan' to be active on Sasuke.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Sharingan",
+   "image": "https://i.imgur.com/Sv53VXt.png",
+   "description": "Sasuke targets one enemy. For 4 turns, Sasuke will gain 5 points of damage reduction and 'Chidori' may be used. During this time, that enemy will receive an additional 15 damage from 'Lion Combo' and 'Chidori'.",
+   "cooldown": "3",
+   "energy": [],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Swift Block",
+   "image": "https://i.imgur.com/F29QZe1.png",
+   "description": "This skill makes Uchiha Sasuke invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Passive: Cursed Seal Awakening",
+   "image": "https://i.imgur.com/wHV5DSC.png",
+   "description": "When Sasuke reaches 50 health for the first time, Cursed Seal will awaken, granting Sasuke 10 points of unpierceable damage reduction permanently. During this time, 'Sharingan' will also make the enemy unable to reduce damage or become invulnerable.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Instant."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "slug": "ao-(s)",
+ "name": "Ao (S)",
+ "portrait": "https://i.imgur.com/KHMBNiL.png",
+ "description": "Ao (S) is a hunter-nin of the Hidden Mist Village and a skilled sensor. Ao is a veteran shinobi who has been in many battles, one of his spoils of war is the byakugan he possesses.",
+ "unlock": "Mission: The Veteran of The Mist",
+ "skills": [
+  {
+   "name": "Stolen Byakugan",
+   "image": "https://i.imgur.com/SE4MQCu.jpg",
+   "description": "Ao uses his Byakugan on an enemy. For 3 turns, any new invisible skill used by that enemy will be visible and each time they use a new skill they will take 50% more damage from Ranged skills for 1 turn. This skill is invisible and cannot be countered or reflected.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Sensing Barrier",
+   "image": "https://i.imgur.com/ij8B1SF.jpg",
+   "description": "Ao uses his sensing barrier on an enemy, making them unable to reduce damage or become invulnerable and dealing 20 damage to them for 1 turn. The following turn, that enemy will receive an additional 5 damage from 'Sensing Barrier'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Byakugan Seal",
+   "image": "https://i.imgur.com/XNSUxsF.jpg",
+   "description": "For 1 turn, the first non mental skill used on Ao (S) will be countered. This skill is invisible the first time it is used and may only be used once. After the following 2 turns, this skill will be re-applied. During this time, if 'Sensing Barrier' is used this skill will be instantly re-applied.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Reactionary Defense",
+   "image": "https://i.imgur.com/UQa0dlh.jpg",
+   "description": "This skill makes Ao (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

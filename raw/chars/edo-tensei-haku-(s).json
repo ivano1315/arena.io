@@ -1,0 +1,50 @@
+{
+ "slug": "edo-tensei-haku-(s)",
+ "name": "Edo Tensei Haku (S)",
+ "portrait": "https://i.imgur.com/KEsUR4g.png",
+ "description": "Edo Tensei Haku (S) is not sure why he is among the living again but his dream of protecting Zabuza pushes him to go all out.",
+ "unlock": "Mission: Haku Returns",
+ "skills": [
+  {
+   "name": "Silent Piercing Murder",
+   "image": "https://i.imgur.com/nAjrelw.png",
+   "description": "Haku deals 20 piercing damage to one enemy. The following turn, that enemy will take 10 piercing damage. For 1 turn, they will lose 1 bloodline or ninjutsu chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Cristal Ice Mirrors Execution",
+   "image": "https://i.imgur.com/T49eIJw.png",
+   "description": "Haku deals 20 damage to one enemy. For 1 turn, if this enemy uses a new harmful non-mental skill, that skill will be reflected onto another random enemy. If no skill is reflected, Haku will steal 1 bloodline chakra from that enemy.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Low Temperature Enhancement",
+   "image": "https://i.imgur.com/qrBbo3F.png",
+   "description": "Haku grants himself 15 destructible defense for 2 turns. The following 2 turns, he will deal 5 additional damage and gain 1 random chakra each turn.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "ET Haku Block",
+   "image": "https://i.imgur.com/7B9yDd4.png",
+   "description": "This skill makes Edo Tensei Haku (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "preta-path-pein-(s)",
+ "name": "Preta Path Pein (S)",
+ "portrait": "https://i.imgur.com/fK5HPUB.png",
+ "description": "Preta Path Pein (S) is one of the six paths of Pein. This path is able to nulify jutsus and is used mostly for defensive tactics.",
+ "unlock": "Mission: Preta Path",
+ "skills": [
+  {
+   "name": "Energy Shield",
+   "image": "https://i.imgur.com/aSF7Q2O.jpg",
+   "description": "Preta Path (S) uses Energy Shield on one enemy removing 1 bloodline or Genjutsu chakra. That enemy will be dealt 25 piercing damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Rinnegan Absorption",
+   "image": "https://i.imgur.com/n1Rd3Tt.jpg",
+   "description": "Preta Path Pein (S) uses Rinnegan Absorption to protect himself. All damage dealt on Preta Path Pein (S) will be ignored and any enemy that uses a new damaging harmful skill on him will lose chakra equal the chakra cost of the skill used (except Random Chakra). This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Chakra Pin",
+   "image": "https://i.imgur.com/RyzGOhN.jpg",
+   "description": "Using Chakra Pin Preta Path Pein (S) stuns one enemy's harmful skills. Preta Path Pein (S) will steal 1 bloodline or genjutsu chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Agile Dodge",
+   "image": "https://i.imgur.com/9RZKQtI.jpg",
+   "description": "This skill makes Preta Path Pein (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

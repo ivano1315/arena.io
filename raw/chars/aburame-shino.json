@@ -1,0 +1,49 @@
+{
+ "slug": "aburame-shino",
+ "name": "Aburame Shino",
+ "portrait": "https://i.imgur.com/XSgn9p9.png",
+ "description": "A Genin from Team 8, Shino is the successor of the Aburame clan, and a very reserved and tactical fighter. Using the bugs that live inside his body, Shino is able to leech the chakra off his enemies, or protect his entire team.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Chakra Leach",
+   "image": "https://i.imgur.com/stITUZu.png",
+   "description": "Shino directs his chakra draining bugs to one enemy, stealing 20 health and 1 taijutsu or genjutsu chakra from them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Female Bug",
+   "image": "https://i.imgur.com/MRWPHSi.png",
+   "description": "Shino directs one of his female bugs to attach itself. For 3 turns, 'Chakra Leach' will steal 5 additional health from one enemy. During this time, if that enemy uses a new harmful skill, they will deal 5 less non-affliction damage for 1 turn. This skill cannot be used on an enemy already affected by it.",
+   "cooldown": "1",
+   "energy": [],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Bug Wall",
+   "image": "https://i.imgur.com/Zvu9ydw.png",
+   "description": "Shino calls millions of bugs to create a wall protecting himself and his allies and granting them 25 points of permanent destructible defense.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Bug Clone",
+   "image": "https://i.imgur.com/MnV2zJn.png",
+   "description": "This skill makes Aburame Shino invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

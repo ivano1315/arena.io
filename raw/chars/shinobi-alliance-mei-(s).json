@@ -1,0 +1,48 @@
+{
+ "slug": "shinobi-alliance-mei-(s)",
+ "name": "Shinobi Alliance Mei (S)",
+ "portrait": "https://i.imgur.com/g7K9hLz.png",
+ "description": "As the Fifth Mizukage, Mei Terumi joins the Allied Shinobi Forces during the Fourth Shinobi World War. Combining her mastery of Water Release with her corrosive kekkei genkai, she controls the battlefield while protecting the alliance.",
+ "unlock": "Mission: The Fifth Mizukage at War",
+ "skills": [
+  {
+   "name": "Water Dragon Bomb",
+   "image": "https://i.imgur.com/Su11Zzr.png",
+   "description": "Mei deals 25 damage to one enemy and stuns their skills for 1 turn. Afterwards, all other enemies will have the cost of their harmful skills increased by 1 random chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Acid Mud",
+   "image": "https://i.imgur.com/gkk0mx5.png",
+   "description": "Mei deals 10 affliction damage to all enemies for 1 turn, permanently lowering all their non-affliction damage by 5 until they use a new non-affliction damage skill. This skill's non-damage effects will be re-applied if a new stunning skill is used on an affected enemy. Each stack is removed once. Ends when Mei dies.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Silent Mist",
+   "image": "https://i.imgur.com/2TFO62S.png",
+   "description": "For 1 turn, if one enemy uses a new skill, they will be stunned for 1 turn in the primary class of that skill. This skill is invisible.",
+   "cooldown": "1",
+   "energy": [],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Mei Flee",
+   "image": "https://i.imgur.com/6Vz9AIg.png",
+   "description": "This skill makes Shinobi Alliance Mei (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

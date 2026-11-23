@@ -1,0 +1,69 @@
+{
+ "slug": "kankuro-(s)",
+ "name": "Kankuro (S)",
+ "portrait": "https://i.imgur.com/dj3meeB.png",
+ "description": "In the last couple years Kankuro(s) has become a Jounin and has created a new puppet. He is now able to harness three puppets at once and is a more versatile combatant.",
+ "unlock": "Mission: The Aspiring Puppet Master",
+ "skills": [
+  {
+   "name": "Kuroari Trap",
+   "image": "https://i.imgur.com/9FodKEM.png",
+   "description": "Kankuro traps one enemy for 1 turn. If that enemy uses a new harmful skill, they will be countered and receive 15 additional damage from 'Karasu Knives'. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Karasu Knives",
+   "image": "https://i.imgur.com/jGcSDIK.png",
+   "description": "Kankuro assaults one enemy with poisoned knives, dealing 25 damage to them and that enemy will take 10 affliction damage the following turn*. For 1 turn, this skill will be replaced by 'Karasu: Finishing Knive'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Affliction*, Instant, Ranged."
+  },
+  {
+   "name": "Sanshouo Shield",
+   "image": "https://i.imgur.com/OXzZKNs.png",
+   "description": "Kankuro uses Sanshouo to block enemy attacks. For 3 turns, Kankuro and his allies gain 5 points of damage reduction and are immune to affliction damage. During this time, this skill will be replaced by 'Salamander Puppet'. This skill ends if Kankuro dies.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Puppet Distraction",
+   "image": "https://i.imgur.com/eQgxBJo.png",
+   "description": "This skill makes Kankuro (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Karasu: Finishing Knive",
+   "image": "https://i.imgur.com/zD2TOYL.png",
+   "description": "This skill deals 20 piercing damage to one enemy.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Salamander Puppet",
+   "image": "https://i.imgur.com/TeoTvDM.png",
+   "description": "Kankuro protects himself or an ally for 1 turn, that ally will gain 20 points of unpierceable damage reduction.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

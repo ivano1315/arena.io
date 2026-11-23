@@ -1,0 +1,52 @@
+{
+ "slug": "kimimaro",
+ "name": "Kimimaro",
+ "portrait": "https://i.imgur.com/qzCv58M.png",
+ "description": "A member of the Sound Five, Kimimaro was the leader, and the strongest of the team before his illness. Kimimaro's bloodline grants him unstoppable offensive power, however, his illness is slowly killing him, giving him precious little time.",
+ "unlock": "Mission: The Search for Kimimaro",
+ "skills": [
+  {
+   "name": "Dance of the Camellia",
+   "image": "https://i.imgur.com/kwWcpw0.png",
+   "description": "Kimimaro uses his superior taijutsu and arm bones as a sword dealing 30 damage to one enemy. This skill cannot be countered or reflected. Afterwards, Kimimaro will receive 5 affliction damage.*",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee, Affliction*."
+  },
+  {
+   "name": "Dance of the Clematis",
+   "image": "https://i.imgur.com/Q6rE1Ey.png",
+   "description": "Kimimaro attacks one enemy with an extremely hard and sharp bone spear, dealing 45 damage to them and stunning them for 1 turn. This skill cannot be countered or reflected. Afterwards, Kimimaro will receive 10 affliction damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee, Affliction*."
+  },
+  {
+   "name": "Dance of the Seedling Fern",
+   "image": "https://i.imgur.com/hgM78mG.png",
+   "description": "Kimimaro creates a forest of sharp bones, dealing 35 piercing damage to all enemies and making their physical and chakra skills deal 15 less damage. This skill cannot be countered or reflected. Afterwards, Kimimaro will receive 15 affliction damage for 2 turns.*",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged, Affliction*."
+  },
+  {
+   "name": "Bone Defense",
+   "image": "https://i.imgur.com/bSUqg3e.png",
+   "description": "This skill makes Kimimaro invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

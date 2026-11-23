@@ -1,0 +1,59 @@
+{
+ "slug": "tenten-(s)",
+ "name": "Tenten (S)",
+ "portrait": "https://i.imgur.com/lFtTPeQ.png",
+ "description": "After nearly three years Tenten(s) is now a chuunin. In this time she has improved the diversity and strength of her ranged arsenal.",
+ "unlock": "Mission: A Genius of Ranged Combat",
+ "skills": [
+  {
+   "name": "Weapon Upgrade",
+   "image": "https://i.imgur.com/4gqbQHh.png",
+   "description": "By upgrading her weapons, Tenten gains 10 points of destructible defense for 1 turn. The following turn, 'Kunai Grenade' and 'Heavenly Chain Disaster' will cost 1 less random chakra. This skill will be replaced by 'Explosive Kunais Wave' for 1 turn.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Kunai Grenade",
+   "image": "https://i.imgur.com/g0ZItPe.png",
+   "description": "Tenten throws an explosive filled with kunais at the enemy team, dealing 15 damage to one enemy and 10 damage to all other enemies. Any enemy that falls to 35 health or below will also receive 5 affliction damage*.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Affliction*, Instant, Ranged."
+  },
+  {
+   "name": "Heavenly Chain Disaster",
+   "image": "https://i.imgur.com/ooQdu9y.png",
+   "description": "Tenten rains blindingly fast projectiles upon the battlefield, dealing 30 piercing damage to all enemies.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Leaping Dodge",
+   "image": "https://i.imgur.com/9Q9R8e4.png",
+   "description": "This skill makes Tenten (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Explosive Kunais Wave",
+   "image": "https://i.imgur.com/OPV7YPl.png",
+   "description": "Tenten throws a wave of kunais with explosive tag on the enemy team, dealing 10 affliction damage to them. The following 3 turns, these enemies will be dealt 5 affliction damage each turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  }
+ ]
+}

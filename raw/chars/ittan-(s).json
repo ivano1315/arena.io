@@ -1,0 +1,50 @@
+{
+ "slug": "ittan-(s)",
+ "name": "Ittan (S)",
+ "portrait": "https://i.imgur.com/V9ChdA7.png",
+ "description": "A chuunin of the Hidden Rock Village, Ittan is a member of the Surprise Attack Division of the Shinobi Alliance. A tough and serious man who is extremely calm during battle, Ittan is proficient with Earth Release jutsu, his specialty being ones which dynamically manipulate the terrain into battle-ready formations.",
+ "unlock": "Mission: The Experienced Rock Shinobi",
+ "skills": [
+  {
+   "name": "Battlefield Trenches",
+   "image": "https://i.imgur.com/Gr7u2So.png",
+   "description": "For 2 turns, all enemies will receive 5 additional non-affliction damage and deal 5 less non-affliction damage.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Moving Earth Core",
+   "image": "https://i.imgur.com/s52wDwX.png",
+   "description": "Ittan deals 30 damage to one enemy and 5 damage to all other enemies. For 1 turn, the main target will deal 10 less non-affliction damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Earth Dome",
+   "image": "https://i.imgur.com/cMGtnOt.png",
+   "description": "Ittan targets one ally and himself, making both invulnerable to non-mental skills for 1 turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Trench Defense",
+   "image": "https://i.imgur.com/NWifbwD.png",
+   "description": "This skill makes Ittan invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

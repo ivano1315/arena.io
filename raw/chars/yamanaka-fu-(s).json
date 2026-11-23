@@ -1,0 +1,59 @@
+{
+ "slug": "yamanaka-fu-(s)",
+ "name": "Yamanaka Fu (S)",
+ "portrait": "https://i.imgur.com/InnBYnM.png",
+ "description": "Yamanaka Fu (S) is a member of the Yamanaka clan and a member of Anbu Root. Fu is a skilled genjutsu user and the partner of Torune.",
+ "unlock": "Mission: The Yamanaka Shadow",
+ "skills": [
+  {
+   "name": "Tanto Slash",
+   "image": "https://i.imgur.com/Ivhjle9.png",
+   "description": "Fu slashes with his tanto, dealing 25 damage to one enemy. This skill will deal 15 additional damage to an enemy countered by 'Mind Puppet Switch'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Quickened Mind Body Switch",
+   "image": "https://i.imgur.com/UtGsxRv.png",
+   "description": "Fu disrupts one enemy, dealing 20 piercing damage to them. For 1 turn, that enemy will be invulnerable to helpful skills. The following turn, 'Tanto Slash' will deal 15 additional damage to that enemy.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Mind Puppet Switch",
+   "image": "https://i.imgur.com/XWZVLWA.png",
+   "description": "Fu sets up a trap using a puppet. For 1 turn, the first enemy that uses a new harmful physical or chakra skill against Fu or one ally will be countered and will have all their skills replaced by 'Mind Puppet Switch - Attack' for 2 turns, and this skill will end.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Aggresive Retreat",
+   "image": "https://i.imgur.com/bwxSRFa.png",
+   "description": "This skill makes Yamanaka Fu (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Mind Puppet Switch - Attack",
+   "image": "https://i.imgur.com/F94sK6m.jpeg",
+   "description": "This skill deals 15 damage to one enemy.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

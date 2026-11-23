@@ -1,0 +1,47 @@
+{
+ "slug": "namikaze-minato",
+ "name": "Namikaze Minato",
+ "portrait": "https://i.imgur.com/PSc47fS.png",
+ "description": "Known as Konoha's Yellow Flash, Minato is the leader of Team Minato. His style of combat is unique and he is a highly analytical and caring person.",
+ "unlock": "Mission: The Yellow Flash",
+ "skills": [
+  {
+   "name": "Flying Thunder God",
+   "image": "https://i.imgur.com/tIMIalU.png",
+   "description": "Using his teleportation abilities, Minato either attacks one enemy, dealing 20 damage to them or defends an ally making them invulnerable for 1 turn. Minato will also become invulnerable for 1 turn. The following 3 turns, this skill will cost 1 additional random chakra and will deal 15 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Space-Time Marking",
+   "image": "https://i.imgur.com/jBC6zRy.png",
+   "description": "Minato marks an enemy, making them unable to reduce damage or become invulnerable for 2 turns. If 'Flying Thunder God' is used, that enemy will receive 10 additional damage and their mark will be extended by 1 turn. This skill ignores invulnerability.",
+   "cooldown": "2",
+   "energy": [],
+   "classes": "Chakra, Control, Ranged."
+  },
+  {
+   "name": "Space-Time Kunai Scatter",
+   "image": "https://i.imgur.com/BreOhEB.png",
+   "description": "By scattering hiraishin kunais, Minato applies 'Space-Time Marking' on all enemies. For 2 turns, Minato gains 1 random chakra.This skill is invisible ignores invulnerability.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Control, Ranged."
+  },
+  {
+   "name": "Seal Sensing",
+   "image": "https://i.imgur.com/GjTFYPH.png",
+   "description": "This skill makes Namikaze Minato invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "young-konan-(s)",
+ "name": "Young Konan (S)",
+ "portrait": "https://i.imgur.com/FCjYu6R.png",
+ "description": "The Rain Orphans were three children who lost their parents due to the Hidden Rain Village's involvement in the Second Shinobi World War. Konan is a sweet girl who always cares more about her teammates than herself.",
+ "unlock": "Mission: The Young Paper Angel",
+ "skills": [
+  {
+   "name": "Winding Paper Shuriken",
+   "image": "https://i.imgur.com/MegdVmI.png",
+   "description": "Konan throws paper shuriken with lethal speed, dealing 20 damage to one enemy, and they will ignore all helpful effects for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Origami Rose",
+   "image": "https://i.imgur.com/10g4iRA.png",
+   "description": "Konan creates an origami rose, dealing 40 damage to one enemy and stunning their skills for 1 turn. During 'Paper Origami', this skill will cost 1 genjutsu and 1 random chakra instead.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Paper Origami",
+   "image": "https://i.imgur.com/xSKKNnZ.png",
+   "description": "Konan charges her papers at one enemy, dealing 10 damage to them for 3 turns. The following 3 turns, Konan will gain 5 points of damage reduction and ignore stuns effects. During this time, 'Origami Rose' will be improved.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Ranged."
+  },
+  {
+   "name": "Marvelous Frog Disguise",
+   "image": "https://i.imgur.com/AWGoMY7.png",
+   "description": "This skill makes this character invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "oboro",
+ "name": "Oboro",
+ "portrait": "https://i.imgur.com/XLe6m8K.png",
+ "description": "A Rain Genin in the Chuunin exams, Oboro specializes in distracting his opponents with illusions and attacking when unexpected.",
+ "unlock": "Mission: A Downpour of Illusion",
+ "skills": [
+  {
+   "name": "Underground Ambush",
+   "image": "https://i.imgur.com/0mrTugT.png",
+   "description": "Hiding in the ground, Oboro attacks one enemy from behind, dealing 20 damage and stunning their physical and mental skills for 1 turn. During 'Haze Clones', this skill is improved and targets all enemies instead.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Exploding Kunai",
+   "image": "https://i.imgur.com/LRf4G2h.png",
+   "description": "Oboro throws a kunai with an exploding tag on it dealing 15 damage to all enemies. During 'Haze Clones', this skill is improved and deals 20 damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Haze Clones",
+   "image": "https://i.imgur.com/ByWGkAm.png",
+   "description": "Oboro creates illusionary duplicates of himself. The following 3 turns, 'Exploding Kunai' and 'Underground Ambush' will be improved. During this time, Oboro gains 30 points of destructible defense and becomes invulnerable to mental skills.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Fleet of Foot",
+   "image": "https://i.imgur.com/A1qWXdJ.png",
+   "description": "This skill makes Oboro invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "shigure",
+ "name": "Shigure",
+ "portrait": "https://i.imgur.com/lLYJBpS.png",
+ "description": "A Genin from the Village of Rain, Shigure specializes in using his chakra to control needles hidden in his umbrellas.",
+ "unlock": "Mission: A Rare Opportunity",
+ "skills": [
+  {
+   "name": "Umbrella Toss",
+   "image": "https://i.imgur.com/oo2VNIZ.png",
+   "description": "Shigure tosses his umbrellas into the air, gaining 5 points of damage reduction for 3 turns. During this time, any enemy that uses a new skill on Shigure or his allies will be dealt 5 piercing damage; Triggers once per enemy a turn. The following 3 turns, 'Sprinkling Needles' may be used. This skill ends when Shigure dies.",
+   "cooldown": "3",
+   "energy": [],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Sprinkling Needles",
+   "image": "https://i.imgur.com/IiYoFlG.png",
+   "description": "Needles rain down from Shigure's umbrellas, dealing 10 piercing damage to all enemies for 3 turns. The following 2 turns, 'Needle Barrage' may be used on enemies affected by this skill. This skill cannot be countered and it requires 'Umbrella Toss' to be used.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Ranged."
+  },
+  {
+   "name": "Needle Barrage",
+   "image": "https://i.imgur.com/72iKrUX.png",
+   "description": "Shigure specifically directs needles at one enemy, dealing 30 damage to them. This skill can only target enemies that are affected by 'Sprinkling Needles'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Umbrella Block",
+   "image": "https://i.imgur.com/SVXZnxK.png",
+   "description": "This skill makes Shigure invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

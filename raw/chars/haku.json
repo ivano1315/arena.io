@@ -1,0 +1,51 @@
+{
+ "slug": "haku",
+ "name": "Haku",
+ "portrait": "https://i.imgur.com/xkQrIRT.png",
+ "description": "The sole survivor of the Yuki clan, and the subordinate of Zabuza; Haku, despite being young, holds enough potential strength to surpass almost any ninja. Using his ice based bloodline, and his intelligence, Haku can attack and defend nearly simultaneously.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Flying Water Needles of Death",
+   "image": "https://i.imgur.com/2rG04gY.png",
+   "description": "Haku flings a number of water based needles, dealing 35 damage to one enemy. While improved by 'Demonic Ice Mirrors', this skill will deal 45 damage to that enemy.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Ranged, Instant."
+  },
+  {
+   "name": "Acupuncture",
+   "image": "https://i.imgur.com/UH3730n.png",
+   "description": "Haku hits the acupuncture points of one enemy, stunning their skills for 1 turn. While improved by 'Demonic Ice Mirrors', this skill will stun for 2 turns instead. This skill ignores invulnerability.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Ranged, Instant."
+  },
+  {
+   "name": "Demonic Ice Mirrors",
+   "image": "https://i.imgur.com/nV4rFP7.png",
+   "description": "Haku creates numerous mirrors, dealing 10 damage to all enemies for 3 turns. The following 3 turns, 'Flying Water Needles of Death' and 'Acupuncture' will be improved. During this time, Haku gains 30 points of destructible defense and ignores stun effects.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Ranged, Action, Instant*, Unique."
+  },
+  {
+   "name": "Mirror Transfer",
+   "image": "https://i.imgur.com/3DsZLu9.png",
+   "description": "This skill makes Haku invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Unique."
+  }
+ ]
+}

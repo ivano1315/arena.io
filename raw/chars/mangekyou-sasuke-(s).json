@@ -1,0 +1,50 @@
+{
+ "slug": "mangekyou-sasuke-(s)",
+ "name": "Mangekyou Sasuke (S)",
+ "portrait": "https://i.imgur.com/1NZvvvJ.png",
+ "description": "Mangekyou Sasuke (S), Sasuke after defeating his older brother Itachi has gained the mangekyou sharingan. Sasuke is now a member of the Akatsuki, and also the leader of the newly created Team Taka, whose goal is to destroy the Hidden Leaf.",
+ "unlock": "Mission: Awakening of the Mangekyou Sharingan",
+ "skills": [
+  {
+   "name": "Amaterasu Wave",
+   "image": "https://i.imgur.com/EQO9Xwr.png",
+   "description": "Using his Amaterasu in the battlefield, Sasuke deals 12 affliction damage to all enemies for 2 turns. While active, any enemy that does not use a new skill will make 'Amaterasu Wave' last 1 turn longer on them. This skill cannot be used on enemies already affected by it and it cannot be removed.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Action, Ranged."
+  },
+  {
+   "name": "Enton Amaterasu",
+   "image": "https://i.imgur.com/ZOECvbm.png",
+   "description": "Sasuke uses his Amaterasu as a shield on himself for 4 turns, granting him 15 points of destructible defense. During this time, any enemy that uses a new non-mental skill on Sasuke will *receive 5 affliction damage permanently. This skill stacks.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Dark Genjutsu",
+   "image": "https://i.imgur.com/WvskJD1.png",
+   "description": "Mangekyou Sasuke (S) deals 25 piercing damage to one enemy. That enemy's non-mental skills will be stunned for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Hawk Summoning",
+   "image": "https://i.imgur.com/TRvpMVO.jpg",
+   "description": "This skill makes Mangekyou Sasuke (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

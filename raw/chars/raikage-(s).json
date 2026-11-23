@@ -1,0 +1,48 @@
+{
+ "slug": "raikage-(s)",
+ "name": "Raikage (S)",
+ "portrait": "https://i.imgur.com/NwtJF5J.png",
+ "description": "Ay is the fourth Raikage of Hidden Cloud Ninja and supreme leader of the Shinobi Alliance. Son of the Third Raikage, he is also Killer Bee's older brother.",
+ "unlock": "Mission: The Fourth Raikage",
+ "skills": [
+  {
+   "name": "Lightning Release",
+   "image": "https://i.imgur.com/2We4Iaj.png",
+   "description": "Using lightning, Raikage will permanently deal 10 additional damage until he uses a new harmful skill. While active, he gains 10 points of damage reduction. Each time this skill is used, it costs 1 additional random chakra, its bonus damage increases by 10, and grants 5 additional points of damage reduction.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Liger Bomb",
+   "image": "https://i.imgur.com/jKeuupD.png",
+   "description": "Raikage lifts one enemy in the air and then brutaly smashes their head fist into ground, dealing 30 damage to them and lowering their non-affliction damage by 15 for 1 turn. The following turn, that enemy's skills will be stunned.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Lightning Oppression Horizontal",
+   "image": "https://i.imgur.com/6Tl1X1K.png",
+   "description": "Raikage performs a backhanded horizontal chop againts one enemy, destroying all destructible defense and dealing 20 piercing damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Lightning Speed",
+   "image": "https://i.imgur.com/OcYwaIA.png",
+   "description": "This skill makes Raikage (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "slug": "edo-tensei-rasa-(s)",
+ "name": "Edo Tensei Rasa (S)",
+ "portrait": "https://i.imgur.com/khFVhP8.png",
+ "description": "Edo Tensei Rasa (S), the former Fourth Kazekage, has been summoned to participate in the war. Even after returning from death, he will prioritize his village above all else.",
+ "unlock": "Mission: The Fourth Kazekage",
+ "skills": [
+  {
+   "name": "Magnet Release",
+   "image": "https://i.imgur.com/x7al9T9.png",
+   "description": "Rasa manipulates his gold dust, fortifying himself. For 4 turns, he will gain 5 points of damage reduction and ignore enemy affliction damage. During this time, 'Gold Dust Waterfall' will deal 10 additional damage.",
+   "cooldown": "4",
+   "energy": [],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Gold Dust Waterfall",
+   "image": "https://i.imgur.com/Cii9eiG.png",
+   "description": "Rasa engulfs one enemy in a massive waterfall of gold dust, dealing 40 piercing damage to them. For 1 turn, that enemy will ignore helpful effects.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Gold Dust Shield",
+   "image": "https://i.imgur.com/2PwQI60.png",
+   "description": "Rasa raises a massive shield of gold dust to protect his team. For 2 turns, they will gain 10 points of damage reduction and be immune to affliction damage. If targetable, all enemies will take 10 damage for 2 turns.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Ranged."
+  },
+  {
+   "name": "Gold Dust Manipulation",
+   "image": "https://i.imgur.com/YoVgTST.png",
+   "description": "This skill makes Edo Tensei Rasa (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

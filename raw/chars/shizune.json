@@ -1,0 +1,50 @@
+{
+ "slug": "shizune",
+ "name": "Shizune",
+ "portrait": "https://i.imgur.com/V4ZPeu0.png",
+ "description": "Shizune is the aid of Tsunade. A competent combatant using poisons and needles, she is also a highly skilled medic who is able to heal her allies.",
+ "unlock": "Mission: Medical Training",
+ "skills": [
+  {
+   "name": "Prepared Needle Shot",
+   "image": "https://i.imgur.com/IXgvJIk.png",
+   "description": "Shizune shoots hidden needles at one enemy dealing 15 damage to them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Poison Mist",
+   "image": "https://i.imgur.com/pAf7GAy.png",
+   "description": "Shizune breaths a poison cloud on one enemy who takes 10 affliction damage for 3 turns. During this time, if that enemy uses a new harmful skill, they will receive 10 additional damage from non-affliction skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Healing Resuscitation Regeneration",
+   "image": "https://i.imgur.com/PXcTQUt.png",
+   "description": "Using this advanced healing technique, Shizune heals one ally for 35 health and removes all enemy affliction skills from them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Shizune Dodge",
+   "image": "https://i.imgur.com/E9iWJNm.png",
+   "description": "This skill makes Shizune invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

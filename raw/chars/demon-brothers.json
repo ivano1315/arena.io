@@ -1,0 +1,61 @@
+{
+ "slug": "demon-brothers",
+ "name": "Demon Brothers",
+ "portrait": "https://i.imgur.com/rO5gKY6.png",
+ "description": "A duo of Mist Nin who work for Zabuza, the Demon Brothers specialize in assassinating their targets with their shuriken chain.",
+ "unlock": "Mission: Mist Ascendant",
+ "skills": [
+  {
+   "name": "Chain Wrap",
+   "image": "https://i.imgur.com/Jy3kQlZ.png",
+   "description": "Demon Brothers wrap one enemy in their chain. The following 3 turns, if Demon Brothers uses a new harmful skill on that enemy, their non-mental skills will be stunned for 1 turn. During this time, Demon Brothers becomes invulnerable to mental and affliction skills, and this skill is replaced by 'Chain Shred'.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Bladed Gauntlet",
+   "image": "https://i.imgur.com/v9AIQOF.png",
+   "description": "Demon Brothers uses their gauntlets shredding, gaining 10 permanent destructible defense and dealing 30 damage to one enemy. This skill will deal an additional 5 damage to the enemy affected by 'Chain Wrap'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Puddle Illusion",
+   "image": "https://i.imgur.com/CSs3png.png",
+   "description": "The Demon Brothers hide in water, gaining 20 points of destructible defense and 1 taijutsu chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Demon Brothers Vanish",
+   "image": "https://i.imgur.com/Xzic8o5.png",
+   "description": "This skill makes Demon Brothers invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Chain Shred",
+   "image": "https://i.imgur.com/7Fr4FND.png",
+   "description": "Demon Brothers rip apart one enemy affected by 'Chain Wrap', dealing 45 piercing damage to them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

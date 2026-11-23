@@ -1,0 +1,49 @@
+{
+ "slug": "akadou-yoroi",
+ "name": "Akadou Yoroi",
+ "portrait": "https://i.imgur.com/ZqpOP0D.png",
+ "description": "Part of the three man team of Kabuto during the Chuunin Exams working as spies, Yoroi has a special ability that allows him to absorb his opponents energy.",
+ "unlock": "Mission: The Sounds Amongst the Leaves",
+ "skills": [
+  {
+   "name": "Chakra and Life Absorption",
+   "image": "https://i.imgur.com/0qvKdhQ.png",
+   "description": "Yoroi endows his attacks. The following 3 turns, 'Draining Assault' and 'Energy Drain' may be used.",
+   "cooldown": "3",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Energy Drain",
+   "image": "https://i.imgur.com/5WXWl5W.png",
+   "description": "Yoroi touches one enemy, stealing 20 health from them for 1 turn and lowering their non-affliction damage by 5 until that enemy uses a new damage skill. During 'Draining Assault', this skill will steal 1 bloodline chakra. Requires 'Chakra and Life Absorption' to be used.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Draining Assault",
+   "image": "https://i.imgur.com/F4ymMEe.png",
+   "description": "Yoroi charges at one enemy with multiple energy drains, stealing 12 health from them for 3 turns and stealing 1 bloodline or ninjutsu chakra each turn. During this time, 'Energy Drain' will be improved. Requires 'Chakra and Life Absorption' to be used.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Action, Melee."
+  },
+  {
+   "name": "Chakra Block",
+   "image": "https://i.imgur.com/MNnA4mF.png",
+   "description": "This skill makes Akadou Yoroi invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

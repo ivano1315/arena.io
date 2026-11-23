@@ -1,0 +1,51 @@
+{
+ "slug": "shinobi-alliance-sai-(s)",
+ "name": "Shinobi Alliance Sai (S)",
+ "portrait": "https://i.imgur.com/pDe8wDr.png",
+ "description": "Sai became capable of using a wider variety of techniques after improving his skills with his animal paintings. Besides that, Sai carries with him his powerful Sealing Technique.",
+ "unlock": "Mission: The Emotional Energy",
+ "skills": [
+  {
+   "name": "Tiger Vision Staring Bullet",
+   "image": "https://i.imgur.com/rlHMnoA.png",
+   "description": "By using this sealing technique, Sai stuns one enemy's harmful skills permanently and deals 25 damage to them each turn. If that enemy uses a new skill, this skill will end and Sai gains 1 genjutsu chakra. This skill ends if Sai is killed.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Great Beast Painting: Kamikaze Birds",
+   "image": "https://i.imgur.com/rhBP4y8.png",
+   "description": "Sai makes one enemy receive 5 additional damage from non-affliction skills* and deals them 10 piercing damage to them each turn permanently. If that enemy uses a new skill, they will take 20 piercing damage and then this skill will end. This skil ends if Sai is killed.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Action, Instant*, Ranged."
+  },
+  {
+   "name": "Great Beast Painting: Ink Warriors",
+   "image": "https://i.imgur.com/EIXhkHV.png",
+   "description": "Sai grants one ally and himself 20 points of destructible defense. If that ally's destructible defense is destroyed, 'Great Beast Painting: Kamikaze Birds' will have no cost for 1 turn. If Sai destructible defense is destroyed, 'Tiger Vision Staring Bullet' will cost 1 random chakra for 1 turn.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Sai Kunai Parry",
+   "image": "https://i.imgur.com/8dtdZfr.png",
+   "description": "This skill makes Shinobi Alliance Sai (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

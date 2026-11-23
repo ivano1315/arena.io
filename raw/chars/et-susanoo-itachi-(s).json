@@ -1,0 +1,61 @@
+{
+ "slug": "et-susanoo-itachi-(s)",
+ "name": "ET Susanoo Itachi (S)",
+ "portrait": "https://i.imgur.com/BpmSm85.png",
+ "description": "Having been reanimated once more, Itachi now manifests the full power of his Susanoo in battle. Shielded by the Yata Mirror and wielding the sealing Totsuka Blade, he becomes a relentless force that blends absolute defense with lethal precision.",
+ "unlock": "Mission: The Legendary Totsuka Blade",
+ "skills": [
+  {
+   "name": "Skeletal Blade",
+   "image": "https://i.imgur.com/G3fcX2N.png",
+   "description": "Using his Susanoo's skeletal blade, Itachi deals 20 piercing damage to one enemy. Permanently, that enemy will receive 5 additional damage from harmful skills.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Interrupting Slice",
+   "image": "https://i.imgur.com/W93tUcS.png",
+   "description": "Itachi deals 15 piercing damage to one enemy. Permanently, that enemy will deal 5 less non-affliction damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Totsuka Blade Sealing",
+   "image": "https://i.imgur.com/W9fEiJG.png",
+   "description": "Itachi seals one enemy with his Susanoo's legendary blade, dealing 35 affliction damage to them, removing 1 bloodline or genjutsu chakra and stunning their harmful skills for 1 turn. This skill cannot be countered or reflected.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Edo Tensei Susanoo",
+   "image": "https://i.imgur.com/H8rOOB1.png",
+   "description": "For 3 turns, if Itachi's health drops to 35 or less, Itachi's Susanoo will evolve to the next stage, improving his skills for the following 3 turns. During this time, this skill will be replaced by 'Yasaka Magatama' and Itachi's skills will steal health instead. This skill is invisible.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Yasaka Magatama",
+   "image": "https://i.imgur.com/egbsnab.png",
+   "description": "Itachi unleashes his strongest long-range technique, dealing 40 piercing damage to all enemies. This skill cannot be countered.",
+   "cooldown": "9",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "sarutobi-konohamaru-(s)",
+ "name": "Sarutobi Konohamaru (S)",
+ "portrait": "https://i.imgur.com/igEhSjH.png",
+ "description": "Determined to follow in Naruto's footsteps, Konohamaru refuses to back down even against overwhelming opponents. Combining his shadow clones, clever distractions, and the powerful Rasengan, he fights to prove himself as a proud shinobi of the Hidden Leaf Village.",
+ "unlock": "Mission: The Legacy of the Sarutobi",
+ "skills": [
+  {
+   "name": "Unexpected Rasengan",
+   "image": "https://i.imgur.com/WGVqs0g.png",
+   "description": "Seizing an opening in his opponent's defenses, Konohamaru strikes with a powerful Rasengan. Konohamaru targets one enemy for 1 turn. The following turn, that enemy will take 25 damage and an additional 15 damage if they used a new skill that turn. This skill is invisible.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Action, Melee."
+  },
+  {
+   "name": "Ash Pile Diversion",
+   "image": "https://i.imgur.com/xNcPuCK.png",
+   "description": "Konohamaru obscures his opponents' vision, blinding all enemies' harmful skills for 2 turns (a blinded harmful skill will target a random enemy instead of a specific enemy). If 'Unexpected Rasengan' is used on an enemy affected by this skill, 'Unexpected Rasengan' will instantly deal 40 damage to that enemy instead.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Shuriken Shadow Clone Barrage",
+   "image": "https://i.imgur.com/bs7K6d0.png",
+   "description": "Konohamaru launches a coordinated assault at his opponents, dealing 15 damage to all enemies for 2 turns. Also for 2 turns*, any enemy that gets affected by a new helpful skill from a member of their team will take 15 damage.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Instant*, Ranged."
+  },
+  {
+   "name": "Backflip Dodge",
+   "image": "https://i.imgur.com/c0ExbL1.png",
+   "description": "This skill makes Konohamaru invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

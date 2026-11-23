@@ -1,0 +1,53 @@
+{
+ "slug": "gaara-rehabilitated",
+ "name": "Gaara Rehabilitated",
+ "portrait": "https://i.imgur.com/tV82AF4.png",
+ "description": "After his fateful encounter with Naruto, Gaara has left behind his murderous ways. He has become even more skilled with using sand since Naruto last saw him too.",
+ "unlock": "Mission: The Redemption of Gaara",
+ "skills": [
+  {
+   "name": "Sand Mastery",
+   "image": "https://i.imgur.com/wcE2zcH.png",
+   "description": "Using sand to both defend and attack, Gaara gains 5 permanent destructible defense. Permanently, Gaara's skills will cost 1 less random chakra.",
+   "cooldown": "2",
+   "energy": [],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Desert Imperial Funeral",
+   "image": "https://i.imgur.com/KX5LPwj.png",
+   "description": "Gaara deals 25 piercing damage to one enemy. For 1 turn, that enemy will be unable to reduce damage or become invulnerable and their skills will cost 1 additional random chakra. If that enemy is affected by 'Quicksand Waterfall', their skills will cost 2 additional random chakra instead.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Quicksand Waterfall",
+   "image": "https://i.imgur.com/LsFUhWE.png",
+   "description": "Gaara creates massive waves of sand. For 4 turns, Gaara and his allies gain 10 destructible defense and all enemies take 10 damage*. During this time, if Gaara or an ally receives new non-affliction damage, they will gain 5 destructible defense the following turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Action*, Ranged."
+  },
+  {
+   "name": "Shield of Shukaku",
+   "image": "https://i.imgur.com/QVMa2Mh.png",
+   "description": "Gaara uses the ultimately hard absolute defense, creating a protective shield in front of his team and granting them 20 points of destructible defense for 3 turns.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

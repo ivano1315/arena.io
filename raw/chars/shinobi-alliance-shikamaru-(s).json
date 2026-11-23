@@ -1,0 +1,61 @@
+{
+ "slug": "shinobi-alliance-shikamaru-(s)",
+ "name": "Shinobi Alliance Shikamaru (S)",
+ "portrait": "https://i.imgur.com/fVgHpUK.png",
+ "description": "Shikamaru, now in the war. He remains a good and talented ninja, using his shadows more effectively, in addition to using the help of his allies very well, and forcing his enemies to help him too.",
+ "unlock": "Mission: The Strategist At War",
+ "skills": [
+  {
+   "name": "Continuous Shadow Sewing",
+   "image": "https://i.imgur.com/aLnt17m.png",
+   "description": "Shikamaru deals 30 piercing damage to one enemy and stuns their non-chakra skills for 1 turn. If that enemy doesn't use any new skill, they will take 15 additional piercing damage. During 'Tatical Range Increase', this skill will deal 15 additional damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Tatical Range Increase",
+   "image": "https://i.imgur.com/PNq9tnn.png",
+   "description": "For 1 turn, Shikamaru will ignore all damage dealt and will target all enemies. During this time, the enemies that use a new skill will be able to be target of 'Tatical Shadow Bind' for 1 turn. This skill becomes 'Tatical Shadow Bind' for 1 turn and is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Ally Shadow Control",
+   "image": "https://i.imgur.com/73Vhlng.png",
+   "description": "Shikamaru target one ally for 3 turns, making their skills have 1 cooldown decreased, and if Shikamaru uses a new skill that ally will become invulnerable to damage skills for 1 turn.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Hide and Thinking",
+   "image": "https://i.imgur.com/pPAXCWL.png",
+   "description": "This skill makes Shinobi Alliance Shikamaru (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Tatical Shadow Bind",
+   "image": "https://i.imgur.com/vnSogry.png",
+   "description": "Shikamaru deals 30 damage to all enemies affected by 'Tatical Range Increase', and for 2 turns stuns their physical and chakra skills.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Control, Ranged."
+  }
+ ]
+}

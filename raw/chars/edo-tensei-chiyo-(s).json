@@ -1,0 +1,50 @@
+{
+ "slug": "edo-tensei-chiyo-(s)",
+ "name": "Edo Tensei Chiyo (S)",
+ "portrait": "https://i.imgur.com/Mh9GsDq.png",
+ "description": "Edo Tensei Chiyo (S) has been summoned back from the afterlife. She may not like it but she will do her best to help her opponents out with information while she is forced to fight.",
+ "unlock": "Mission: Return of the Puppet Master",
+ "skills": [
+  {
+   "name": "White Secret Technique Ten Puppets",
+   "image": "https://i.imgur.com/y4LZSrI.png",
+   "description": "Chiyo assaults her enemies using the ten puppets, stunning one enemy's physical and chakra skills for 1 turn. Afterwards, one random enemy will be dealt 20 damage for 2 turns.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Ranged."
+  },
+  {
+   "name": "Possum",
+   "image": "https://i.imgur.com/DouGpB2.png",
+   "description": "Chiyo plays possum on one enemy and targets them. For 1 turn, if that enemy uses a new harmful skill, they will be countered. If successful, that enemy will be dealt 20 damage and will have their physical skills stunned for 1 turn. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "White Secret Art Illusion",
+   "image": "https://i.imgur.com/R9UxzZB.png",
+   "description": "Edo Tensei Chiyo (S) targets one enemy, dealing 25 damage to them. For 1 turn, Edo Tensei Chiyo (S) will ignore all harmful skills.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Chiyo Evade",
+   "image": "https://i.imgur.com/t7wpJ7e.png",
+   "description": "This skill makes Edo Tensei Chiyo (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

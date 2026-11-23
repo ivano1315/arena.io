@@ -1,0 +1,51 @@
+{
+ "slug": "hyuuga-hiashi-(s)",
+ "name": "Hyuuga Hiashi (S)",
+ "portrait": "https://i.imgur.com/ZqOqt45.jpg",
+ "description": "Head of the Hyuuga clan, and father to both Hinata and Hanabi, Hiashi is a strict, but caring man who would do anything for his clan. In battle, there is no equal when it comes to mastering the Hyuuga clan abilitie",
+ "unlock": "Mission: The Master Hyuuga",
+ "skills": [
+  {
+   "name": "Master Gentle Fist",
+   "image": "https://i.imgur.com/OXOLq9a.jpg",
+   "description": "Hiashi slams one enemy with his fists, dealing 25 damage to them and removing 1 random chakra from them. The following turn, one other random enemy will receive 20 damage and lose 1 taijutsu or ninjutsu chakra. The target of this skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Master Revolving Heaven",
+   "image": "https://i.imgur.com/nXwOyt7.jpg",
+   "description": "Hiashi spins, becoming invulnerable for 2 turns, dealing 15 damage to one enemy and 10 to all others each turn.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Action, Melee."
+  },
+  {
+   "name": "Eight Trigrams Vacuum Wall Palm",
+   "image": "https://i.imgur.com/dhKR9Ee.jpg",
+   "description": "Hiashi gets ready to blast an enemy's attack back. The next turn, the first enemy to use a new harmful skill on one ally or himself will have that skill reflected back to one random enemy.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Hiashi Byakugan",
+   "image": "https://i.imgur.com/81nCkpb.jpg",
+   "description": "This skill makes Hyuuga Hiashi (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

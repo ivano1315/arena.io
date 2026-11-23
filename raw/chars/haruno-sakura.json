@@ -1,0 +1,49 @@
+{
+ "slug": "haruno-sakura",
+ "name": "Haruno Sakura",
+ "portrait": "https://i.imgur.com/TWShCf2.png",
+ "description": "A Genin from Team 7, Sakura is very intelligent, but self conscious about herself. Having just recently received training from Tsunade, Sakura is now able to deliver powerful punches and heal her own allies.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "KO Punch",
+   "image": "https://i.imgur.com/x0Yqker.png",
+   "description": "Sakura punches one enemy with all her strength, dealing 20 damage to them and stunning their physical and mental skills for 1 turn. During 'Inner Sakura', this skill will deal 10 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Cure",
+   "image": "https://i.imgur.com/M2O5AdG.png",
+   "description": "Using basic healing techniques, Sakura heals herself or an ally for 20 health. During 'Inner Sakura', this skill will heal 10 additional health.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Inner Sakura",
+   "image": "https://i.imgur.com/03BjSkn.jpg",
+   "description": "Sakura's inner self surfaces and urges her on. For 4 turns, Sakura will gain 10 points of damage reduction and will ignore non-damage effects. During this time, Sakura's skills will be improved.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Sakura Replacement Technique",
+   "image": "https://i.imgur.com/hGOwcqv.png",
+   "description": "This skill makes Haruno Sakura invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

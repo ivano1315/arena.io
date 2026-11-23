@@ -1,0 +1,51 @@
+{
+ "slug": "sennin-jiraiya-(s)",
+ "name": "Sennin Jiraiya (S)",
+ "portrait": "https://i.imgur.com/PHui0BV.png",
+ "description": "Sennin Jiraiya (S) uses sage chakra to improve his speed, strength, and skills. The only downfall is that it alters his appearance similar to that of a toad and makes him unappealing to women, which makes it a last resort for the pervy sage.",
+ "unlock": "Mission: Power of a Sage",
+ "skills": [
+  {
+   "name": "Bath of Burning Oil",
+   "image": "https://i.imgur.com/JUu1mL5.png",
+   "description": "Using a mixture of wind, oil, and fire, Jiraiya deals 20 piercing damage and 15 damage to one enemy. For 1 turn, counter skills used by that enemy will last 1 turn less. The following turn, 'Chou Oodama Rasengan' will cost 1 ninjutsu and 1 random chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Kebari Senbon",
+   "image": "https://i.imgur.com/hIomjqt.png",
+   "description": "Jiraiya turns his hair into needles, dealing 15 piercing damage to all enemies. For 1 turn, Jiraiya becomes invulnerable to harmful non-mental damage skills. The following turn, 'Chou Oodama Rasengan' will cost 1 taijutsu and 1 random chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Chou Oodama Rasengan",
+   "image": "https://i.imgur.com/LVzTNzW.png",
+   "description": "Creating a massive rasengan, Jiraiya makes one enemy unable to reduce damage or become ivnulnerable, then deals 45 damage to them for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Arm Block",
+   "image": "https://i.imgur.com/RXwcdKA.png",
+   "description": "This skill makes Sennin Jiraiya (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

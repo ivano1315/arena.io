@@ -1,0 +1,54 @@
+{
+ "slug": "sandaime-hokage",
+ "name": "Sandaime Hokage",
+ "portrait": "https://i.imgur.com/OUgT0V5.jpg",
+ "description": "Sandaime Hokage, known as the God of Shinobi, was the strongest Kage to ever live. He is able to concentrate on one opponent while his summon, Enma, confronts others. When all else fails he can summon the death god.",
+ "unlock": "Mission: The God of the Shinobi",
+ "skills": [
+  {
+   "name": "Fire Dragon Flame Missile",
+   "image": "https://i.imgur.com/Ou8YyJj.png",
+   "description": "Sandaime Hokage deals 30 affliction damage to one enemy. This enemy also takes 10 affliction damage the following turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Dead Demon Consuming Seal",
+   "image": "https://i.imgur.com/9E0cYxX.png",
+   "description": "The death god sucks the life out of one enemy who takes 40 affliction damage, is stunned and cannot reduce damage or become invulnerable every turn.* Sandaime himself takes 20 affliction damage and is stunned every turn. This skill cannot be removed or ignored and ends when Sandaime dies.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Summoning: Enma",
+   "image": "https://i.imgur.com/pBFI2qO.png",
+   "description": "By summoning Enma, Sandaime and all allies will gain 15 points of damage reduction and they cannot be killed for 2 turns. If targetable, Sandaime will also deal 15 damage to all enemies for 2 turns.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, *Instant, Ranged."
+  },
+  {
+   "name": "Earth Release Wall",
+   "image": "https://i.imgur.com/FCO9qTm.png",
+   "description": "This skill makes Sandaime Hokage invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

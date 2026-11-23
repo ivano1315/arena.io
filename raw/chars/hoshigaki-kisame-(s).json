@@ -1,0 +1,50 @@
+{
+ "slug": "hoshigaki-kisame-(s)",
+ "name": "Hoshigaki Kisame (S)",
+ "portrait": "https://i.imgur.com/bjUbTdZ.png",
+ "description": "Hoshigake Kisame (S) is the partner of Uchiha Itachi in Akatsuki. He is an expert swordsman and missing nin from the Hidden Mist Village.",
+ "unlock": "Mission: The Loyal Soldiers Last Stand",
+ "skills": [
+  {
+   "name": "Hungry Sharks",
+   "image": "https://i.imgur.com/HpnDSZs.png",
+   "description": "Kisame summons one hungry shark for each enemy alive, dealing 5 affliction damage to all of them permanently. Each turn, the first enemy to use a new harmful skill will be marked, causing all other hungry sharks to attack only the marked enemy next turn. This skill cannot be removed; Ends if Kisame dies.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Action, Ranged."
+  },
+  {
+   "name": "Shark Bomb",
+   "image": "https://i.imgur.com/SekpWvV.png",
+   "description": "Kisame blasts an enemy with his shark bomb, dealing 30 damage and removing 1 bloodline or ninjutsu from them. For this turn, that enemy will receive 5 additional damage from 'Hungry Sharks'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Samehada Guard",
+   "image": "https://i.imgur.com/qgg1luS.png",
+   "description": "Samehada protects Kisame with his spikes. For 1 turn, the first enemy to use a new non-mental skill on Kisame will be countered. If sucessfully, Kisame deal 15 piercing damage and remove 1 random chakra from that enemy. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Water Isolation",
+   "image": "https://i.imgur.com/yXzkEad.png",
+   "description": "This skill makes Hoshigaki Kisame (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

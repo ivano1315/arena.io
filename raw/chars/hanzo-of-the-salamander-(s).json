@@ -1,0 +1,59 @@
+{
+ "slug": "hanzo-of-the-salamander-(s)",
+ "name": "Hanzo of the Salamander (S)",
+ "portrait": "https://i.imgur.com/rsaKszh.png",
+ "description": "The legendary long-time leader of the Hidden Rain Village, Hanzo is a complicated man: unscrupulous and power-hungry, but at his core still seemingly a genuine believer in the ideal of universal peace. Having had a venom sac implanted in him as a child, Hanzo fights using poison and is deadly and ruthless in battle.",
+ "unlock": "Mission: The Salamander of the Rain",
+ "skills": [
+  {
+   "name": "Dance of the Sickle",
+   "image": "https://i.imgur.com/aFyTotr.png",
+   "description": "For 2 turns, Hanzo deals 15 affliction damage to one enemy. During this time, they are linked to Hanzo, and 50% of all non-affliction damage he takes is transferred to the target as affliction damage*.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Affliction, Action, Instant*, Melee."
+  },
+  {
+   "name": "Antidote",
+   "image": "https://i.imgur.com/MOn8c1E.png",
+   "description": "Hanzo may use the antidote on himself or an ally, healing 15 health and making the target ignore affliction damage for 1 turn. During 'Summoning: Ibuse', this skill will also heal Ibuse for 15 health.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Summoning: Ibuse",
+   "image": "https://i.imgur.com/p2lEi5h.png",
+   "description": "Hanzo summons Ibuse with 30 health. 50% of all non-affliction damage dealt to Hanzo is split with Ibuse. While Ibuse is alive, all enemies will be dealt 5 affliction damage every turn. When this skill ends or Ibuse is killed, Hanzo will activate 'Explosive Tag Wrap' on all enemies.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Hanzo Body Flicker Jutsu",
+   "image": "https://i.imgur.com/uO2Yemv.png",
+   "description": "This skill makes Hanzo of the Salamander (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Explosive Tag Wrap",
+   "image": "https://i.imgur.com/OBajZFy.png",
+   "description": "This skill is activated when Ibuse is killed. All enemies will take 15 affliction damage, and 5 additional affliction damage for every 2 turns Ibuse stayed alive.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Affliction, Instant, Ranged."
+  }
+ ]
+}

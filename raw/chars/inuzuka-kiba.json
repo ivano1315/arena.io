@@ -1,0 +1,49 @@
+{
+ "slug": "inuzuka-kiba",
+ "name": "Inuzuka Kiba",
+ "portrait": "https://i.imgur.com/2RwMXy9.png",
+ "description": "A Genin from Team 8, Kiba is a member of the Inuzuka clan, and is both short-tempered and impulsive. Using his dog, Akamaru, Kiba is capable of powerful taijutsu or fusing with Akamaru to become a deadly double headed dog.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Garouga",
+   "image": "https://i.imgur.com/bDo7cUF.png",
+   "description": "Kiba deals 30 damage to one enemy. During 'Double Headed Wolf', this skill is improved and will cost 1 less random chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Double Headed Wolf",
+   "image": "https://i.imgur.com/dTMLAr4.png",
+   "description": "Kiba and Akamaru turn into a giant beast and attack all enemies, dealing 15 damage to them for 3 turns. The following 3 turns, 'Garouga' is improved and will cost 1 less random chakra. During this time, Kiba gains 10 points of unpierceable damage reduction.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Dynamic Air Marking",
+   "image": "https://i.imgur.com/I6iXYsf.png",
+   "description": "Akamaru sprays urine on one enemy who cannot reduce damage or become invulnerable for 3 turns. During this time, 'Double Headed Wolf' and 'Garouga' will deal 10 additional damage to them. This skill may not be used on an enemy already affected by it.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Smoke Bomb",
+   "image": "https://i.imgur.com/SM6uB5m.png",
+   "description": "This skill makes Inuzuka Kiba invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

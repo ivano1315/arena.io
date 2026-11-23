@@ -1,0 +1,73 @@
+{
+ "slug": "true-art-deidara-(s)",
+ "name": "True Art Deidara (S)",
+ "portrait": "https://i.imgur.com/MyXoVrG.png",
+ "description": "A fanatical explosive artist who believes true art exists only in a single, beautiful moment of destruction. Deidara specializes in long-term setup and devastating payoffs, planting microscopic bombs that turn the battlefield into a ticking masterpiece.",
+ "unlock": "Mission: The Art is an Explosion!",
+ "skills": [
+  {
+   "name": "Clay Dolls",
+   "image": "https://i.imgur.com/3QqjYXW.png",
+   "description": "Deidara gains 15 points of destructible defense. While he has this defense up, each turn he will target a random enemy, dealing 10 damage to them and making them receive 5 additional non-affliction damage from Deidara's other skills.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "C2: Dragon",
+   "image": "https://i.imgur.com/t6kY35a.jpeg",
+   "description": "For 3 turns, Deidara gains 20 points of destructible defense and targets all enemies. Any enemy that uses a new harmful skill will take 10 piercing damage. While active, this skill will be replaced by 'Dragon Missile'.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "C4: Karura",
+   "image": "https://i.imgur.com/zzfdqst.png",
+   "description": "Deidara releases a cloud of microscopic bomb towards on enemy, dealing 3 affliction damage to them permanently. This skill will double its damage each turn.",
+   "cooldown": "6",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "C4: Trap",
+   "image": "https://i.imgur.com/4bQvIo4.png",
+   "description": "This skill makes True Art Deidara (S) invulnerable for 1 turn. After Deidara uses 5 new skills, 'C4: Trap' will be replaced by 'C0: Final Explosion'.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Dragon Missile",
+   "image": "https://i.imgur.com/ItkJFEu.png",
+   "description": "Deidara deals 25 damage to one enemy. This skill ignores invulnerability.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "C0: Final Explosion",
+   "image": "https://i.imgur.com/3y08v8V.jpeg",
+   "description": "Deidara sacrifices himself, dealing 40 piercing damage to all enemies. Afterwards, Deidara is instantly killed. This skill may only be used when Deidara uses 5 new skills.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  }
+ ]
+}

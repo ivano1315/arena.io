@@ -1,0 +1,50 @@
+{
+ "slug": "atsui-(s)",
+ "name": "Atsui (S)",
+ "portrait": "https://i.imgur.com/YKyAdCN.png",
+ "description": "A skilled shinobi from the Hidden Cloud and a member of the First Division of the Allied Shinobi Forces, Atsui specializes in Fire Release and swordsmanship. With his fiery personality and aggressive fighting style, he combines blazing sword techniques with powerful flames to overwhelm his enemies.",
+ "unlock": "Mission: The Hot Blade in the Cloud",
+ "skills": [
+  {
+   "name": "Blazing Sword Stance",
+   "image": "https://i.imgur.com/dlHiaB2.png",
+   "description": "By channeling his Fire Release chakra into his blade, Atsui will deal 10 affliction damage* to any enemy who uses a new non-mental skill on him for 4 turns. During this time, if he is targeted by a new harmful skill, the active cooldowns of 'Blazing Sword Slash' and 'Raging Inferno Sea' will be reset.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee*."
+  },
+  {
+   "name": "Blazing Sword Slash",
+   "image": "https://i.imgur.com/NwDHkZo.png",
+   "description": "With his sword engulfed in flames, Atsui delivers a blazing slash, dealing 25 piercing damage to one enemy and making them unable to target anyone else but Atsui for 1 turn. If this enemy's health drops to 60 or below, they will take 5 affliction damage* the following 2 turns.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Affliction*, Instant, Melee."
+  },
+  {
+   "name": "Raging Inferno Sea",
+   "image": "https://i.imgur.com/0hRZydI.png",
+   "description": "Atsui unleashes a massive wave of flames, dealing 20 affliction damage to all enemies. Any enemy whose health drops to 60 or below will take 5 affliction damage the following 2 turns.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Protective Swordplay",
+   "image": "https://i.imgur.com/LLOtspU.png",
+   "description": "This skill makes Atsui invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

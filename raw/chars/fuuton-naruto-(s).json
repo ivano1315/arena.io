@@ -1,0 +1,58 @@
+{
+ "slug": "fuuton-naruto-(s)",
+ "name": "Fuuton Naruto (S)",
+ "portrait": "https://i.imgur.com/6C0Asrz.png",
+ "description": "During his training under Kakashi and Yamato, Naruto discovers his affinity for Wind Release. By using shadow clones to accelerate his progress, he learns to combine wind-nature chakra with the Rasengan and creates the devastating Rasenshuuriken.",
+ "unlock": "Mission: Mastering Wind Nature",
+ "skills": [
+  {
+   "name": "Fuuton: Rasengan",
+   "image": "https://i.imgur.com/NtxOrQD.png",
+   "description": "Using the wind-style version of the Rasengan, Naruto deals 25 piercing damage to one enemy. During 'Mass Shadow Clones', this skill will apply once 'Wind Destruction' on all enemies.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Fuuton: Rasenshuuriken",
+   "image": "https://i.imgur.com/TMYPnSq.png",
+   "description": "Using his recently created clones, Naruto hurls an even more powerful Rasengan at one enemy, dealing 40 piercing damage to them. During 'Mass Shadow Clones', this skill will apply twice 'Wind Destruction' on all enemies.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Mass Shadow Clones",
+   "image": "https://i.imgur.com/PvYereI.png",
+   "description": "Naruto gains 5 clones, granting himself 10% unpierceable damage reduction for each clone. If a new non-affliction damage skill is used on Naruto, he will lose 1 clone. During this time, Naruto improves his skills and loses 2 clones whenever he uses one of them. This skill cannot be used while active.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Kyuubi Insight",
+   "image": "https://i.imgur.com/UzCkdFt.png",
+   "description": "This skill makes Fuuton Naruto invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Wind Destruction",
+   "image": "https://i.imgur.com/nzS59bA.png",
+   "description": "For 1 turn, all enemies will deal 5 less non-affliction damage. The following turn, they will take 10 piercing damage.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant, *Action, Ranged."
+  }
+ ]
+}

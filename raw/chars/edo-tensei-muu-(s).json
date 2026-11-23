@@ -1,0 +1,48 @@
+{
+ "slug": "edo-tensei-muu-(s)",
+ "name": "Edo Tensei Muu (S)",
+ "portrait": "https://i.imgur.com/Ms96j1y.png",
+ "description": "Muu, the Second Tsuchikage, was revived against his will to fight. He is a skilled spy, capable of infiltrating the battlefield undetected, in addition to his Kekkei Touta, the atomic detachment, capable of turning enemies into dust in a matter of moments.",
+ "unlock": "Mission: The Null Man",
+ "skills": [
+  {
+   "name": "Fission",
+   "image": "https://i.imgur.com/IDYuApM.png",
+   "description": "ET Muu grant himself or one ally 50% of unpierceable damage reduction points for 1 turn. During this turn, any enemy that uses a new skill on that ally will receive 5 additional damage from non-affliction skills permanently. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Atomic Detachment",
+   "image": "https://i.imgur.com/rUORWDd.png",
+   "description": "ET Muu deals 20 damage to one enemy and an additional 15 piercing damage the first turn and 10 piercing damage the following turn. During this time, that enemy's skills will cost 1 additional random chakra. This skill ends if that enemy uses a new skill.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Chameleon Covering",
+   "image": "https://i.imgur.com/ssBY4vX.png",
+   "description": "ET Muu makes himself or one ally ignore all harmful effects except damage for 1 turn. If the protected character receive a new harmful skill, 'Atomic Detachment will cost 2 random chakra for 1 turn. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Sensorial Awareness",
+   "image": "https://imgur.com/tFwLc31.jpg",
+   "description": "This skill makes Edo Tensei Muu (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

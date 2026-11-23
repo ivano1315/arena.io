@@ -1,0 +1,50 @@
+{
+ "slug": "uzuki-yugao",
+ "name": "Uzuki Yugao",
+ "portrait": "https://i.imgur.com/mCMFKuP.png",
+ "description": "A member of Konoha's Anbu faction, Yugao was the lover of Gekkou Hayate before his untimely death, and is a hard-working, dedicated, and tender person. Yugao fights using powerful genjutsu-enhanced swordsmanship, and is also proficient in the use of sealing techniques to disable her enemies.",
+ "unlock": "Mission: An Anbu of the Leaf",
+ "skills": [
+  {
+   "name": "Hazy Moon Night",
+   "image": "https://i.imgur.com/IHUyz1z.png",
+   "description": "Yugao covers herself in a haze, and strikes one enemy, dealing 20 piercing damage to them. For 1 turn, if Yugao or an ally uses a new skill on the target of 'Hazy Moon Night', they will become invulnerable for 1 turn. This skill triggers once per ally.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Melee."
+  },
+  {
+   "name": "Crescent Moon Strike",
+   "image": "https://i.imgur.com/qJupUm4.png",
+   "description": "Yugao performs a graceful sword slash, dealing 15 piercing damage to one enemy. This skill will deal 15 additional damage if 'Hazy Moon Night' was used on the previous turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Sealing Technique",
+   "image": "https://i.imgur.com/bBuPuWp.png",
+   "description": "Yugao negates one enemy's abilities, dealing 10 affliction damage to them. For 2 turns, that enemy will be invulnerable to helpful skills and their harmful skills will be stunned. During this time, they will receive 5 additional damage from non-affliction skills.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Yugao Hide",
+   "image": "https://i.imgur.com/83oXFJy.png",
+   "description": "This skill makes Uzuki Yugao invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

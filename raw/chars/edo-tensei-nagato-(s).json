@@ -1,0 +1,51 @@
+{
+ "slug": "edo-tensei-nagato-(s)",
+ "name": "Edo Tensei Nagato (S)",
+ "portrait": "https://i.imgur.com/OHrOGRY.png",
+ "description": "Edo Tensei Nagato (S) has been summoned to do battle. He is fully aware of the fact that he is being controlled again as he was while he was living.",
+ "unlock": "Mission: The Fallen Uzumaki",
+ "skills": [
+  {
+   "name": "Human Path",
+   "image": "https://i.imgur.com/fxmFmAZ.png",
+   "description": "Nagato draws out the lifeforce of an enemy, stealing 15 health and dealing 20 damage. That enemy's harmful skills will be stunned for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Melee."
+  },
+  {
+   "name": "Preta Path",
+   "image": "https://i.imgur.com/oSDc1ol.png",
+   "description": "Nagato drains an enemy's energy, dealing 10 affliction damage and removing 1 taijutsu or ninjutsu chakra from their chakra pool. While improved by 'Animal Path', this skill will steal health and chakra instead.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Animal Path",
+   "image": "https://i.imgur.com/GyOrcxp.png",
+   "description": "Nagato summons various animals and creatures, dealing 15 damage to all enemies for 2 turns. During this time, any enemy that uses a new skill on Edo Tensei Nagato will be *dealt 10 piercing damage. For 1 turn, 'Human Path' will deal piercing damage, while 'Preta Path' will steal health and chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, *Instant, Ranged."
+  },
+  {
+   "name": "Naraka Path",
+   "image": "https://i.imgur.com/dZTXSyj.png",
+   "description": "This skill makes Edo Tensei Nagato (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

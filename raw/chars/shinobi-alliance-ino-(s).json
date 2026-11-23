@@ -1,0 +1,49 @@
+{
+ "slug": "shinobi-alliance-ino-(s)",
+ "name": "Shinobi Alliance Ino (S)",
+ "portrait": "https://i.imgur.com/QO2cH82.png",
+ "description": "Not one to be left behind, Ino has trained non-stop to improve her abilities and teamwork. With her improved techniques, Ino can not only control her enemies, but her allies too all while seeing everything on the battlefield.",
+ "unlock": "Mission: Yamanaka Florist at War",
+ "skills": [
+  {
+   "name": "Mind Body Switch Interference",
+   "image": "https://i.imgur.com/P4VasoB.png",
+   "description": "Ino interferes one enemy for 1 turn. The following turn, that enemy will receive 15 piercing damage and if that enemy uses a new harmful skill, they will be countered. If successful, this skill will be replaced by the countered skill, which will cost random chakra. This skill is invisible.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Enhanced Proxy Surveillance",
+   "image": "https://i.imgur.com/T3JpZJe.png",
+   "description": "For 4 turns all damage reduction and destructible defense effects all enemies use will be reduced by 15, percentage damage reduction will be reduced by 50% and Ino will know when and where any skill is used. This skill can't be countered, reflected and is invisible.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Mind Clone Switch",
+   "image": "https://i.imgur.com/XG8euoA.png",
+   "description": "Ino enters the mind of both of her allies, making their bodies fight on regardless of their state. For 3 turns, both of Ino's allies will ignore all harmful effects other than damage and chakra cost changes. This skill is invisible and will end if Ino dies.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Ino Dodge",
+   "image": "https://i.imgur.com/tvbIXcC.png",
+   "description": "This skill makes Shinobi Alliance Ino (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "edo-tensei-kakuzu-(s)",
+ "name": "Edo Tensei Kakuzu (S)",
+ "portrait": "https://i.imgur.com/kT74ef5.png",
+ "description": "Resurrected through the Edo Tensei, Kakuzu returns to the battlefield with his forbidden technique. Commanding multiple elemental hearts, he overwhelms his enemies with powerful ninjutsu while exploiting their life force to sustain his relentless assault.",
+ "unlock": "Mission: The Reanimated Collector",
+ "skills": [
+  {
+   "name": "Jiongu: Deadly Embrace",
+   "image": "https://i.imgur.com/nRAptOm.png",
+   "description": "Kakuzu extends his black threads to wrap around an enemy's neck, dealing 25 damage to them and stunning their physical and mental skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Heart Manifestation Assault",
+   "image": "https://i.imgur.com/TdIjXav.png",
+   "description": "Using his Jiongu offensively, Kakuzu sacrifices one of his Jiongu hearts, dealing 60 damage to one enemy and stunning their physical and chakra skills for 1 turn. This skill can only be used as long as Kakuzu has any Jiongu Heart left.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Heart Extraction",
+   "image": "https://i.imgur.com/koed8uG.png",
+   "description": "Kakuzu tears into an enemy to replenish his collection of hearts, stealing 15 health from that enemy and also any damage reduction effect they currently have on them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Jiongu: Thread Evasion",
+   "image": "https://i.imgur.com/0uAkrGL.png",
+   "description": "This skill makes Kakuzu invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Passive: Jiongu Heart Collection",
+   "image": "https://i.imgur.com/zdXwHyD.png",
+   "description": "Through his Jiongu, Kakuzu starts the game with 4 additional hearts. Everytime his health reaches 0, his health will be set to 15. This can only happen 4 times in the game, one for each Jiongu Heart Kakuzu has. This skill's stacks refers to the amount of hearts lost.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Instant."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "mizukage-(s)",
+ "name": "Mizukage (S)",
+ "portrait": "https://i.imgur.com/1WgnEmN.png",
+ "description": "Terumi Mei is the Fifth Mizukage, after the dreadful reign of Yagura Karatachi ended, she became Mizukage and worked tirelessly to reform internal policies and recreate diplomatic relations with other villages",
+ "unlock": "Mission: The Fifth Mizukage",
+ "skills": [
+  {
+   "name": "Lava Wall",
+   "image": "https://i.imgur.com/q55j0xl.png",
+   "description": "Terumi Mei uses a lava wall, dealing 25 affliction damage to one enemy and stunning their physical and chakra skills for 1 turn. This skill cannot be countered or reflected. During 'Prison Lava Wall', this skill will deal 35 affliction damage and cost 1 additional random chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Prison Lava Wall",
+   "image": "https://i.imgur.com/yxgf33E.png",
+   "description": "Terumi Mei creates a prison of lava, dealing 5 affliction damage to all enemies for 3 turns. During this time, each turn a random enemy will become invulnerable to helpful skills. 'Lava Wall' and 'Skilled Mist' will be improved during this skill*.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Action, Instant*, Ranged."
+  },
+  {
+   "name": "Skilled Mist",
+   "image": "https://i.imgur.com/LJbscdA.png",
+   "description": "Terumi Mei uses Skilled Mist to destroy all enemies' destructible defense and deal 15 affliction damage to them for 2 turns. This skill cannot be countered, reflected, or removed. During 'Prison Lava Wall', this skill will deal 5 additional affliction damage.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Action, Ranged."
+  },
+  {
+   "name": "Fast Evade",
+   "image": "https://i.imgur.com/UZ6Erok.png",
+   "description": "This skill makes Mizukage (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

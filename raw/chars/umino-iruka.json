@@ -1,0 +1,49 @@
+{
+ "slug": "umino-iruka",
+ "name": "Umino Iruka",
+ "portrait": "https://i.imgur.com/VFwEl8B.png",
+ "description": "Iruka is one of the instructors at the Konoha ninja academy. He is a well rounded ninja with diverse abilities and skills.",
+ "unlock": "Mission: Duty of a Sensei",
+ "skills": [
+  {
+   "name": "Shuriken Throw",
+   "image": "https://i.imgur.com/bLYgmz1.png",
+   "description": "Iruka throws a couple shurikens at one enemy who takes 20 piercing damage. This skill will deal an additional 10 damage for each 30 health Iruka has lost.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Shield Ally",
+   "image": "https://i.imgur.com/NmaAnE6.png",
+   "description": "Iruka uses his own body to shield one ally. For 1 turn, that ally will ignore all damage dealt to them. This skill is invisible.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Sealed Bombs Square Formation",
+   "image": "https://i.imgur.com/tz3UXHq.png",
+   "description": "Iruka creates a trap with a set of exploding seals. The following 2 turns, one enemy will take 75% more damage from melee skills. During this time, if that enemy use a new skill, they will take 20 piercing damage and this skill will end.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Kunai Parry",
+   "image": "https://i.imgur.com/ZRDdP9S.png",
+   "description": "This skill makes Umino Iruka invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

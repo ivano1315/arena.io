@@ -1,0 +1,49 @@
+{
+ "slug": "deidara-(s)",
+ "name": "Deidara (S)",
+ "portrait": "https://i.imgur.com/iAgnmxk.png",
+ "description": "An akatsuki former rock ninja partner and apprentice of Sasori. Deidara is quite eccentric when it comes to art. His skill with clay allows him to create explosive sculptures, whether large, medium or small.",
+ "unlock": "Mission: A True Artist",
+ "skills": [
+  {
+   "name": "Clay Molds",
+   "image": "https://i.imgur.com/16zRKq5.png",
+   "description": "For 3 turns, Deidara gains 5 permanent destructible defense and activates \"C2\" first turn. Second turn he activates \"C3\". Third turn he activates \"C4\". Afterwards, this skill is restarted and Deidara gains 1 random chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "C3 - Giant Doll",
+   "image": "https://i.imgur.com/3KPFyYt.png",
+   "description": "Deidara deals 15 piercing damage to all enemies. During \"C2\", this skill deals 5 additional damage. During \"C3\", this skill deals 10 additional damage and stuns one random enemy's harmful skills for 1 turn. During \"C4\", this skill stuns all enemies' harmful skills for 1 turn. Requires 'Clay Mold'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "C2 - Clay Centipede",
+   "image": "https://i.imgur.com/QSRpbul.png",
+   "description": "Deidara deals 10 damage to one enemy for 2 turns. The target's draining chakra effects will not be applied. If used during \"C2\", this skill lasts 3 turns. If used during \"C3\", Deidara becomes invulnerable to non-mental skills for 1 turn. During \"C4\", this skill lasts 1 turn and deals 30 piercing damage. Requires 'Clay Mold'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Aerial Retreat",
+   "image": "https://imgur.com/Hno70ML.jpg",
+   "description": "This skill makes Deidara (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

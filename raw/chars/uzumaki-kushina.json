@@ -1,0 +1,62 @@
+{
+ "slug": "uzumaki-kushina",
+ "name": "Uzumaki Kushina",
+ "portrait": "https://i.imgur.com/Bt4OJMT.jpg",
+ "description": "The mother of Uzumaki Naruto, wife to Minato and once the jinchuuriki to the nine-tailed fox. Kushina specializes in unique sealing and barrier techniques that can hinder and disable even the strongest of enemies.",
+ "unlock": "Mission: A Final Promise",
+ "skills": [
+  {
+   "name": "Four Symbols Seal",
+   "image": "https://i.imgur.com/7MDXZv2.jpg",
+   "description": "Kushina attempts to seal an enemy away, destroying their destructible defense, dealing 15 piercing damage to them, stunning their skills for 1 turn and permanently lowering the non-affliction damage they deal and receive by 5.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Life Link",
+   "image": "https://i.imgur.com/KeQwfcn.jpg",
+   "description": "For 4 turns if either Kushina or one enemy dies, the other will die as well. The following 4 turns, this skill will be replaced by 'Life Transfer'. This skill ignores invulnerability and cannot be countered, reflected, ignored, removed or interact with other skills.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Adamantine Sealing Chains",
+   "image": "https://i.imgur.com/kVgbH4G.jpg",
+   "description": "Kushina uses an immensely powerful seal, surrounding one enemy with chains, first removing all helpful skills on them and then stunning them and making them invulnerable to all further skills for 2 turns. This skill ignores invulnerability and cannot be countered or reflected.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Adamantine Covering Chains",
+   "image": "https://i.imgur.com/O3yVOUO.jpg",
+   "description": "This skill makes Uzumaki Kushina invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Life Transfer",
+   "image": "https://i.imgur.com/SnE3AWh.png",
+   "description": "Kushina heals an ally for 25 points and deals 25 damage to herself.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant."
+  }
+ ]
+}

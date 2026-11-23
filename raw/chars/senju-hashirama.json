@@ -1,0 +1,52 @@
+{
+ "slug": "senju-hashirama",
+ "name": "Senju Hashirama",
+ "portrait": "https://i.imgur.com/bOIy76f.png",
+ "description": "A member of the Senju clan, and one of the greatest warriors during the Warring States Period who went on to create Konoha. Even before becoming the Hokage, Hashirama proved his power and ability with his unmatched Wood Release jutsus.",
+ "unlock": "Mission: Konoha",
+ "skills": [
+  {
+   "name": "Wood Release: Wood Dragon",
+   "image": "https://i.imgur.com/2n7tPEC.png",
+   "description": "For 2 turns, Hashirama will become invulnerable to all chakra skills* and for 2 turns, Hashirama will steal 1 random chakra from one enemy. The following 2 turns, this skill can be used again for 1 random chakra to steal all helpful skills from one enemy.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Action, Instant*, Melee."
+  },
+  {
+   "name": "Wood Release: Wood Human",
+   "image": "https://i.imgur.com/888TgIS.png",
+   "description": "For 2 turns, Hashirama will become invulnerable to all physical skills* and for 2 turns, Hashirama will deal 20 damage to one enemy. The following 2 turns, this skill can be used again for 1 random chakra to deal 20 damage to one enemy.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Instant*, Melee."
+  },
+  {
+   "name": "Wood Release: True Thousand Hands",
+   "image": "https://i.imgur.com/8b5cPgT.png",
+   "description": "Hashirama summons a giant buddha that grants 35 destructible defense to Hashirama and his allies and for 3 turns, if used, 'Wood Release: Wood Dragon!' and 'Wood Release: Wood Human!' will initially last 1 additional turn and cost 1 less random chakra.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Sage Knowledge",
+   "image": "https://i.imgur.com/ab83NlH.png",
+   "description": "This skill makes Senju Hashirama invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

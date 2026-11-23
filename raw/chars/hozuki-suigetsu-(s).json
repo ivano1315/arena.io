@@ -1,0 +1,51 @@
+{
+ "slug": "hozuki-suigetsu-(s)",
+ "name": "Hozuki Suigetsu (S)",
+ "portrait": "https://i.imgur.com/F6oZeRo.png",
+ "description": "Hozuki Suigetsu (S) is a native of Kirigakure who was once a captive of Orochimaru. He is a dangerous individual with unique abilities and now follows Uchiha Sasuke.",
+ "unlock": "Mission: A Slippery Individual",
+ "skills": [
+  {
+   "name": "Muscle Expansion",
+   "image": "https://i.imgur.com/uptTk0X.jpeg",
+   "description": "Suigetsu attacks with his sword, dealing 20 damage to one enemy and gaining 10 permanent destructible defense and 5 points of destructible defense for 1 turn. Afterwards, the next use of 'Hydro Taijutsu' will deal 5 additional damage; This effect stacks.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Hydro Taijutsu",
+   "image": "https://i.imgur.com/xbUlXVC.jpeg",
+   "description": "Suigetsu launches an extreme taijutsu attack, dealing 40 piercing damage to one enemy and gaining 15 permanent destructible defense and 10 points of destructible defense for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Rehydration",
+   "image": "https://i.imgur.com/LoaarYd.jpeg",
+   "description": "Suigetsu replenishes his body with water. For 3 turns, he will gain 1 random chakra each turn and grant 10 points of destructible defense to himself.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Action."
+  },
+  {
+   "name": "Zanbato Deflection",
+   "image": "https://i.imgur.com/BbXa1kC.jpeg",
+   "description": "This skill makes Hozuki Suigetsu (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

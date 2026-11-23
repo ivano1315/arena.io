@@ -1,0 +1,61 @@
+{
+ "slug": "maito-gai-(s)",
+ "name": "Maito Gai (S)",
+ "portrait": "https://i.imgur.com/QNaZDbW.png",
+ "description": "Team 9's Professor is back! Gai improved his techniques and strength much more. And now he will use all possible techniques to defeat Akatsuki. Whether releasing Hachimon Tonkou or using extreme taijutsu techniques.",
+ "unlock": "Mission: The Green Beast",
+ "skills": [
+  {
+   "name": "Gai Nunchaku Style",
+   "image": "https://i.imgur.com/bu9TdIv.png",
+   "description": "Gai deals 10 damage to one enemy for 3 turns. Whenever an enemy uses a new physical skill on him, they will take 15 damage. During this time, the target of this skill will receive 10 additional damage from 'Reactive Taijutsu Rampage'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Reactive Taijutsu Rampage",
+   "image": "https://i.imgur.com/pZ2Ry1R.png",
+   "description": "Gai deals 25 damage to one enemy. This skill cannot be countered or reflected.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Gate Release",
+   "image": "https://i.imgur.com/ruaqxuZ.png",
+   "description": "Gai release one gate per turn, gaining 10% unpierceable damage reduction and increasing by 5 the initial damage of his skills each turn for 6 turns. During this time, he will take 5 affliction damage* and cannot be healed.This skill becomes 'Asakuujaku' permanently.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Affliction*, Instant."
+  },
+  {
+   "name": "Muscle Block",
+   "image": "https://i.imgur.com/OpIQEuv.png",
+   "description": "This skill makes Maito Gai (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Asakuujaku",
+   "image": "https://imgur.com/yy5hWBz.jpg",
+   "description": "Gai deals 15 piercing damage and 10 affliction damage to one enemy and stuns their skills for 1 turn. This skill cannot be countered or reflected.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee, Affliction."
+  }
+ ]
+}

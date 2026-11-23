@@ -1,0 +1,50 @@
+{
+ "slug": "tenten",
+ "name": "Tenten",
+ "portrait": "https://i.imgur.com/3RNjwki.png",
+ "description": "A member of team Gai, Tenten is a tomboyish weapon specialist who believes a kunoichi can be as strong as a male ninja. In battle, Tenten surrounds the battlefield in weapons, using them for damage and for disabling her",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Twin Rising Dragons",
+   "image": "https://i.imgur.com/9UePPXl.png",
+   "description": "Tenten creates numerous weapons from her scroll, dealing 10 damage to all enemies for 2 turns. The following 2 turns, this skill can be used again to deal 20 damage to one enemy and 10 damage to all other enemies. This skill cannot be countered.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Action, Ranged."
+  },
+  {
+   "name": "Twin Rising Dragons Trap",
+   "image": "https://i.imgur.com/4XOUAzc.png",
+   "description": "Tenten uses multiple projectiles on all enemies, dealing 15 piercing damage to them and an additional 5 damage for every time they were damaged by 'Twin Rising Dragons', removing all stacks afterwards. This skill cannot be countered.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Twin Rising Dragons Full Release",
+   "image": "https://i.imgur.com/HYiz4vX.png",
+   "description": "Tenten becomes invulnerable to non-mental skills for 1 turn and improves her skills for the next 3 times they are used. 'Twin Rising Dragons' will deal 5 additional damage, and 'Twin Rising Dragons Trap' will also stun all physical and chakra skills for 1 turn. This skill does not stack.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Spiked Boulder Shield",
+   "image": "https://i.imgur.com/Wft7mi8.png",
+   "description": "This skill makes Tenten invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

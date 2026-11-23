@@ -1,0 +1,51 @@
+{
+ "slug": "morino-ibiki-(s)",
+ "name": "Morino Ibiki (S)",
+ "portrait": "https://i.imgur.com/2SLQHTC.png",
+ "description": "Morino Ibiki (S) is a jounin and the designer of the chuunin exams. He is the leader of the Konoha interrogation squad.",
+ "unlock": "Mission: The Ruthless Interrogater",
+ "skills": [
+  {
+   "name": "Payback",
+   "image": "https://i.imgur.com/H8ASuee.png",
+   "description": "Ibiki deals 5 affliction damage to one enemy permanently. During this time, if that enemy's health drops to 15 or less, they will be instantly killed. While active, Ibiki's other harmful skills will cost 1 less random chakra. This skill ends when Ibiki or the target dies and cannot be used while active.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Summoning: Iron Maiden",
+   "image": "https://i.imgur.com/dlz9xZH.png",
+   "description": "Ibiki summons a giant cat and traps one enemy inside of it, dealing 20 piercing damage to that enemy. For 2 turns, each turn that enemy uses a new harmful skill, they will be dealt 20 piercing damage. Ibiki will also gain 20 destructible defense when this skill is used.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Summoning: Torture Chamber",
+   "image": "https://i.imgur.com/hOOexDH.png",
+   "description": "Ibiki traps one enemy inside his torture chambers, dealing 20 piercing damage to that enemy. For 2 turns, each turn that enemy does not use a new skill, they will be dealt 20 piercing damage. Ibiki will also gain 20 destructible defense when this skill is used.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Sliding Evasion",
+   "image": "https://i.imgur.com/MU5P2zq.png",
+   "description": "This skill makes Morino Ibiki (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

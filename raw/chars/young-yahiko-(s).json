@@ -1,0 +1,51 @@
+{
+ "slug": "young-yahiko-(s)",
+ "name": "Young Yahiko (S)",
+ "portrait": "https://i.imgur.com/PAnIQHG.png",
+ "description": "The Rain Orphans were three children who lost their parents due to the Hidden Rain Village's involvement in the Second Shinobi World War. Yahiko is a stoic boy who leads his team in the fight for survival during the war.",
+ "unlock": "Mission: The Young Rain Leader",
+ "skills": [
+  {
+   "name": "Water Style: Wild Water Wave",
+   "image": "https://i.imgur.com/eeg5BMw.png",
+   "description": "Yahiko spews water in a waterfall-like fashion, dealing 30 piercing damage to one enemy and 20 chakra damage to all others.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Lateral Kick",
+   "image": "https://i.imgur.com/eRN0ztK.png",
+   "description": "Yahiko assaults one enemy with a lateral kick, dealing 20 damage to them and stunning their non-mental skills for 1 turn. The following turn, 'Water Style: Wild Water Wave' will cost 1 less random chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Descending Fist",
+   "image": "https://i.imgur.com/5OP0hh9.png",
+   "description": "Yahiko assaults one enemy with a descending fist, dealing 20 piercing damage to them and removing 1 taijutsu or bloodline chakra. The following turn, 'Water Style: Wild Water Wave' will cost 1 less random chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Magnificent Frog Disguise",
+   "image": "https://i.imgur.com/cMfwVz4.png",
+   "description": "This skill makes Young Yahiko (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

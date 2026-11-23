@@ -1,0 +1,50 @@
+{
+ "slug": "chojuro-(s)",
+ "name": "Chojuro (S)",
+ "portrait": "https://i.imgur.com/WMSVj5I.jpg",
+ "description": "Chojuro (S) confidence is building as the war rages one. The longer it lasts the stronger Chojuro (S) becomes.",
+ "unlock": "Mission: The Lone Swordsman",
+ "skills": [
+  {
+   "name": "Hiramekarei Strider",
+   "image": "https://i.imgur.com/Nh30zKh.jpg",
+   "description": "Using Hiramekarei Strider, Chojuro destroys all enemies' destructible defense and damage reduction and then deals 10 piercing damage to them.The following 2 turns, this skill will deal 10 additional damage and can only be used on a single target.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Hiramekarei Hammer",
+   "image": "https://i.imgur.com/CSZCwGo.jpg",
+   "description": "Chojuro (S) creates a hammer of chakra to attack one enemy, dealing 40 piercing damage to them. If that enemy has any destructible defense or damage reduction, this skill will apply 'Hiramekarei Strider' on them before dealing damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Hiramekarei Kenjutsu",
+   "image": "https://i.imgur.com/Xei0Rhg.jpg",
+   "description": "For 1 turn, all enemy non-chakra skills used on Chojuro will be countered. Any countered enemy will permanently take 10 additional damage from Chojuro's skills.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Hiramekarei Defense",
+   "image": "https://i.imgur.com/by7vCiX.jpg",
+   "description": "This skill makes Chojuro (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

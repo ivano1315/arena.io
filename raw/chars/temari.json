@@ -1,0 +1,52 @@
+{
+ "slug": "temari",
+ "name": "Temari",
+ "portrait": "https://i.imgur.com/kTLEaMP.png",
+ "description": "The elder sister of Gaara and Kankuro, Temari is a somewhat cruel and blunt ninja that fights using the wind at her side. With her fan, Temari can create powerful gusts of wind that she can manipulate at her desire.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Cutting Whirlwind",
+   "image": "https://i.imgur.com/XA5pGTk.png",
+   "description": "Temari creates a razor sharp wind, dealing 20 piercing damage to one enemy and 10 piercing damage to all others enemies. For 1 turn, Temari becomes invulnerable to non-mental skills.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Summoning Quick Beheading Dance",
+   "image": "https://i.imgur.com/z6DZR9Q.png",
+   "description": "Temari summons the wind weasel Kamatari in the battlefield, dealing 35 damage to all enemies. If used one turn after 'Cutting Whirlwind', this skill will cost 1 less random chakra.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Dust Wind",
+   "image": "https://i.imgur.com/JbSunqZ.png",
+   "description": "Temari kicks up dust, making her team invulnerable for 1 turn. If targatable, all enemies will deal 20 less non-affliction damage for 1 turn. If used one turn after 'Cutting Whirlwind', this skill will decrease damage for 2 turns instead.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Fan Defence Technique",
+   "image": "https://i.imgur.com/UBBy2S7.png",
+   "description": "This skill makes Temari invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "white-zetsu-(s)",
+ "name": "White Zetsu (S)",
+ "portrait": "https://i.imgur.com/NnwSt1w.png",
+ "description": "A countless army born from Hashirama's cells—harmless in appearance, deadly in numbers. Character submited by: Akats.",
+ "unlock": "Mission: The clones of Zetsu",
+ "skills": [
+  {
+   "name": "White Zetsu Host",
+   "image": "https://i.imgur.com/czHnIUW.png",
+   "description": "White Zetsu cannot become invulnerable permanently. Each turn he gains 3 clone stacks, and if stunned will gain 15 points of unpierceable damage reduction the following turn. At 3 clone stacks, he gains 15 points of damage reduction. At 6, he gains 15 destructible defense. At 9, he ignores affliction damage. Each skill he uses consumes 6 clone stacks.",
+   "cooldown": "4",
+   "energy": [],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Clones Assault",
+   "image": "https://i.imgur.com/vVL4Vtc.png",
+   "description": "At 3/6/9 clones, this skill costs 1 additional random chakra and deals 25/45/65 piercing damage to one enemy. This skill cannot be countered.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Mass Reproduction",
+   "image": "https://i.imgur.com/h4GBU08.png",
+   "description": "White Zetsu Clones will mass produce all over the battlefield for 4 turns, dealing 10 damage to one random enemy while one random ally will gain 10 points of damage reduction. During this time, this skill becomes 'Parasitic Grab'.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "White Assimilation: Poison Mist",
+   "image": "https://i.imgur.com/aWfXWNn.png",
+   "description": "White Zetsu will target all enemies on the battlefield for 2 turns. All enemies will become invulnerable to friendly skills and take 5 additional damage from White Zetsu's skills.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Parasitic Grab",
+   "image": "https://i.imgur.com/PhWSLF4.png",
+   "description": "White Zetsu will make one enemy unable to target anyone else but White Zetsu for 1 turn. They will take 50% more damage from White Zetsu's skills for 2 turns.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

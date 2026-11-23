@@ -1,0 +1,61 @@
+{
+ "slug": "cursed-seal-sasuke",
+ "name": "Cursed Seal Sasuke",
+ "portrait": "https://i.imgur.com/r4RPyUj.png",
+ "description": "When Sasuke releases the full power of his cursed seal his body and chakra become a twisted vision of his inner self and his strength is amplified greatly.",
+ "unlock": "Mission: Descent into Darkness",
+ "skills": [
+  {
+   "name": "Corrupt Chidori",
+   "image": "https://i.imgur.com/2eNeRIl.png",
+   "description": "Using a cursed seal chakra corrupted Chidori Sasuke does 45 piercing damage to one enemy and for 2 turns, will reduce their non-affliction damage by 20.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Katon: Goukakyuu no Jutsu",
+   "image": "https://i.imgur.com/YZZPJg7.png",
+   "description": "Sasuke launches a giant fireball, dealing 20 affliction damage to one enemy. For 1 turn, If that enemy uses a skill they will take 10 affliction damage. During 'Cursed Seal', this skill will be improved and will also deal an additional 10 damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Cursed Seal",
+   "image": "https://i.imgur.com/zdEp3Mv.png",
+   "description": "Sasuke taps into the power of cursed seal, becoming invulnerable for 1 turn and taking 20 affliction damage, which cannot kill him. The following turn, 'Corrupt Chidori' will cost 1 random chakra, 'Katon: Goukakyuu no Jutsu' will have no cost, and this skill will be replaced by 'Dark Void'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant."
+  },
+  {
+   "name": "Sharingan Evasion",
+   "image": "https://i.imgur.com/gcRgFEG.png",
+   "description": "This skill makes Cursed Seal Sasuke invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Dark Void",
+   "image": "https://i.imgur.com/Gi982SB.png",
+   "description": "Expunging the corrupt chakra, Sasuke engulfs one enemy, stunning them for 2 turns, and making them invulnerable to all skills. When this skill ends, that enemy will receive 55 damage. This skill will end if Sasuke dies.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  }
+ ]
+}

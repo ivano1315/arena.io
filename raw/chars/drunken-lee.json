@@ -1,0 +1,50 @@
+{
+ "slug": "drunken-lee",
+ "name": "Drunken Lee",
+ "portrait": "https://i.imgur.com/QYXQyIZ.png",
+ "description": "Rock Lee has accidentally drunk too much Alcohol and has awakened his natural Drunken Fist Technique which has given him amazing speed and unpredictability.",
+ "unlock": "Mission: The Drunken Master",
+ "skills": [
+  {
+   "name": "Unpredictable Assault",
+   "image": "https://i.imgur.com/cMMgVUq.png",
+   "description": "Using his drunken master abilities, Lee deals 20 damage to one enemy that cannot be countered. For 1 turn, if that enemy uses a new harmful skill, Lee will instantly heal 10 health. Permanently, Lee will deal 5 additional damage. This effect stacks.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Drunken Fist",
+   "image": "https://i.imgur.com/qQsZR3t.png",
+   "description": "Lee charges at an enemy and hits them with a knockout blow, dealing 30 damage to that enemy, and for 1 turn, their skills will deal 100% less damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Drunken Counter",
+   "image": "https://i.imgur.com/56rirZI.png",
+   "description": "Lee targets himself or an ally. For 1 turn, the first harmful physical skill used on that ally will be countered. If successful, the countered enemy will have 'Unpredictable Assault' used on them. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Drunken Leap",
+   "image": "https://i.imgur.com/WWza0iI.png",
+   "description": "This skill makes Drunken Lee invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

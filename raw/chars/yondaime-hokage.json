@@ -1,0 +1,51 @@
+{
+ "slug": "yondaime-hokage",
+ "name": "Yondaime Hokage",
+ "portrait": "https://i.imgur.com/JD6Ftin.png",
+ "description": "The fourth Hokage was known as the yellow flash, regarded by all as the fastest shinobi to ever live. He is also the father of Uzumaki Naruto and the one who sealed the Kyuubi in his son.",
+ "unlock": "Mission: The Fourth",
+ "skills": [
+  {
+   "name": "Hiraishin Rasengan",
+   "image": "https://i.imgur.com/YJe4YUl.png",
+   "description": "Yondaime deals 40 damage to one enemy, which ignores invulnerability and cannot be countered or reflected. The following turn, this skill will cost 1 ninjutsu chakra and will deal 35 damage instead.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Space Time Barrier",
+   "image": "https://i.imgur.com/NPtZUyI.png",
+   "description": "Using his space-time abilities, Yondaime Hokage targets one ally or himself. For 1 turn, all new non-mental skills used on that ally will be reflected onto the enemy. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Partial Dead Demon Consuming Seal",
+   "image": "https://i.imgur.com/NbuLkmG.png",
+   "description": "Yondaime seals part of one enemy away, dealing 25 affliction damage to them and stunning their physical and chakra skills for 1 turn. If that enemy's health drops to 10 or lower, they will be instantly killed. Yondaime will also receive 15 affliction damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Kunai Defense",
+   "image": "https://i.imgur.com/SUru7Y9.png",
+   "description": "This skill makes Yondaime Hokage invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

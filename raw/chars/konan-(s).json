@@ -1,0 +1,51 @@
+{
+ "slug": "konan-(s)",
+ "name": "Konan (S)",
+ "portrait": "https://i.imgur.com/NKiX9SG.png",
+ "description": "Konan (S) is a member of Akatsuki and a master of origami ninjutsu, earning her the title God's Angel in Amegakure. Able to turn her body into thick sheets of paper, she is capable of multiple forms of attack.",
+ "unlock": "Mission: Angel of Akatsuki",
+ "skills": [
+  {
+   "name": "Sword of Paper",
+   "image": "https://i.imgur.com/iabNhjD.png",
+   "description": "Using a sword made of paper, Konan deals 25 piercing damage to one enemy. If that enemy's health drops to 5 or less, they will be instantly killed. This skill will deal 10 additional damage to a stunned enemy.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Origami Blanket",
+   "image": "https://i.imgur.com/HOTrOhS.png",
+   "description": "Konan covers one enemy in paper, dealing 15 damage to them for 2 turns. Each turn, that enemy will have their harmful skills stunned and become invulnerable to helpful skills for 1 turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Control, Ranged."
+  },
+  {
+   "name": "Dance Of The Shikigami",
+   "image": "https://i.imgur.com/oSfXh4P.png",
+   "description": "Konan transforms her body into countless sheets of paper and strikes her enemies, dealing 25 damage to one enemy and 25 damage to a different random enemy. Afterwards, Konan becomes invulnerable for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Onmyoji Dodge",
+   "image": "https://i.imgur.com/kXIBt89.png",
+   "description": "This skill makes Konan (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

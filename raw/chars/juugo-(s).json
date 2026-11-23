@@ -1,0 +1,51 @@
+{
+ "slug": "juugo-(s)",
+ "name": "Juugo (S)",
+ "portrait": "https://i.imgur.com/UyEZH0f.png",
+ "description": "One of Orochimaru's many test subjects, Juugo is the genetic source of the Cursed Seal. A reclusive man who is normally calm and gentle, Juugo suffers from murderous psychotic episodes, and now follows Sasuke as a member of Team Taka, as after the death of Kimimaro, only he can calm his killer impulses.",
+ "unlock": "Mission: Gentle Lunatic",
+ "skills": [
+  {
+   "name": "Compression Blast",
+   "image": "https://i.imgur.com/2b7peUK.png",
+   "description": "Juugo absorbs natural energy and expels it in a highly compressed and violent blast, dealing 35 damage to one enemy and stunning their physical and chakra skills. During 'Killer Impulse', this skill will cost 2 random chakra instead.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Killer Impulse",
+   "image": "https://i.imgur.com/k69pHmC.png",
+   "description": "For 3 turns, Juugo gains 75% damage reduction. During this time, 3 random enemies will receive 25 piercing damage each turn. While active, 'Compression Blast' will cost 2 random chakra instead. The target enemies are invisible. This skill ignores invulnerability.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Fusion",
+   "image": "https://i.imgur.com/y8tsNlu.png",
+   "description": "Juugo targets one ally, healing 25 health and granting 10 permanent destructible defense to them. Each time Juugo uses this skill, the cooldown of Juugo's skills will be increased by 1.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Isolation",
+   "image": "https://i.imgur.com/VGPEiRn.jpg",
+   "description": "This skill makes Juugo (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

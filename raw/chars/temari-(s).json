@@ -1,0 +1,48 @@
+{
+ "slug": "temari-(s)",
+ "name": "Temari (S)",
+ "portrait": "https://i.imgur.com/MZDKqqA.png",
+ "description": "Temari (S) has grown over the years. She is now a Jounin as well as the sister of Kankuro and Gaara. Temari is also the Hidden Sand Village's ambassador to the Hidden Leaf Village.",
+ "unlock": "Mission: The Third Sand Sibling",
+ "skills": [
+  {
+   "name": "Fan Increase Moon",
+   "image": "https://i.imgur.com/1wTEObW.png",
+   "description": "Temari opens her fan and reveals a moon. Temari gains 5 points of damage reduction and increase her damage by 5 permanently. This skill stacks and can only be used 3 times.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Wind Scythe",
+   "image": "https://i.imgur.com/1Dw5I8M.png",
+   "description": "Using Wind Scythe Temari (S) deals 20 piercing damage to one enemy.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Immense Cutting Whirlwind",
+   "image": "https://i.imgur.com/Lwfgjry.png",
+   "description": "Temari creates an immense whirlwind in the battlefield, dealing 20 damage to all enemies and lowering their non-affliction damage by 10 for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Fan Barrier",
+   "image": "https://i.imgur.com/dIOxpHr.png",
+   "description": "This skill makes Temari (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

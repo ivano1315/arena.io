@@ -1,0 +1,50 @@
+{
+ "slug": "hyuuga-neji-(s)",
+ "name": "Hyuuga Neji (S)",
+ "portrait": "https://i.imgur.com/L3PYgA9.png",
+ "description": "The only one of the original genins to make it to the level of jounin, Neji(s) has greatly increased his ability with both byakugan and gentle fist taijutsu.",
+ "unlock": "Mission: Pride of the Hyuuga",
+ "skills": [
+  {
+   "name": "Eight Trigams Sky Palm",
+   "image": "https://i.imgur.com/Vz9AP1d.png",
+   "description": "Neji deals 20 damage to one enemy. For 1 turn, if that enemy uses any new skill, they will lose 1 non-taijutsu chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Mountain Crusher Palm",
+   "image": "https://i.imgur.com/RjDKqBY.png",
+   "description": "Neji destroys all destructible defense of one enemy and deals 30 damage to them, and then removes them 1 taijutsu and 1 genjutsu chakra. For 2 turns, 'Eight Trigams Sky Palm' will deal 10 additional damage to that enemy.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Reactive Rotation",
+   "image": "https://i.imgur.com/OY8Aq78.png",
+   "description": "Neji target himself or one ally for 1 turn. The first harmful non-mental skill used on the protected character will be countered, and for 3 turns will take 10 additional damage from Neji's skills. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Neji Insight",
+   "image": "https://i.imgur.com/QcbCtD3.png",
+   "description": "This skill makes Hyuuga Neji (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

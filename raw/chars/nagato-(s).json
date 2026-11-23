@@ -1,0 +1,50 @@
+{
+ "slug": "nagato-(s)",
+ "name": "Nagato (S)",
+ "portrait": "https://i.imgur.com/PEZ7ucJ.jpg",
+ "description": "Nagato is the leader of Akatsuki and is also known as Pein. He is in control of the six paths of Pein and was a former student of Jiraiya. Nagato possess the rinnegan and may be the strongest ninja in the shinobi world.",
+ "unlock": "Mission: Eye of the Rinnegan",
+ "skills": [
+  {
+   "name": "Demonic Statue Summoning",
+   "image": "https://i.imgur.com/x9FTMms.jpg",
+   "description": "Nagato (S) targets all enemies and deals 15 damage to them. Nagato will gain 10 permanent destructible defense. The following turn, 'Etheral Dragon' will deal an additional 10 damage to enemies affected by this skill.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Etheral Dragon",
+   "image": "https://i.imgur.com/frO4zbf.jpg",
+   "description": "Using Etheral Dragon, Nagato deals 20 damage to one enemy. If that enemy's health drops to 30 or less, they will have their physical and mental skills stunned for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Samsara of Heavenly Life",
+   "image": "https://i.imgur.com/WRssnUP.jpg",
+   "description": "Nagato (S) uses Samsara of Heavenly Life to heal all allies for 40 health. Any dead ally on Nagato's team will be revived back to 30 health and will become invulnerable for 1 turn. Nagato will lose 50% of his current health* for each ally revived by this skill.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Affliction*."
+  },
+  {
+   "name": "Bansho Block",
+   "image": "https://i.imgur.com/ZvysjIj.jpg",
+   "description": "This skill makes Nagato (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "fukasaku-and-shima-(s)",
+ "name": "Fukasaku and Shima (S)",
+ "portrait": "https://i.imgur.com/oXOirA4.jpg",
+ "description": "Fukasaku and Shima (S) are known as the two great sage toads of Mount Myoboku. They taught both Jiraiya and Naruto sage jutsu and are each skilled in elemental techniques as well as genjutsu techniques.",
+ "unlock": "Mission: The Sages of Mount Myoboku",
+ "skills": [
+  {
+   "name": "Frog Song",
+   "image": "https://i.imgur.com/NZKucJD.jpg",
+   "description": "Fukasaku and Shima (S) use their pattened genjustu to use Frog Song. They target 1 enemy and deal 15 affliction damage for 2 turns. During Toad Confrontation Singing this skill will cost 1 random chakra instead.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Affliction, Action, Ranged."
+  },
+  {
+   "name": "Sand Dust",
+   "image": "https://i.imgur.com/tvcevTA.jpg",
+   "description": "This skill makes Fukasaku and Shima's team invulnerable to non-mental skills for 1 turn.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Toad Confrontation Singing",
+   "image": "https://i.imgur.com/A0eWnDM.jpg",
+   "description": "Fukasaku and Shima targets all enemies, dealing 15 damage to them for 2 turns. For 1 turn, if they use a new harmful non-mental skill, they will have their harmful non-mental skills stunned for 1 turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Action, Ranged."
+  },
+  {
+   "name": "Frogs Tag Team",
+   "image": "https://i.imgur.com/iaBGOtU.png",
+   "description": "This skill makes Fukasaku and Shima (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

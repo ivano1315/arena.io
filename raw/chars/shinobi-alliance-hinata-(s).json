@@ -1,0 +1,60 @@
+{
+ "slug": "shinobi-alliance-hinata-(s)",
+ "name": "Shinobi Alliance Hinata (S)",
+ "portrait": "https://i.imgur.com/Dnxsrpq.png",
+ "description": "Hinata will also take part in the war. Together with her allies, she will destroy any enemy that tries to attack using her new technique, Gentle Step Twin Lion Fists, along with her Byakugan.",
+ "unlock": "Mission: The Hyuuga Princess At War",
+ "skills": [
+  {
+   "name": "Sixty-Four Palms",
+   "image": "https://i.imgur.com/CLqNirF.png",
+   "description": "Hinata delivers a series of attacks to one enemy, dealing 25 piercing damage to them and stunning their chakra skills for 1 turn. While improved, this skill will stun non-mental skills for 1 turn instead.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Gentle Step Twin Lion Fists",
+   "image": "https://i.imgur.com/tOKsmOK.png",
+   "description": "Hinata assaults one enemy with her twin lion fists, dealing 30 piercing and removing 1 taijutsu or ninjutsu chakra from them. The following 2 turns, this skill will be replaced by 'Chakra Lion Attack'. While improved, this skill will deal 35 piercing damage and remove 1 random chakra instead.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Byakugan: Enhanced Vision",
+   "image": "https://i.imgur.com/gCtDlPI.png",
+   "description": "For 4 turns, Hinata's non-damage effects cannot be ignored and her skills will be improved. During this time, Hinata will use her Byakugan to reveal any invisible skill used by the enemy team.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Byakugan: Focus",
+   "image": "https://i.imgur.com/h0HY5xh.png",
+   "description": "This skill makes Shinobi Alliance Hinata (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Chakra Lion Attack",
+   "image": "https://i.imgur.com/YRF47Yp.png",
+   "description": "This skill deals 25 piercing damage to one enemy and removes 1 taijutsu or ninjutsu chakra. While improved, this skill will remove 1 random chakra instead.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  }
+ ]
+}

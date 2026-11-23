@@ -1,0 +1,89 @@
+{
+ "slug": "uzumaki-naruto-(s)",
+ "name": "Uzumaki Naruto (S)",
+ "portrait": "https://i.imgur.com/ksOuPJi.png",
+ "description": "After nearly three years of secluded training with Jiraiya, Naruto(s) has returned to Konoha with a greatly improved arsenal of ninja skills.",
+ "unlock": "Mission: The Prodigal Son Returns",
+ "skills": [
+  {
+   "name": "Oodama Rasengan",
+   "image": "https://i.imgur.com/toWCXT5.png",
+   "description": "Naruto uses a greater version of Rasengan, dealing 40 piercing damage to one enemy, ignoring invulnerability. During 'Kyuubi Boost', this skill will stun their non-mental skills for 1 turn. Afterwards, Naruto takes 5 affliction damage*. During 'Passive: Three Tails Release', this skill will be replaced.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee, Affliction*."
+  },
+  {
+   "name": "Shadow Clones: Rasengan",
+   "image": "https://i.imgur.com/KdxZzju.png",
+   "description": "The following turn, Naruto will deal 20 piercing damage to one enemy. During this time, Naruto will ignore all harmful effects. During 'Passive: Three Tails Release', this skill will be replaced. The target of this skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Action, Melee."
+  },
+  {
+   "name": "Kyuubi Boost",
+   "image": "https://i.imgur.com/Mv0n65V.jpg",
+   "description": "Naruto loses 10 health* and gains 1 ninjutsu chakra. For 3 turns, he will have 10 points of damage reduction. The following 3 turns, he will ignore stun effects and this skill will be replaced by 'Kyuubi Empowered Rasengan'. Cannot be used during 'Passive: Three Tails Transformation'.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Affliction*."
+  },
+  {
+   "name": "Shadow Clone Save",
+   "image": "https://i.imgur.com/8lPJUXh.png",
+   "description": "This skill makes Uzumaki Naruto (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Kyuubi Empowered Rasengan",
+   "image": "https://i.imgur.com/iqprvFg.png",
+   "description": "Naruto uses a Rasengan empowered by the Kyuubi chakra, dealing 25 damage to one enemy and stunning their non-mental skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Passive: Three Tails Release",
+   "image": "https://i.imgur.com/W4maqPt.png",
+   "description": "Each time Naruto uses 'Oodama Rasengan' or 'Kyuubi Empowered Rasengan', he will gain 1 Kyuubi Rage stack. At 4 Kyuubi Rage stacks, Kyuubi chakra will be released for 3 turns, removing all harmful skills, granting 50% unpierceable damage reduction, ignoring stun effects, and improving his skills.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Three-Tail: Claw Smash",
+   "image": "https://i.imgur.com/MOw6ymg.png",
+   "description": "Naruto dashes forward and strikes one enemy with a powerful smash, dealing 40 piercing damage and stunning their non-mental skills for 1 turn. Afterwards, Naruto takes 5 affliction damage. This skill ignores invulnerability.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee, Affliction*."
+  },
+  {
+   "name": "Three-Tail: Chakra Shockwave",
+   "image": "https://i.imgur.com/pd00clo.png",
+   "description": "The following turn, Naruto will deal 20 affliction damage to all enemies. During this time, Naruto will ignore all harmful effects. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Action, Ranged."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "edo-tensei-yugito-(s)",
+ "name": "Edo Tensei Yugito (S)",
+ "portrait": "https://i.imgur.com/MhobEGS.png",
+ "description": "Reanimated by Kabuto during the Fourth Shinobi World War, Yugito has had the Two-Tails, Matatabi, sealed back inside her. Having been made into one of Tobi's new Six Paths of Pain along with the other fallen jinchuuriki, Yugito is under his full control, fighting her foes using the Two-Tails' fiery feline powers.",
+ "unlock": "Mission: Yugito, the Path of Pain",
+ "skills": [
+  {
+   "name": "Cat Claws",
+   "image": "https://i.imgur.com/ryp6AZy.png",
+   "description": "Yugito deals 15 damage to one enemy and stuns their non-mental skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Fiery Mouse Hairball",
+   "image": "https://i.imgur.com/P2Ija8U.png",
+   "description": "Yugito deals 15 damage to one enemy and removes 1 taijutsu chakra from them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Nibi: Rage Punch",
+   "image": "https://i.imgur.com/im9yIgr.png",
+   "description": "Yugito destroys all destructible defense of one enemy, deals 15 piercing damage to them and kills them if their health drops to 10 or less.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Yugito: Rinnegan Awareness",
+   "image": "https://i.imgur.com/72rXM4t.png",
+   "description": "This skill makes Edo Tensei Yugito (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Passive: Nibi Awakening",
+   "image": "https://i.imgur.com/KvEkWpM.png",
+   "description": "Every time Yugito uses a new harmful skill, she gains 10 additional damage, stacking until she stops using new harmful skills. If Yugito passes 2 turns without using a new harmful skill, her skills will cost 1 random chakra for 1 turn. The bonus damage may only stack up to a maximum of 30.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

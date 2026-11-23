@@ -1,0 +1,60 @@
+{
+ "slug": "izumo-and-kotetsu-(s)",
+ "name": "Izumo and Kotetsu (S)",
+ "portrait": "https://i.imgur.com/9zd3jpv.jpg",
+ "description": "Part of the Nijuu Shoutai, Izumo and Kotetsu are almost always found together and work together excellently as a combat team.",
+ "unlock": "Mission: An Inseparable Duo",
+ "skills": [
+  {
+   "name": "Mace Crush",
+   "image": "https://i.imgur.com/st09j1g.jpg",
+   "description": "Kotetsu summons a giant mace and slams it against one enemy, dealing 30 damage to them. This skill will deal 10 more damage if the enemy has been stunned by the 'Starch Syrup Capturing Field'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Starch Syrup Capturing Field",
+   "image": "https://i.imgur.com/I2M3m7i.jpg",
+   "description": "Izumo Spits out a field of sticky skyrup making it harder for the enemy team to move around. For 2 turns, any enemy that uses a new non-mental skill will have that specif class of skill stunned for 1 turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Devastate",
+   "image": "https://i.imgur.com/W5VuH7m.jpg",
+   "description": "Izumo moves to hit an enemy from the left. For the next 3 turns, if 'Annihilate' is used on that target, they will take 65 damage.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Tag Team",
+   "image": "https://i.imgur.com/gDCDUMD.jpg",
+   "description": "Izumo swap, exchanging his health points for Kotetsu's. If Izumo or Kotetsu is killed during this time, the other will take permanent control. During this period, 'Devastate' will be replaced by 'Annihilate'. This skill can be used again to exchange health points. This skill cannot be ignored or removed.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Instant."
+  },
+  {
+   "name": "Annihilate",
+   "image": "https://i.imgur.com/gFhN8WU.png",
+   "description": "Kotetsu moves to hit an enemy from the right. For the next 3 turns, if 'Devastate' is used on that target, they will take 65 damage.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

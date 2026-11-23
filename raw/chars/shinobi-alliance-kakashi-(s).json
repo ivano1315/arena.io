@@ -1,0 +1,50 @@
+{
+ "slug": "shinobi-alliance-kakashi-(s)",
+ "name": "Shinobi Alliance Kakashi (S)",
+ "portrait": "https://i.imgur.com/VnUySet.png",
+ "description": "Kakashi, as one of the squad leaders, goes to war alongside all the ninjas. Now, he uses everything at his disposal to win. Besides himself, Kakashi can rely on his allies.",
+ "unlock": "Mission: The Leader of the Third Division",
+ "skills": [
+  {
+   "name": "Kubikiribouchou: Heavy Attack",
+   "image": "https://i.imgur.com/FORwVtl.png",
+   "description": "Using Zabuza's sword, Kakashi destroys one enemy's destructible defense and deals 15 piercing damage to them. Afterwards, Kakashi will also steal 5 health from that enemy. The following turn, 'Lightning-Infused Kunai' will cost 1 ninjutsu and 1 random chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Lightning-Infused Kunai",
+   "image": "https://i.imgur.com/BW5EaAT.png",
+   "description": "Kakashi deals 40 piercing damage to one enemy, ignoring counters and reflects. If this skill successfully kills the target, it will have its cooldown reset, its chakra cost changed to 2 random chakra, and its damage increased by 10 for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Lightning Transmission Cable",
+   "image": "https://i.imgur.com/mEcxUs6.png",
+   "description": "For 3 turns, Kakashi gains 15 points of damage reduction and any enemy that uses a new non-mental skill on him will take 10 piercing damage. During this time, all enemies will be marked and, if they use a new harmful damaging skill, Kakashi's other skills will permanently steal 5 health from them, dealt as a new source of damage. This effect stacks.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Earth Release: Earth-Style Wall",
+   "image": "https://i.imgur.com/5fKpuCR.png",
+   "description": "This skill makes Shinobi Alliance Kakashi (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

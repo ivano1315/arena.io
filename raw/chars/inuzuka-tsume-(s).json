@@ -1,0 +1,59 @@
+{
+ "slug": "inuzuka-tsume-(s)",
+ "name": "Inuzuka Tsume (S)",
+ "portrait": "https://i.imgur.com/IIeGmwW.png",
+ "description": "A Konoha jounin, a member of the Inuzuka clan, and the mother of Kiba, Tsume, much like her son, is a wild and impatient woman with an often odd sense of humor. Like other members of her clan, Tsume fights one with her companion, Kuromaru, while allowing her wild instincts to take over.",
+ "unlock": "Mission: The Den Mother",
+ "skills": [
+  {
+   "name": "Summon: Kuromaru",
+   "image": "https://i.imgur.com/BxSvfpG.png",
+   "description": "Tsume calls Kuromaru to aid her. The following 4 turns, she will gain 50% points of damage reduction. During this time, this skill will be replaced by 'Fierce Bite' and any enemy that uses a new harmful non-affliction skill on Tsume will receive 10 damage.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Passing Fang",
+   "image": "https://i.imgur.com/53f8q2Q.png",
+   "description": "Tsume spins, dealing 15 piercing damage to one enemy for 2 turns. All stun skills that enemy uses will also be decreased by 2 turns. If 'Summon: Kuromaru' is active, this skill will deal 5 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Flashbang",
+   "image": "https://i.imgur.com/P1Y9n3z.png",
+   "description": "Tsume covers herself and her allies, making them invulnerable to all non-affliction skills for 1 turn. Tsume only carries 3 of these grenades with her at all times, so this skill can only be used three times in a game.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Man-Beast Defense",
+   "image": "https://i.imgur.com/UmQRaHZ.png",
+   "description": "This skill makes Inuzuka Tsume (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Fierce Bite",
+   "image": "https://i.imgur.com/sjrxK3l.png",
+   "description": "Kuromaru jumps at one enemy dealing 25 damage which ignores invulnerability. If that enemy dies this turn, then for 2 turns Tsume will have her damage increased by 10, will ignore all stun effects and cannot be killed.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

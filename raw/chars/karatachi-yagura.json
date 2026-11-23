@@ -1,0 +1,47 @@
+{
+ "slug": "karatachi-yagura",
+ "name": "Karatachi Yagura",
+ "portrait": "https://i.imgur.com/uuIzkk0.png",
+ "description": "The Fourth Mizukage of the Hidden Mist Village, Yagura is also the jinchuuriki host of the Three-Tailed Beast, Isobu. A tragic character manipulated by \"Uchiha Madara\" throughout his infamously bloody reign, Yagura uses the Three-Tails' unique mist and coral-based abilities in battle to efficiently hinder his enemies.",
+ "unlock": "Mission: The Bloody Mizukage",
+ "skills": [
+  {
+   "name": "Isobu: Tailed Beast Bomb",
+   "image": "https://i.imgur.com/ha118sW.png",
+   "description": "Yagura heals 5 health and deals 20 damage to one enemy. This skill  deals 10 additional damage  for every 15 extra health it heals.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Bloodshed",
+   "image": "https://i.imgur.com/CqRgmjv.png",
+   "description": "Yagura deals 10 piercing damage to all enemies. For 2 turns, if an enemy does not use a new skill, their skills will have 1 additional cooldown for 1 turn, otherwise, 'Isobu: Tailed Beast Bomb' will heal 5 additional health permanently. This skill stacks and cannot be countered.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Isobu Transformation",
+   "image": "https://i.imgur.com/6j3AzPS.png",
+   "description": "For 1 turn, Yagura will ignore stun effects and 'Bloodshed' will cost 1 random chakra. Permanently, everytime Yagura uses a new skill, he will ignore all stun effects for 1 turn. During this time, this skill can be used to make 'Bloodshed'  cost 1 random chakra for 1 turn. This skill cannot be removed.",
+   "cooldown": "2",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Isobu: Chakra Skin",
+   "image": "https://i.imgur.com/CQCO65m.png",
+   "description": "This skill makes Yagura invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

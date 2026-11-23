@@ -1,0 +1,51 @@
+{
+ "slug": "shinobi-alliance-shino-(s)",
+ "name": "Shinobi Alliance Shino (S)",
+ "portrait": "https://i.imgur.com/7Dh50WS.png",
+ "description": "Shino evolves, enhancing his intellect and his Aburame clan abilities. Shino remains calm and, at the same time, cold. His parasites can now destroy any layer, enemy, or defense, and he can also use them as a defense at any moment.",
+ "unlock": "Mission: Aburame At War",
+ "skills": [
+  {
+   "name": "Insect Assault",
+   "image": "https://i.imgur.com/bhP59yW.png",
+   "description": "Shino deals 10 affliction damage to one enemy for 3 turns. During 'Bug Barrier', this skill can be used on Shino, or an ally, to heal 10 health for 3 turns. This skill cannot be used on an enemy already affected by it.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Insect Coffin",
+   "image": "https://i.imgur.com/nyuyOdq.png",
+   "description": "Shino surrounds one enemy with insects, dealing 15 affliction damage to them for 3 turns. During this time, that enemy will be unable to reduce damage or become invulnerable and if Shino or an ally uses a damaging skill, or new action, on that enemy, they will heal 15 health. This skill cannot be used on an enemy already affected by it.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Bug Barrier",
+   "image": "https://i.imgur.com/IZreCOO.png",
+   "description": "Shino creates a massive barrier of bugs to defend his team. For 1 turn, Shino and his allies will heal 15 health and will gain 15 destructible defense. Afterwards, they will heal 5 health permanently in the following turns. This skill ends if Shino dies, and it will be re-applied if used while active.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Hidden Insects",
+   "image": "https://i.imgur.com/pRM7rEi.png",
+   "description": "This skill makes Shinobi Alliance Shino (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

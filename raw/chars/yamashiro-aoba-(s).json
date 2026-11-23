@@ -1,0 +1,50 @@
+{
+ "slug": "yamashiro-aoba-(s)",
+ "name": "Yamashiro Aoba (S)",
+ "portrait": "https://i.imgur.com/DSILjJ6.png",
+ "description": "Aoba is one of the special jounins of the Hidden Leaf Village. By summoning crows, he is able to distract enemies, protect allies, and all while disguising himself among them to create openings for stealth attacks. In addition, Aoba is also able to penetrate the minds of his enemies to obtain information.",
+ "unlock": "Mission: A Feast for Crows",
+ "skills": [
+  {
+   "name": "Crow Assault",
+   "image": "https://i.imgur.com/2VvTqS9.png",
+   "description": "Aoba deals 5 damage to all enemies for 4 turns. All Aoba team will also gain 5 damage reduction points for 4 turns.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Action, Ranged."
+  },
+  {
+   "name": "Crow Convergence",
+   "image": "https://i.imgur.com/N4Z04FG.png",
+   "description": "Aoba targets one enemy, making them unable to reduce damage or become invulnerable and dealing 30 damage to them for 1 turn. For 3 turns, that enemy will take 5 additional mental damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Chakra Imbued Kunai",
+   "image": "https://imgur.com/p7dKbjA.jpg",
+   "description": "Aoba targets one enemy for 2 turns. If a new skill that has counter, reflect, or invulnerability is used on that enemy, they will ignore helpful effects for 1 turn. While active, that enemy will receive 10 additional damage from Aoba's skills. This skill is invisible and ends when triggered.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Crow Smoke Screen",
+   "image": "https://imgur.com/q5wXgcr.jpg",
+   "description": "This skill makes Yamashiro Aoba (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

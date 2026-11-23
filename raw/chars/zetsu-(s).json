@@ -1,0 +1,50 @@
+{
+ "slug": "zetsu-(s)",
+ "name": "Zetsu (S)",
+ "portrait": "https://i.imgur.com/daklazj.png",
+ "description": "Zetsu (S) is intent to follow Tobi's orders. With his abilities he will be trouble for anyone that comes across him.",
+ "unlock": "Mission: A Plant Life",
+ "skills": [
+  {
+   "name": "Spore Technique",
+   "image": "https://i.imgur.com/NvIcUVB.png",
+   "description": "Zetsu plants spore clones into an ally, granting them 10 permanent destructible defense and making them ignore all harmful non-damage effects until this destructible defense is destroyed. When it's destroyed, that ally will gain 1 random chakra. This skill is invisible.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Wood Release Roots",
+   "image": "https://i.imgur.com/aErdKWP.png",
+   "description": "Zetsu manipulates wood roots and attacks an enemy from below, dealing 30 piercing damage and stunning that enemy's physical and chakra skills for 1 turn. This skill ignores invulnerability.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Parasite Clone Trap",
+   "image": "https://i.imgur.com/NmLDNO3.png",
+   "description": "Zetsu targets one enemy, reducing their non-affliction damage by 10 permanently. If that enemy uses a new harmful skill, that skill will be copied and 'Parasite Clone Trap' will end. This skill will be replaced by the copied skill for 1 turn which will cost random chakra. This skill is invisible.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Zetsu Split",
+   "image": "https://i.imgur.com/5G2uYVn.png",
+   "description": "This skill makes Zetsu (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

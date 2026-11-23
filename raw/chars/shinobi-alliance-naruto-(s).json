@@ -1,0 +1,82 @@
+{
+ "slug": "shinobi-alliance-naruto-(s)",
+ "name": "Shinobi Alliance Naruto (S)",
+ "portrait": "https://i.imgur.com/fz1dnIW.png",
+ "description": "Having gained complete control of all of the kyuubi's chakra, Naruto will be sure to rampage over every battlefield he comes across.",
+ "unlock": "Mission: A New Power",
+ "skills": [
+  {
+   "name": "Rasengan Riot",
+   "image": "https://i.imgur.com/2O7RGvW.png",
+   "description": "By forming multiple Rasengan over his head, Naruto deals 30 damage to one enemy. A random teammate of that enemy will also be dealt 20 damage. The following turn, this skill will be replaced by 'Planetary Rasengan'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Rasenkyugan",
+   "image": "https://i.imgur.com/M9DgUTC.png",
+   "description": "Naruto grabs multiple enemies and smashes them into a giant Rasengan, dealing 15 piercing damage to all enemies for 1 turn. This skill will deal an additional 5 damage when it's used. The following turn, this skill will be replaced by 'Mini-Bijuudama'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Summoning: Mayhem",
+   "image": "https://i.imgur.com/Z3CcFWD.png",
+   "description": "Naruto summons Mayhem in the battlefield. For 1 turn, the first harmful skill used on Naruto will be countered. The countered enemy will receive 15 additional damage from 'Shinobi Alliance Naruto (S)'. The following turn, this skill will be replaced by 'Mini-Rasenshuriken'. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Supersonic Speed",
+   "image": "https://i.imgur.com/9y1zBGg.png",
+   "description": "This skill makes Shinobi Alliance Naruto (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Planetary Rasengan",
+   "image": "https://i.imgur.com/gBVrI3z.png",
+   "description": "Naruto forms a big Rasengan surrounded by other Rasengans, targeting one enemy and dealing 35 damage to them. If this skill kills that enemy, Naruto will deal 10 additional damage for 2 turns and will be unable to be killed during this time.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Mini-Bijuudama",
+   "image": "https://i.imgur.com/YsfPSVu.png",
+   "description": "By compressing chakra, Naruto creates a miniature of Bijuudama and deals 35 affliction damage to one enemy. For 1 turn, that enemy's skills will deal 10 less non-affliction damage and the cost of their skills will be increased by 1 random chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Mini-Rasenshuriken",
+   "image": "https://i.imgur.com/yAY1DDM.png",
+   "description": "Naruto targets one enemy, destroying their destructible defense and dealing 15 piercing damage to them. This skill cannot be countered or reflected.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  }
+ ]
+}

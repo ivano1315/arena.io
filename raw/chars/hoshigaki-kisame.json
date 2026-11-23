@@ -1,0 +1,50 @@
+{
+ "slug": "hoshigaki-kisame",
+ "name": "Hoshigaki Kisame",
+ "portrait": "https://i.imgur.com/M8xGMby.png",
+ "description": "Formerly one of the Seven Swordsmen of the Mist Village, Kisame is an S-Rank missing nin. He is Itachi's partner and a member of a mysterious organization. Designed with Redxmaverick.",
+ "unlock": "Mission: S-Rank Criminal Kisame!",
+ "skills": [
+  {
+   "name": "Samehada Slash",
+   "image": "https://i.imgur.com/kyyyNkG.png",
+   "description": "Using his sword, Samehada, Kisame slashes one enemy who takes 20 damage and stunning their physical and chakra skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Samehada Shred",
+   "image": "https://i.imgur.com/7ZVF8bP.png",
+   "description": "Kisame unwraps Samehada and shreds one enemy. For 2 turns, that enemy takes 20 damage and 1 random chakra is stolen from their pool.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Water Shark Projectile",
+   "image": "https://i.imgur.com/5Y5yd7c.png",
+   "description": "Using a stream of compressed water, Kisame deals 20 damage to one enemy and stuns their chakra and affliction skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Samehada Scale Block",
+   "image": "https://i.imgur.com/GnHAzga.png",
+   "description": "This skill makes Hoshigaki Kisame invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

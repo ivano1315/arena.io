@@ -1,0 +1,50 @@
+{
+ "slug": "edo-tensei-kinkaku-(s)",
+ "name": "Edo Tensei Kinkaku (S)",
+ "portrait": "https://i.imgur.com/Mg7REVh.png",
+ "description": "Edo Tensei Kinkaku (S) is one half of the Gold and Silver brothers, said to have been swallowed by Kyuubi and gaining its' Chakra, Kinkaku uses his chakra and legendary tools to fight.",
+ "unlock": "Mission: The Golden Brother",
+ "skills": [
+  {
+   "name": "Bashousen: Assault",
+   "image": "https://i.imgur.com/XFIN1tA.png",
+   "description": "Kinaku assaults an enemy with his treasured tool, dealing 25 affliction damage to them. For 1 turn, any enemy that uses a new non-mental skill on Kinkaku will take 10 affliction damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Bashosen: Coil of Fire",
+   "image": "https://i.imgur.com/05rP4A2.png",
+   "description": "Kinkaku uses his treasured tool to generate a wave of flames, dealing 15 affliction damage to all enemies permanently. During this time, they will have the cooldown of their skills increased by 2 turns. This skill will end on an enemy when they use any new skill.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Koukinjou Counter",
+   "image": "https://i.imgur.com/ZCti0Ev.png",
+   "description": "Kinkaku targets an enemy for 1 turn. If that enemy uses a new harmful skill, they will be countered and dealt 35 damage. If successful, that enemy will also receive 10 additional damage from 'Bashousen: Assault' for 1 turn. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Koukinjou Block",
+   "image": "https://i.imgur.com/dLU9yWo.png",
+   "description": "This skill makes Edo Tensei Kinkaku (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

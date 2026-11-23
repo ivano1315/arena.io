@@ -1,0 +1,65 @@
+{
+ "slug": "konan-of-the-rain-(s)",
+ "name": "Konan of the Rain (S)",
+ "portrait": "https://i.imgur.com/tuC6FDD.png",
+ "description": "Konan of the Rain (S) has returned to the Hidden Rain village. Now that Uzumaki Nagato is dead she is aligned with Uzumaki Naruto and his quest for peace.",
+ "unlock": "Mission: The Rains Angel",
+ "skills": [
+  {
+   "name": "Paper Chakram",
+   "image": "https://i.imgur.com/moOl9NJ.png",
+   "description": "Konan forms and fires a paper chakram towards an enemy, dealing 35 piercing damage to them. For 1 turn, Konan's skills will cost 1 less random chakra.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Paper Ocean: Chasm Trap",
+   "image": "https://i.imgur.com/o4eBv3L.png",
+   "description": "Konan traps all enemies in a chasm of the ocean made of a million papers. For 3 turns, all non-affliction damage will be reduced to a maximum of 25. During this time, this skill will be replaced and each time it successfully reduces an enemy's non-affliction damage, Konan will gain 1 random charka.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Explosive Papers Barrage",
+   "image": "https://i.imgur.com/pD2zBl1.png",
+   "description": "Konan rushes toward an enemy and ambushes them with multiple explosive papers, stunning their skills for 3 turns and dealing 15 damage to them each turn.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Action, Ranged."
+  },
+  {
+   "name": "The Bridge to the Peace",
+   "image": "https://i.imgur.com/fvd160N.jpg",
+   "description": "This skill makes Konan of the Rain (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Paper Ocean: Explosive Papers Detonate",
+   "image": "https://i.imgur.com/GKnsQUx.png",
+   "description": "Konan detonates all the millions of explosive papers, crushing all enemies trapped by 'Paper Ocean: Chasm Trap', and dealing 20 damage to them and stunning their skills for 2 turns.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Action, Ranged."
+  }
+ ]
+}

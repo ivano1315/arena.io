@@ -1,0 +1,51 @@
+{
+ "slug": "abumi-zaku",
+ "name": "Abumi Zaku",
+ "portrait": "https://i.imgur.com/zCdcIJ8.png",
+ "description": "Abumi Zaku is one of the three sound genin sent to the chuunin exams. He was surgically altered with hollow tubes in his arms, allowing him to create waves of compressed air.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Air Cutter",
+   "image": "https://i.imgur.com/tm12H2k.png",
+   "description": "Zaku fires a blast of supersonic air at one enemy, dealing 25 damage to them. The following turn, Zaku can use 'Extreme Air Cutter'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Wall of Air",
+   "image": "https://i.imgur.com/upWnlDl.png",
+   "description": "Zaku alters his air wave to protect one ally for 1 turn. The first harmful skill used on that ally will be countered. If successful, Zaku will instantly apply 'Air Cutter' on the countered enemy. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Extreme Air Cutter",
+   "image": "https://i.imgur.com/Yo7IQNe.png",
+   "description": "Zaku boosts his air waves to a frightening level and deals 45 damage to all enemies. Afterwards, Zaku gains 1 random chakra.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Airwave Deflection",
+   "image": "https://i.imgur.com/xssUpbi.png",
+   "description": "This skill makes Abumi Zaku invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

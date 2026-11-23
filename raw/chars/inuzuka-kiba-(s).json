@@ -1,0 +1,60 @@
+{
+ "slug": "inuzuka-kiba-(s)",
+ "name": "Inuzuka Kiba (S)",
+ "portrait": "https://i.imgur.com/nHC0h7V.png",
+ "description": "After two years, Kiba finally becomes a chuunin. Now with Akamaru grown up, they become an unbeatable fighting unit, taking the Inuzuka clan's techniques to the next level. Now both have more precision for massive attacks, and an even sharper sense of smell.",
+ "unlock": "Mission: Boy and His Dog",
+ "skills": [
+  {
+   "name": "Man Beast Clone",
+   "image": "https://i.imgur.com/LHuaKLs.png",
+   "description": "Kiba grant himself and one ally 5 damage reduction. If Kiba use a new harmful skill, that ally gains 10 destructible defense for 1 turn. If that ally uses a  new harmful skill , Kiba gains 5 additional damage for 1 turn; Doesn't stack. Becomes 'Enhanced Garouga', cannot be removed.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Piercing Fang",
+   "image": "https://i.imgur.com/6nrbRWf.png",
+   "description": "Kiba deals 20 piercing damage to one enemy. For 1 turn, Kiba will ignore stun effects and his other skills will cost 1 random chakra less.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Fang Over Fang",
+   "image": "https://i.imgur.com/9OjpH9I.png",
+   "description": "Kiba deals 20 damage to all enemies this turn. For 2 turns, Kiba will deal 5 more damage on them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Hide in the Shade",
+   "image": "https://i.imgur.com/FYMv2pb.png",
+   "description": "This skill makes Inuzuka Kiba (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Enhanced Garouga",
+   "image": "https://imgur.com/3tg3QXE.jpg",
+   "description": "Kiba deals 30 piercing damage to one enemy and stuns all other enemies Harmful for 1 turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

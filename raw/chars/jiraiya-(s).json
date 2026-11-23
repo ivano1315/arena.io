@@ -1,0 +1,60 @@
+{
+ "slug": "jiraiya-(s)",
+ "name": "Jiraiya (S)",
+ "portrait": "https://i.imgur.com/ZpGGXKN.png",
+ "description": "Jiraiya (S) is one of the legendary Sannin that were trained by the third Hokage. Also known as the toad sage, he has been Uzumaki Naruto's teacher for the past few years.",
+ "unlock": "Mission: Jiraiya Undercover",
+ "skills": [
+  {
+   "name": "Toad Oil Projectile",
+   "image": "https://i.imgur.com/sHIiYby.png",
+   "description": "Jiraiya spits a very dense oil at all enemies, dealing 10 affliction damage to them. Permanently, all enemies will receive 10 additional damage from 'Katon Endan'. Enemies marked by 'Wild Lion Mane' will have their action and control skills ended. This skill is replaced by 'Katon Endan' after being used.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Jiraya's Rasengan",
+   "image": "https://i.imgur.com/fMlBx5F.png",
+   "description": "Jiraya hits an opponent with his Rasengan, dealing 35 damage to them. For 1 turn, that enemy will deal 10 less non-affliction damage. If Used on an enemy marked by 'Wild Lion Mane', that enemy will take 10 additional damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Wild Lion Mane",
+   "image": "https://i.imgur.com/yQaCntC.png",
+   "description": "Jiraiya will protect himself or an ally for 2 turns. If an enemy uses a new skill on that ally, they will take 10 piercing damage and will deal 15 less non-affliction damage for 1 turn. This skill is invisible.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Summoning Gamaken",
+   "image": "https://i.imgur.com/IJBZdur.png",
+   "description": "This skill makes Jiraiya invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Katon Endan",
+   "image": "https://i.imgur.com/GDxz2bn.png",
+   "description": "Jiraiya emits a jet of fire from his mouth, dealing 20 affliction damage to one enemy. This skill is replaced by 'Toad Oil Projectile' after being used.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  }
+ ]
+}

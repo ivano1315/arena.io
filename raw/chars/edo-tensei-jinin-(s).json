@@ -1,0 +1,50 @@
+{
+ "slug": "edo-tensei-jinin-(s)",
+ "name": "Edo Tensei Jinin (S)",
+ "portrait": "https://i.imgur.com/e8llxor.png",
+ "description": "Edo Tensei Jinin (S) is a former member of the seven swordsman of the mist. Using his sword Kabutowari he will demonstrate the power of the previous generation on the battttle.",
+ "unlock": "Mission: The Hammer of the Mist",
+ "skills": [
+  {
+   "name": "Silent Killing Axe",
+   "image": "https://i.imgur.com/lPSrqRk.png",
+   "description": "ET Jinin deals 20 piercing damage to one enemy and marks them for 2 turns. While marked, they will be unable to reduce damage or become invulnerable. If the target is marked by 'Silent Killing Hammer', it's duration is extended by 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Silent Killing Hammer",
+   "image": "https://i.imgur.com/vGy1eyq.png",
+   "description": "ET Jinin deals 20 damage to one enemy, stuns their non-mental skills and markes them for 1 turn. While marked, they will receive 5 additional non-affliction damage. If the target is marked by 'Silent Killing Axe', it's duration is extended by 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Axe & Hammer Smash",
+   "image": "https://i.imgur.com/DzoBZvG.png",
+   "description": "ET Jinin deals 30 damage to one enemy. Before dealing damage, if they are marked by 'Silent Killing Axe', this will destroy destructible defense. If marked by 'Silent Killing Hammer', this will convert any damage reduction into additional non-affliction damage received instead. If marked by both, this deals an additional 10 damage and stuns them for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Skilled Evasion",
+   "image": "https://i.imgur.com/URUFtuo.png",
+   "description": "This skill makes Edo Tensei Jinin (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

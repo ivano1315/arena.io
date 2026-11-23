@@ -1,0 +1,58 @@
+{
+ "slug": "edo-tensei-kimimaro-(s)",
+ "name": "Edo Tensei Kimimaro (S)",
+ "portrait": "https://i.imgur.com/RsnAqle.png",
+ "description": "Edo Tensei Kimimaro was resurrected by Kabuto as an unfeeling weapon of war, his loyalty and discipline preserved even beyond death. He wields the Shikotsumyaku Kekkei Genkai to turn his own skeleton into blades and armor, growing stronger the longer he remains unbroken. Every strike hardens his defenses, and every moment of restraint builds toward an inevitable, bone-shattering end.",
+ "unlock": "Mission: Kimimaro is revived",
+ "skills": [
+  {
+   "name": "Bone Rush",
+   "image": "https://i.imgur.com/R99hVji.png",
+   "description": "Kimimaro rushes one enemy, dealing 25 damage to them and gaining 1 stack of 'Bone Spikes'. This skill will deal 10 additional damage for every 3 stacks of 'Bone Spikes'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Skeleton Splinters",
+   "image": "https://i.imgur.com/zAM5MKp.png",
+   "description": "Kimimaro unleashes sharpened bone shards at all enemies, dealing 15 piercing damage to them and gaining 1 stack of 'Bone Spikes'. This skill will deal 5 additional damage for every 3 stacks of 'Bone Spikes'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Dead Man's Skewer",
+   "image": "https://i.imgur.com/Ndsk2qL.png",
+   "description": "Kimimaro impales his opponents, dealing 50 piercing damage to one enemy and 15 piercing damage to all other enemies. This skill cannot be countered and requires at least 5 stacks of 'Bone Spikes' to be used.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Shikotsumyaku Guard",
+   "image": "https://i.imgur.com/A7hIwUT.png",
+   "description": "Kimimaro reinforces his body with his Shikotsumyaku, gaining 20 permanent destructible defense. For the next 2 turns, whenever an enemy uses a new non-mental skill on Kimimaro, he will gain 1 stack of 'Bone Spikes'.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Bone Spikes",
+   "image": "https://i.imgur.com/Mua5XgZ.png",
+   "description": "Kimimaro forms sharp bone spikes around his body. Whenever an enemy uses a new non-mental skill on him, they will take 3 piercing damage*. This skill stacks and cannot be removed.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant, Melee*."
+  }
+ ]
+}

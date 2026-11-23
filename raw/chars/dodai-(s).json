@@ -1,0 +1,51 @@
+{
+ "slug": "dodai-(s)",
+ "name": "Dodai (S)",
+ "portrait": "https://i.imgur.com/UhdQdaD.png",
+ "description": "Dodai (S) is a skilled sensor shinobi and a lava release user as well. His intelligence is his most powerful asset and he will need it to survive this war.",
+ "unlock": "Mission: The Rubber Shield",
+ "skills": [
+  {
+   "name": "Rubber Wall",
+   "image": "https://i.imgur.com/warB4Yw.jpg",
+   "description": "Dodai creates a rubber wall that protects his team. For 3 turns, Dodai and his allies will gain 10 points of unpierceable damage reduction and ignore stun effects. During this time, they are immune to affliction damage.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Communication Telepathy",
+   "image": "https://i.imgur.com/ixFQ6Vp.png",
+   "description": "Dodai communicates directly with one enemy through telepathy, dealing 20 piercing damage to them. For 1 turn, that enemy's stunning skills will be stunned for 1 turn. This skill will fully stun an enemy marked by 'Rubber Ball and Rope'.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Rubber Ball and Rope",
+   "image": "https://i.imgur.com/w0Kx3qE.jpg",
+   "description": "Dodai traps one enemy inside a rubber ball and restrains them with a rope, dealing 35 damage to them. For 4 turns, that enemy will be marked. Afterwards, a random member of Dodai's team will become invulnerable for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Lava Release Defense",
+   "image": "https://i.imgur.com/i6Ph8iA.jpg",
+   "description": "This skill makes Dodai (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

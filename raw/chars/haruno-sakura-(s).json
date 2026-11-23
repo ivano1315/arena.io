@@ -1,0 +1,61 @@
+{
+ "slug": "haruno-sakura-(s)",
+ "name": "Haruno Sakura (S)",
+ "portrait": "https://i.imgur.com/5iC4YJR.png",
+ "description": "With her extensive training under Tsunade, the Godaime, for the last two and a half years, Sakura(s)'s healing and combat abilities have both greatly improved.",
+ "unlock": "Mission: A Girl Grown Up",
+ "skills": [
+  {
+   "name": "Chakra Enhanced Punch",
+   "image": "https://i.imgur.com/hlJj8Px.png",
+   "description": "Enhancing her attack with finely controlled chakra, Sakura destroys the destructible defense of one enemy and deals 25 piercing damage to them. This skill will be replaced by 'Blossom's Fury'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Trained Healing",
+   "image": "https://i.imgur.com/Oi5rkOB.png",
+   "description": "Using her trained healing skills, Sakura heals an ally for 20 health for 2 turns. Each turn, that ally will have all affliction skills removed from them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Control."
+  },
+  {
+   "name": "Self Heal",
+   "image": "https://i.imgur.com/aJqXOqH.png",
+   "description": "Sakura targets herself permanently, healing 20 health instantly the first time she is damaged by a skill. This skill is invisible and ends when triggered.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Insightful Dodge",
+   "image": "https://i.imgur.com/tvBST5g.png",
+   "description": "This skill makes Haruno Sakura (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Blossom's Fury",
+   "image": "https://i.imgur.com/ALv0zL8.png",
+   "description": "Sakura releases a ground breaking punch, destroying the destructible defense of all enemies and dealing 35 piercing damage to one enemy and 20 piercing damage to all others. This skill cannot be reflected and returns to 'Chakra Enhanced Punch' once it's used.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

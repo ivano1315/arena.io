@@ -1,0 +1,72 @@
+{
+ "slug": "shukaku-gaara",
+ "name": "Shukaku Gaara",
+ "portrait": "https://i.imgur.com/bJHNRJ2.png",
+ "description": "Having lived inside him the whole time, Shukaku is one of the nine tailed beasts and is very eager to escape and cause chaos to the world. While Shukaku slowly takes over Gaara, his own power increases, allowing him to demolish his foes with powerful sand attacks.",
+ "unlock": "Mission: The Beast Inside",
+ "skills": [
+  {
+   "name": "Sand Claw",
+   "image": "https://i.imgur.com/A4pnLul.jpg",
+   "description": "Gaara attacks with a claw of concentrated sand, dealing 35 damage to one enemy and gaining 5 points of destructible defense.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Constricting Sand Prison",
+   "image": "https://i.imgur.com/p2DRexz.jpg",
+   "description": "Gaara traps an enemy with sand, dealing 10 damage to them each turn. During this time, the first skill that enemy uses will be countered and this skill will end. If successful, the countered enemy will receive 5 additional damage from non-affliction skills for 1 turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Sand Transformation",
+   "image": "https://i.imgur.com/HfgfCr9.jpg",
+   "description": "Each turn, for 3 turns, Gaara will gain 15 destructible defense. When this skill ends, Gaara will transform into the Shukaku for 3 turns, reducing the cost of 'Sand Claw' by 1 random and replacing 'Constricting Sand Prison' and 'Sand Transformation'.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Thick Sand Coat",
+   "image": "https://i.imgur.com/GKm7Zvl.jpg",
+   "description": "This skill makes Shukaku Gaara invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Drilling Air Bullet",
+   "image": "https://i.imgur.com/ZSMchzk.png",
+   "description": "Sending forth a powerful ball of wind, Gaara deals 45 piercing damage to one enemy.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "True Awakening",
+   "image": "https://i.imgur.com/kAWDB8g.jpg",
+   "description": "Gaara truly lets Shukaku awaken from inside him, letting it take over. The Following turn, 'Sand Claw' and 'Drilling Air Bullet' will deal double damage and this skill will have no cost.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

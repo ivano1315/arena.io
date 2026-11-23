@@ -1,0 +1,52 @@
+{
+ "slug": "sakon",
+ "name": "Sakon",
+ "portrait": "https://i.imgur.com/fXMOzMv.png",
+ "description": "Sakon usually carries a strange head around on his back. This head turns out to be his brother Ukon, who can also exit Sakon and enter other bodies in order to destroy them.",
+ "unlock": "Mission: The Search for Sakon",
+ "skills": [
+  {
+   "name": "Gattling Punch",
+   "image": "https://i.imgur.com/uBllXX7.png",
+   "description": "Using one body, Sakon and Ukon rapidly punch one enemy, dealing 40 damage to them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Parasite Demon Technique",
+   "image": "https://i.imgur.com/MxZI7Mt.png",
+   "description": "Sakon deals 15 affliction damage to one enemy permanently. During this time, Sakon gains 15 points of damage reduction and heals 5 health each turn. This skill cannot be used on the same target. This skill will end if used on a different enemy or if the affected enemy dies.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Rest",
+   "image": "https://i.imgur.com/5IHOsdy.png",
+   "description": "Ukon rests within the body of Sakon, healing him for 30 health. This skill will end 'Parasite Demon Technique' if it's currently active.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Summoning: Rashoumon",
+   "image": "https://i.imgur.com/uUrOzuw.png",
+   "description": "This skill makes Sakon  invulnerable  for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

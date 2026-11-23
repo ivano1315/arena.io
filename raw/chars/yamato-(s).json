@@ -1,0 +1,51 @@
+{
+ "slug": "yamato-(s)",
+ "name": "Yamato (S)",
+ "portrait": "https://i.imgur.com/9H3giit.png",
+ "description": "Yamato(s) is a member of ANBU whose real name is unknown. Given the code name Yamato(s) by Tsunade for this mission, he is tasked to lead Team 7 while Kakashi recovers.",
+ "unlock": "Mission: A New Team Leader",
+ "skills": [
+  {
+   "name": "Sanctuary Enlightenment Enclosing Palm",
+   "image": "https://i.imgur.com/DXZh3w1.png",
+   "description": "Yamato uses an ancient technique that seals one enemy's power, dealing 30 piercing damage to them. Afterwards, that enemy will ignore all helpful effects for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Four Column Prison",
+   "image": "https://i.imgur.com/B8QtS9K.png",
+   "description": "Yamato creates a barrier of wood around one enemy or ally. If used on an enemy, that enemy will have their non-mental skills stunned and will become invulnerable to helpful skills for 2 turns. If used on an ally, that ally will gain 40 destructible defense. This skill ignores invulnerability.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Wood Clone",
+   "image": "https://i.imgur.com/Cy9zjvr.png",
+   "description": "Yamato protects one ally or himself with a clone of wood for 1 turn, countering the first physical or chakra skill used against them. The countered enemy will take 20 damage* and the protected ally will gain 20 destructible defense. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee*."
+  },
+  {
+   "name": "Wood Locking Wall",
+   "image": "https://i.imgur.com/m9SiZkn.png",
+   "description": "This skill makes Yamato (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

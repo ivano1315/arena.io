@@ -1,0 +1,50 @@
+{
+ "slug": "itachi-body-double-(s)",
+ "name": "Itachi Body Double (S)",
+ "portrait": "https://i.imgur.com/U1zO7L5.jpg",
+ "description": "By using one of Pein's techniques a Sand Nin spy for Akatsuki is changed to look like Itachi. The body double is controlled by Itachi but only has a third of his chakra.",
+ "unlock": "Mission: The Real Itachi",
+ "skills": [
+  {
+   "name": "Finger Genjutsu",
+   "image": "https://i.imgur.com/9kA7uYQ.jpg",
+   "description": "Itachi affects one enemy with Finger Genjutsu for 1 turn. If the affected enemy uses any skill on Itachi Body Double (S) or his allies that skill will be countered and that enemy will take 10 damage and Itachi Body Double (S) will gain 1 genjutsu chakra. The target of this skill is invisible.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Genjutsu Reversal",
+   "image": "https://i.imgur.com/oif8mlK.jpg",
+   "description": "For 2 turns, the first harmful skill used on Itachi Body Double (S) each turn will be reflected back onto the enemy who used it. This skill is invisible.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Goukakyuu no Jutsu",
+   "image": "https://i.imgur.com/HUCVDhp.jpg",
+   "description": "Itachi Body Double (S) creates a large fireball that scorches the battlefield, dealing 20 affliction damage to one enemy. The following turn, all enemies will take 10 affliction damage.*",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Illusionary Raven Bunshin",
+   "image": "https://i.imgur.com/oyzXfwY.jpg",
+   "description": "This skill makes Itachi Body Double (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

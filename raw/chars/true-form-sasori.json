@@ -1,0 +1,50 @@
+{
+ "slug": "true-form-sasori",
+ "name": "True Form Sasori",
+ "portrait": "https://i.imgur.com/MohdeE7.png",
+ "description": "Pushed to his limit, Sasori reveals the secret of his eternally young body: he has turned himself into a puppet with a living \"core\" that now makes up the entirety of his being. Using his own body as a weapon, Sasori also pulls out Chikamatsu's legendary Hundred Puppets, rumored to be able to bring down an entire nation.",
+ "unlock": "Mission: Perfection Achieved",
+ "skills": [
+  {
+   "name": "Puppet Flamethrower",
+   "image": "https://i.imgur.com/CH3tTNq.png",
+   "description": "Sasori deals 10 affliction damage to one enemy. The following turn, that enemy will be dealt 5 affliction damage permanently. If used on an enemy affected by 'Water Stream Shooters', this skill will have a different effect, dealing 20 affliction damage and stunning harmful skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Water Stream Shooters",
+   "image": "https://i.ibb.co/t8VQn6p/cmCK08m.png",
+   "description": "Sasori deals 10 affliction damage to one enemy. The following turn, that enemy will be dealt 5 affliction damage permanently. If used on an enemy affected by 'Puppet Flamethrower', this skill will have a different effect, dealing 30 affliction damage and stunning helpful skills for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Red Secret Technique: 100 Puppets",
+   "image": "https://i.imgur.com/7xw6S3R.png",
+   "description": "Sasori uses the Red Secret Technique, summoning one hundred puppets and gaining 50 points of destructible defense. Permanently, all enemies will be receive 15 piercing damage each turn. This skill will end if Sasori successfully receives damage or lose all of his destructible defense.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Magnificent Pose",
+   "image": "https://i.imgur.com/WXfmN2D.png",
+   "description": "This skill makes True Form Sasori invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

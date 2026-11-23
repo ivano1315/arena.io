@@ -1,0 +1,50 @@
+{
+ "slug": "gekko-hayate",
+ "name": "Gekko Hayate",
+ "portrait": "https://i.imgur.com/CXtg9Cd.png",
+ "description": "Gekko Hayate is a jounin and one of the instructors of the chuunin exams in Konoha. He is an intelligent Shinobi that distances himself from an enemy to use illusionary techniques.",
+ "unlock": "Mission: The Moonlight of the Leaf",
+ "skills": [
+  {
+   "name": "Crescent Moon Slash",
+   "image": "https://i.imgur.com/84XGL6v.png",
+   "description": "Hayate jumps on an enemy from above, dealing 20 piercing damage to them. Permanently, 'Dance of the Crescent Moon' will deal 10 additional damage when this skill is used. This skill stacks.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Dance of the Crescent Moon",
+   "image": "https://i.imgur.com/2HfMnfe.png",
+   "description": "Using both his sword and genjutsu, Hayate becomes invulnerable for 1 turn and deals 35 damage to one enemy.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Melee."
+  },
+  {
+   "name": "Eavesdrop",
+   "image": "https://i.imgur.com/hXtcI2H.png",
+   "description": "For 1 turn, the first harmful skill used on Hayate will be countered. This skill is invisible the first turn. If successful, 'Dance of the Crescent Moon' will permanently deal 10 additional damage when this skill is used. This skill stacks.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Determined Retreat",
+   "image": "https://i.imgur.com/kaMmauE.png",
+   "description": "This skill makes Gekko Hayate invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "edo-tensei-kidoumaru-(s)",
+ "name": "Edo Tensei Kidoumaru (S)",
+ "portrait": "https://i.imgur.com/O8NAB9C.png",
+ "description": "Reanimated by Kabuto during the Fourth Shinobi World War along with his Sound Four teammates, Kidoumaru is happy to be back in action and wreaking havoc once again. Terrorizing the battlefield with his many spider-based jutsu, enhanced by his Cursed Seal, Kidoumaru is a menace to all who cross his path.",
+ "unlock": "Mission: Kidoumaru is revived",
+ "skills": [
+  {
+   "name": "The Spider's Web",
+   "image": "https://i.imgur.com/3VccTII.png",
+   "description": "Kidoumaru enables his skills and targets all enemies permanently. Every time they use a new harmful skill, they will gain 1 'Web Stack'. This skill ignores invulnerability and will be replaced by 'Sticky Golden Arrow'.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Sticky Gold Kunai",
+   "image": "https://i.imgur.com/fD6raNX.png",
+   "description": "Kidoumaru deals 20 piercing damage to one enemy and stuns their non-mental skills for 1 turn. Afterwards, all enemies will be dealt 5 piercing damage for each 'Web Stack' they have.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Giant Spider Web",
+   "image": "https://i.imgur.com/nx2XBI9.png",
+   "description": "Kidoumaru traps all enemies in a giant web, granting them 1 additional 'Web Stack' and then making them deal 10 less non-affliction damage for 1 turn. This skill cannot be countered.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Curse Mark Third Eye",
+   "image": "https://i.imgur.com/32dxZfA.png",
+   "description": "Kidoumaru activates his Curse Mark, becoming invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Sticky Golden Arrow",
+   "image": "https://i.imgur.com/ZdOhLy0.png",
+   "description": "Using the Sticky Golden Arrow, Kidoumaru destroys all destructible defense one enemy has and deals 25 piercing damage to them, consuming all 'Web Stacks' they have to deal 10 additional damage per stack.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  }
+ ]
+}

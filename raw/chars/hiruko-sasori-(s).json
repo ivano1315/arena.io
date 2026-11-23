@@ -1,0 +1,75 @@
+{
+ "slug": "hiruko-sasori-(s)",
+ "name": "Hiruko Sasori (S)",
+ "portrait": "https://i.imgur.com/T1Da57N.png",
+ "description": "Hiruko is a puppet used by the Akatsuki shinobi, Sasori. Serving as a 'puppet armor', it allowed Sasori to hide inside of it. Hiruko is a human puppet made from the corpse of a renowned shinobi - this puppet is also Sasori's favorite.",
+ "unlock": "Mission: Puppet Within a Puppet",
+ "skills": [
+  {
+   "name": "Poisonous Tail Stab",
+   "image": "https://i.imgur.com/vgia8DM.png",
+   "description": "Deals 15 affliction damage to one enemy and applies 'Venom Stack'. This skill will cost 1 random chakra for 1 turn after being used. If the target already has a 'Venom Stack', deals 5 additional damage per stack and applies a 'Venom Stack' to all other enemies.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Sand Clone Trap",
+   "image": "https://i.imgur.com/yPSTj0V.png",
+   "description": "For 1 turn, the first harmful skill used on Hiruko Sasori or an ally will be countered. This enemy will takes 10 affliction damage* and gains 1 'Venom Stack'. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Affliction*."
+  },
+  {
+   "name": "Puppet Reveal",
+   "image": "https://i.imgur.com/KbDm1wc.png",
+   "description": "Sasori activates 'Puppet Reveal'. The next time his health reaches 50 or less, he will gain 20 points of destructible defense for 3 turns. During this time, 'Sand Clone Trap' and 'Puppet Reveal' will be replaced. This skill is invisible and can only be used once.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Tail Deflection",
+   "image": "https://i.imgur.com/RJ3tOJE.png",
+   "description": "This skill makes Hiruko Sasori (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Eight Waves of Needles",
+   "image": "https://i.imgur.com/8XJIxiX.png",
+   "description": "Applies 2 'Needle Marks' to all enemies for 2 turns. When an enemy with 'Needle Marks' receives damage from Hiruko or his allies, removes 1 mark to deal 10 affliction damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Prosthetic Arm Senbon",
+   "image": "https://i.imgur.com/6OODdlz.png",
+   "description": "Consumes all 'Needle Marks' on all enemies: for each mark removed, that enemy takes 15 affliction damage; if at least 5 marks are consumed in total, Sasori becomes invulnerable for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Poison Stack",
+   "image": "https://i.imgur.com/tYO3SDh.png",
+   "description": "Venom Stack: The following turn, this enemy receives 5 affliction damage for 2 turns.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Affliction, Instant."
+  }
+ ]
+}

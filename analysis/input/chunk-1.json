@@ -1,0 +1,2460 @@
+[
+ {
+  "id": "abumi-zaku",
+  "name": "Abumi Zaku",
+  "skills": [
+   {
+    "name": "Air Cutter",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Zaku fires a blast of supersonic air at one enemy, dealing 25 damage to them. The following turn, Zaku can use 'Extreme Air Cutter'."
+   },
+   {
+    "name": "Wall of Air",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "Zaku alters his air wave to protect one ally for 1 turn. The first harmful skill used on that ally will be countered. If successful, Zaku will instantly apply 'Air Cutter' on the countered enemy. This skill is invisible."
+   },
+   {
+    "name": "Extreme Air Cutter",
+    "cost": [
+     "bloodline",
+     "random",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Zaku boosts his air waves to a frightening level and deals 45 damage to all enemies. Afterwards, Zaku gains 1 random chakra."
+   },
+   {
+    "name": "Airwave Deflection",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "This skill makes Abumi Zaku invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "aburame-shino",
+  "name": "Aburame Shino",
+  "skills": [
+   {
+    "name": "Chakra Leach",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Shino directs his chakra draining bugs to one enemy, stealing 20 health and 1 taijutsu or genjutsu chakra from them."
+   },
+   {
+    "name": "Female Bug",
+    "cost": [],
+    "cooldown": 1,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Shino directs one of his female bugs to attach itself. For 3 turns, 'Chakra Leach' will steal 5 additional health from one enemy. During this time, if that enemy uses a new harmful skill, they will deal 5 less non-affliction damage for 1 turn. This skill cannot be used on an enemy already affected by it."
+   },
+   {
+    "name": "Bug Wall",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "Shino calls millions of bugs to create a wall protecting himself and his allies and granting them 25 points of permanent destructible defense."
+   },
+   {
+    "name": "Bug Clone",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "This skill makes Aburame Shino invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "aburame-shino-(s)",
+  "name": "Aburame Shino (S)",
+  "skills": [
+   {
+    "name": "Insect Swarm",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Affliction",
+     "Action",
+     "Ranged"
+    ],
+    "description": "Shino sends out wave of his insect army at one enemy, dealing 15 affliction damage to them for 3 turns. The following 3 turns, that enemy will be invulnerable to all friendly skills each turn and during this time this skill will be replaced by 'Insect Consumption'."
+   },
+   {
+    "name": "Insect Barricade",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Affliction",
+     "Instant"
+    ],
+    "description": "The following turn, the first new harmful skill used on himself or one ally will be countered, 'Parasitic Giant Beetle Infestation' will be placed on the countered enemy and then activated. If this skill does not counter an enemy, Shino will gain 1 Bloodline chakra. This skill is invisible."
+   },
+   {
+    "name": "Parasitic Giant Beetle Infestation",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Shino infects one enemy with a small bug. 3 turns after this skill has been used, the bug bursts out, dealing 30 affliction damage to them and activating all other copies of this skill on that enemy. This skill is invisible."
+   },
+   {
+    "name": "Insect Cocoon",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "This skill makes Aburame Shino (S) invulnerable for 1 turn."
+   },
+   {
+    "name": "Insect Consumption",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Shino commands his insects to drain the chakra of one enemy affected by 'Insect Swarm' stealing 1 random chakra from them and increasing the damage that enemy receives from 'Insect Swarm' by 5 that turn."
+   }
+  ]
+ },
+ {
+  "id": "aburame-torune-(s)",
+  "name": "Aburame Torune (S)",
+  "skills": [
+   {
+    "name": "Armor of Venom",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Torune applies one 'Venom Beetle' to one enemy and gains 15 destructible defense. During this time, Torune can use this skill again for 1 random chakra to apply a 'Venom Beetle' to one enemy. The enemy that destroys this destructible defense will have a 'Venom Beetle' applied to them."
+   },
+   {
+    "name": "Jar of Poison",
+    "cost": [
+     "bloodline",
+     "bloodline"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Torune applies one 'Venom Beetle' to each enemy and gains 35 destructible defense. During this time, Torune can use this skill again for 2 random chakra to apply a 'Venom Beetle' to each enemy. The enemy that destroys this destructible defense will have a 'Venom Beetle' applied to them."
+   },
+   {
+    "name": "Venom Explosion",
+    "cost": [
+     "bloodline",
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Torune targets any enemy affected by at least one 'Venom Beetle', removing 1 random chakra from them for each 'Venom Beetle' on them."
+   },
+   {
+    "name": "Super Leap",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Aburame Torune (S) invulnerable for 1 turn."
+   },
+   {
+    "name": "Venom Beetle",
+    "cost": [],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "This skill deals 5 affliction damage permanently."
+   }
+  ]
+ },
+ {
+  "id": "akadou-yoroi",
+  "name": "Akadou Yoroi",
+  "skills": [
+   {
+    "name": "Chakra and Life Absorption",
+    "cost": [],
+    "cooldown": 3,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "Yoroi endows his attacks. The following 3 turns, 'Draining Assault' and 'Energy Drain' may be used."
+   },
+   {
+    "name": "Energy Drain",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Yoroi touches one enemy, stealing 20 health from them for 1 turn and lowering their non-affliction damage by 5 until that enemy uses a new damage skill. During 'Draining Assault', this skill will steal 1 bloodline chakra. Requires 'Chakra and Life Absorption' to be used."
+   },
+   {
+    "name": "Draining Assault",
+    "cost": [
+     "taijutsu",
+     "random",
+     "random"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Affliction",
+     "Action",
+     "Melee"
+    ],
+    "description": "Yoroi charges at one enemy with multiple energy drains, stealing 12 health from them for 3 turns and stealing 1 bloodline or ninjutsu chakra each turn. During this time, 'Energy Drain' will be improved. Requires 'Chakra and Life Absorption' to be used."
+   },
+   {
+    "name": "Chakra Block",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "This skill makes Akadou Yoroi invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "akatsuchi-(s)",
+  "name": "Akatsuchi (S)",
+  "skills": [
+   {
+    "name": "High Speed Assault",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Using High Speed Assault Akatsuchi deals 25 damage to 1 enemy. The following 3 turns, this skill will cost 1 additional random chakra and will deal 15 additional damage."
+   },
+   {
+    "name": "Golem",
+    "cost": [
+     "genjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Akatsuchi uses Golem on all enemies dealing 15 damage to them. The following 3 turns, this skill will cost 1 additional random chakra and will deal 10 additional damage."
+   },
+   {
+    "name": "Golem Chakra Devour",
+    "cost": [
+     "random",
+     "random",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Akatsuchi's golem devours one enemy's chakra, dealing 10 piercing damage and stealing 1 random chakra from them. The following 2 turns, Akatsuchi's skills will cost 1 less random chakra. This skill will cost 1 less random chakra for each stack of 'Golem' and 'High Speed Assault' active on Akatsuchi."
+   },
+   {
+    "name": "Akatsuchi Retreat",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Akatsuchi (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "akimichi-chouji",
+  "name": "Akimichi Chouji",
+  "skills": [
+   {
+    "name": "Partial Double Size",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Chouji doubles the size of his arms and attacks one enemy, dealing 20 damage to them."
+   },
+   {
+    "name": "Meat Tank",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Action",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Chouji transforms into a meat tank, becoming invulnerable for 2 turns*. If targetable, one enemy will be dealt 10 damage for 2 turns."
+   },
+   {
+    "name": "Akimichi Pills",
+    "cost": [],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant"
+    ],
+    "description": "Chouji eats a pill, taking 15 affliction damage. 'Partial Double Size' will deal 20 additional damage and 'Meat Tank' will deal 10 additional damage permanently. Each use of this skill will deal 5 more affliction damage and will cost 2 additional random chakra. Chouji can only eat three pills."
+   },
+   {
+    "name": "Effortless Block",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Akimichi Chouji invulnerable for 1 turn."
+   },
+   {
+    "name": "Passive: Butterfly Mode",
+    "cost": [],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "When Chouji eats the three pills, he will activate the Butterfly Mode, gaining 75% unpierceable damage reduction permanently and gaining 1 random chakra every turn."
+   }
+  ]
+ },
+ {
+  "id": "akimichi-chouji-(s)",
+  "name": "Akimichi Chouji (S)",
+  "skills": [
+   {
+    "name": "Mega Palm Thrusts",
+    "cost": [
+     "taijutsu",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Expanding his arms for more inertia, Chouji deals 30 damage to one enemy and increase the cost of their harmful skills by 1 random chakra for 1 turn."
+   },
+   {
+    "name": "Spiked Meat Tank",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "If used on an enemy: That enemy will be dealt 25 damage and Chouji becomes invulnerable for 1 turn.  If used on himself or an ally: For 1 turn, all non-mental skills used on that ally will be countered and any countered enemy will be dealt 10 piercing damage*. This counter is Invisible and has a cooldown of 2."
+   },
+   {
+    "name": "Expansion Technique",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 5,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "Chouji grows gigantic, gaining 45 destructible defense for 3 turns. The following 3 turns, 'Mega Palm Thrusts' will target all enemies and 'Spiked Meat Tank' will target all enemies or will target all allies if used on an ally."
+   },
+   {
+    "name": "Chouji Leap",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Akimichi Chouji (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "akimichi-chouza-(s)",
+  "name": "Akimichi Chouza (S)",
+  "skills": [
+   {
+    "name": "Chain Bind",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Chouza slows down an enemy, dealing 10 damage to them and lowering all physical and chakra damage they deal by 10 for 1 turn. During this time, Chouza's team will also gain 10 destructible defense."
+   },
+   {
+    "name": "Jounin Meat Tank",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Physical",
+     "Action",
+     "Melee"
+    ],
+    "description": "Chouza begins rolling, dealing 15 damage to all enemies for 2 turns. During this time, his team will gain 15 destructible defense each turn."
+   },
+   {
+    "name": "Expansion Smash",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "If used on an enemy, for 1 turn, the next non-mental harmful skill they use will be countered. If used on an ally, for 1 turn, the next non-mental harmful skill used on them will be countered. The countered enemy will receive 20 damage. This skill is invisible."
+   },
+   {
+    "name": "Chouza Block",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Akimichi Chouza (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "animal-path-pein-(s)",
+  "name": "Animal Path Pein (S)",
+  "skills": [
+   {
+    "name": "Cerberus Hydra",
+    "cost": [
+     "bloodline",
+     "ninjutsu"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Animal Path Pein summons a giant multiple headed dog, dealing 20 damage to all enemies. For 2 turns, any enemy that uses a skill will be dealt 15 piercing damage."
+   },
+   {
+    "name": "Drill Bird",
+    "cost": [
+     "ninjutsu",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Action",
+     "Ranged"
+    ],
+    "description": "Animal Path Pein summons a giant drill-beaked bird, dealing 20 damage to one enemy and 20 damage to another random enemy for 2 turns. The following turn, 'Cerberus Hydra' will cost 1 ninjutsu and 1 random chakra instead."
+   },
+   {
+    "name": "Invisible Chameleon",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "Animal Path Pein summons his chameleon, protecting himself or an ally. For 4 turns, that ally will ignore stun effects and gains 50% damage reduction. This skill is invisible."
+   },
+   {
+    "name": "Panda Defense",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill can be used on himself or an ally, making himself or that ally invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "ao-(s)",
+  "name": "Ao (S)",
+  "skills": [
+   {
+    "name": "Stolen Byakugan",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Mental",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Ao uses his Byakugan on an enemy. For 3 turns, any new invisible skill used by that enemy will be visible and each time they use a new skill they will take 50% more damage from Ranged skills for 1 turn. This skill is invisible and cannot be countered or reflected."
+   },
+   {
+    "name": "Sensing Barrier",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Mental",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Ao uses his sensing barrier on an enemy, making them unable to reduce damage or become invulnerable and dealing 20 damage to them for 1 turn. The following turn, that enemy will receive an additional 5 damage from 'Sensing Barrier'."
+   },
+   {
+    "name": "Byakugan Seal",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "For 1 turn, the first non mental skill used on Ao (S) will be countered. This skill is invisible the first time it is used and may only be used once. After the following 2 turns, this skill will be re-applied. During this time, if 'Sensing Barrier' is used this skill will be instantly re-applied."
+   },
+   {
+    "name": "Reactionary Defense",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Ao (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "asura-path-pein-(s)",
+  "name": "Asura Path Pein (S)",
+  "skills": [
+   {
+    "name": "Chakra Burst",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Asura prevents one enemy from becoming invulnerable or reducing damage, then deals 20 damage for 1 turn. During this time, any enemy that uses a new skill on him will take 10 damage. This skill will be replaced permanently."
+   },
+   {
+    "name": "Cluster Bombs",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Asura Path bombs all enemies, dealing 20 piercing damage to them. For 1 turn, any enemy that uses a new harmful physical or chakra skill will be dealt 10 piercing damage."
+   },
+   {
+    "name": "Heat Seeker",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Asura Path uses Heat Seeker on one enemy. After 3 turns, that enemy will take 25 piercing damage. This skill is invisible until triggered. This skill stacks."
+   },
+   {
+    "name": "Rinnegan Evasion",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Asura Path Pein (S) invulnerable for 1 turn."
+   },
+   {
+    "name": "Crown Shockwave",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Asura Path deals 20 damage to all enemies. The following turn, they will be dealt 5 affliction damage. This skill becomes 'Chakra Burst' after being used."
+   }
+  ]
+ },
+ {
+  "id": "atsui-(s)",
+  "name": "Atsui (S)",
+  "skills": [
+   {
+    "name": "Blazing Sword Stance",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 5,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "By channeling his Fire Release chakra into his blade, Atsui will deal 10 affliction damage* to any enemy who uses a new non-mental skill on him for 4 turns. During this time, if he is targeted by a new harmful skill, the active cooldowns of 'Blazing Sword Slash' and 'Raging Inferno Sea' will be reset."
+   },
+   {
+    "name": "Blazing Sword Slash",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "With his sword engulfed in flames, Atsui delivers a blazing slash, dealing 25 piercing damage to one enemy and making them unable to target anyone else but Atsui for 1 turn. If this enemy's health drops to 60 or below, they will take 5 affliction damage* the following 2 turns."
+   },
+   {
+    "name": "Raging Inferno Sea",
+    "cost": [
+     "ninjutsu",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Atsui unleashes a massive wave of flames, dealing 20 affliction damage to all enemies. Any enemy whose health drops to 60 or below will take 5 affliction damage the following 2 turns."
+   },
+   {
+    "name": "Protective Swordplay",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Atsui invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "baki",
+  "name": "Baki",
+  "skills": [
+   {
+    "name": "Sudden Strike",
+    "cost": [
+     "genjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "A simple, blindingly fast attack leaving an illusionary trail to throw off enemies. Baki does 20 piercing damage to one enemy. If that enemy's health drops to 5 or less, they will be instantly killed."
+   },
+   {
+    "name": "Wind Blade",
+    "cost": [
+     "genjutsu",
+     "ninjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Baki conjures a maelstrom of blade-like wind and does 40 piercing damage to one enemy. If that enemy's health drops to 10 or less, they will be instantly killed."
+   },
+   {
+    "name": "Flak Jacket",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "Baki puts on a specialized flak jacket from the sand village on himself, or one ally granting that character 50 destructible defense for 4 turns. During this time, that character will ignore all harmful effects except damage until this defense is destroyed."
+   },
+   {
+    "name": "Baki Teleportation",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "This skill makes Baki invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "chiyo-(s)",
+  "name": "Chiyo (S)",
+  "skills": [
+   {
+    "name": "White Secret Attack Rampage",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Action",
+     "Ranged"
+    ],
+    "description": "Chiyo directs her puppets to devastate the battlefield, dealing 20 damage to a random enemy for 1 turn. The following turn, a second random enemy will also be dealt 20 damage. The second target is invisible. The next use of 'Sanbou Kyuukai' will deal 5 aditional damage. This skill stacks."
+   },
+   {
+    "name": "Sanbou Kyuukai",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "This skill deals 20 piercing damage to one enemy and stuns their physical and chakra skills for 1 turn. Also for 1 turn, that enemy will receive 5 additional damage from all sources. This skill ignores invulnerability."
+   },
+   {
+    "name": "Ally Puppetry",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Chakra",
+     "Action"
+    ],
+    "description": "Chiyo controls one ally for 3 turns. Each turn, that ally will nullify the first physical or chakra skill used on them. During this time, their non-affliction skills will deal 25% more damage. The following 2 turns, this skill will be replaced."
+   },
+   {
+    "name": "Chakra Shield",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "This skill makes Chiyo (S) invulnerable for 1 turn."
+   },
+   {
+    "name": "One's Own Life Reincarnation",
+    "cost": [
+     "random",
+     "random",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "Chiyo selects one ally, giving them all of her current remaining health. Afterwards, Chiyo will instantly die. The chosen ally gains 1 random chakra for the rest of the game. This skill can also be used on dead allies."
+   }
+  ]
+ },
+ {
+  "id": "chojuro-(s)",
+  "name": "Chojuro (S)",
+  "skills": [
+   {
+    "name": "Hiramekarei Strider",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Using Hiramekarei Strider, Chojuro destroys all enemies' destructible defense and damage reduction and then deals 10 piercing damage to them.The following 2 turns, this skill will deal 10 additional damage and can only be used on a single target."
+   },
+   {
+    "name": "Hiramekarei Hammer",
+    "cost": [
+     "taijutsu",
+     "ninjutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Chojuro (S) creates a hammer of chakra to attack one enemy, dealing 40 piercing damage to them. If that enemy has any destructible defense or damage reduction, this skill will apply 'Hiramekarei Strider' on them before dealing damage."
+   },
+   {
+    "name": "Hiramekarei Kenjutsu",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "For 1 turn, all enemy non-chakra skills used on Chojuro will be countered. Any countered enemy will permanently take 10 additional damage from Chojuro's skills."
+   },
+   {
+    "name": "Hiramekarei Defense",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Chojuro (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "cursed-seal-juugo-(s)",
+  "name": "Cursed Seal Juugo (S)",
+  "skills": [
+   {
+    "name": "Psychotic Break",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Affliction",
+     "Action",
+     "Melee"
+    ],
+    "description": "Juugo loses his mind and assaults one enemy, stealing 10 health from them for 3 turns. During this time, if that enemy uses a new harmful skill, Jugoo's skills will be improved and will cost random chakra for 1 turn."
+   },
+   {
+    "name": "Chakra Cannons",
+    "cost": [
+     "ninjutsu",
+     "ninjutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Juugo uses his jet booster-like appendages to charge chakra and blast a powerful chakra blast, dealing 45 damage to one enemy. While improved, this skill will cost 2 random chakra."
+   },
+   {
+    "name": "Body Absorption",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Juugo absorbs one enemy's body, stealing 15 health from them and making that enemy unable to reduce damage or become invulnerable for 2 turns. For 1 turn, Juugo will ignore all harmful effects except damage. While improved, this skill will cost 1 random chakra."
+   },
+   {
+    "name": "Juugo Block",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Cursed Seal Juugo (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "cursed-seal-mizuki",
+  "name": "Cursed Seal Mizuki",
+  "skills": [
+   {
+    "name": "Curse Seal: Tiger",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "By drinking a curse seal potion, Mizuki transforms into a wild tiger. The following 3 turns, Mizuki will gain 35 points of destructible defense and during this time, 'Curse Seal: Tiger Punch' will be >improved< and 'Puppets Genjutsu' will be replaced by its alternate version."
+   },
+   {
+    "name": "Curse Seal: Tiger Punch",
+    "cost": [
+     "taijutsu",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Mizuki fiercely punches one enemy, dealing 30 damage to them. For 2 turns, that enemy's skills will deal 15 less non-affliction damage. During 'Curse Seal: Tiger', this skill is improved and will deal 45 damage instead. This skill does not stack."
+   },
+   {
+    "name": "Puppets Genjutsu",
+    "cost": [
+     "genjutsu"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Mental",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Mizuki puts an enemy under a genjutsu. For 2 turns, that enemy will be unable to reduce damage or become invulnerable, and their skills will deal 5 less damage and will cost 1 additional random chakra. During this time, if that enemy does not use a new skill, they will take 10 damage."
+   },
+   {
+    "name": "Evil Intentions",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Mental",
+     "Instant"
+    ],
+    "description": "This skill makes Cursed Seal Mizuki invulnerable for 1 turn."
+   },
+   {
+    "name": "Curse Seal: Tiger Bomb",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Mizuki charges like a bomb, dealing 45 damage to one enemy and becoming invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "cursed-seal-sasuke",
+  "name": "Cursed Seal Sasuke",
+  "skills": [
+   {
+    "name": "Corrupt Chidori",
+    "cost": [
+     "ninjutsu",
+     "ninjutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Using a cursed seal chakra corrupted Chidori Sasuke does 45 piercing damage to one enemy and for 2 turns, will reduce their non-affliction damage by 20."
+   },
+   {
+    "name": "Katon: Goukakyuu no Jutsu",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Sasuke launches a giant fireball, dealing 20 affliction damage to one enemy. For 1 turn, If that enemy uses a skill they will take 10 affliction damage. During 'Cursed Seal', this skill will be improved and will also deal an additional 10 damage."
+   },
+   {
+    "name": "Cursed Seal",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Affliction",
+     "Instant"
+    ],
+    "description": "Sasuke taps into the power of cursed seal, becoming invulnerable for 1 turn and taking 20 affliction damage, which cannot kill him. The following turn, 'Corrupt Chidori' will cost 1 random chakra, 'Katon: Goukakyuu no Jutsu' will have no cost, and this skill will be replaced by 'Dark Void'."
+   },
+   {
+    "name": "Sharingan Evasion",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Mental",
+     "Instant"
+    ],
+    "description": "This skill makes Cursed Seal Sasuke invulnerable for 1 turn."
+   },
+   {
+    "name": "Dark Void",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Expunging the corrupt chakra, Sasuke engulfs one enemy, stunning them for 2 turns, and making them invulnerable to all skills. When this skill ends, that enemy will receive 55 damage. This skill will end if Sasuke dies."
+   }
+  ]
+ },
+ {
+  "id": "darui-(s)",
+  "name": "Darui (S)",
+  "skills": [
+   {
+    "name": "Laser Circus",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Darui creates several beams and shoots his opponents, stunning one enemy for 1 turn. Afterwards, all other enemies take 15 piercing damage."
+   },
+   {
+    "name": "Electric Water Encampment Wall",
+    "cost": [],
+    "cooldown": 1,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Darui targets all enemies for 1 turn. Any enemy that uses a new skill will take 5 affliction damage. The following turn, all enemies affected by this skill will receive 5 additional damage from 'Laser Circus' and 'Black Panther Lightning'. This skill cannot be countered."
+   },
+   {
+    "name": "Black Panther Lightning",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Darui generates a black panther lightning from his body and releases it at one enemy, dealing 35 piercing damage to them. For 1 turn, that enemy's skills will have 2 additional cooldown. This skill ignores invulnerability."
+   },
+   {
+    "name": "Cleaver Sword Defense",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Darui (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "deidara-(s)",
+  "name": "Deidara (S)",
+  "skills": [
+   {
+    "name": "Clay Molds",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "For 3 turns, Deidara gains 5 permanent destructible defense and activates \"C2\" first turn. Second turn he activates \"C3\". Third turn he activates \"C4\". Afterwards, this skill is restarted and Deidara gains 1 random chakra."
+   },
+   {
+    "name": "C3 - Giant Doll",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Deidara deals 15 piercing damage to all enemies. During \"C2\", this skill deals 5 additional damage. During \"C3\", this skill deals 10 additional damage and stuns one random enemy's harmful skills for 1 turn. During \"C4\", this skill stuns all enemies' harmful skills for 1 turn. Requires 'Clay Mold'."
+   },
+   {
+    "name": "C2 - Clay Centipede",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Deidara deals 10 damage to one enemy for 2 turns. The target's draining chakra effects will not be applied. If used during \"C2\", this skill lasts 3 turns. If used during \"C3\", Deidara becomes invulnerable to non-mental skills for 1 turn. During \"C4\", this skill lasts 1 turn and deals 30 piercing damage. Requires 'Clay Mold'."
+   },
+   {
+    "name": "Aerial Retreat",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Deidara (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "demon-brothers",
+  "name": "Demon Brothers",
+  "skills": [
+   {
+    "name": "Chain Wrap",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Demon Brothers wrap one enemy in their chain. The following 3 turns, if Demon Brothers uses a new harmful skill on that enemy, their non-mental skills will be stunned for 1 turn. During this time, Demon Brothers becomes invulnerable to mental and affliction skills, and this skill is replaced by 'Chain Shred'."
+   },
+   {
+    "name": "Bladed Gauntlet",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Demon Brothers uses their gauntlets shredding, gaining 10 permanent destructible defense and dealing 30 damage to one enemy. This skill will deal an additional 5 damage to the enemy affected by 'Chain Wrap'."
+   },
+   {
+    "name": "Puddle Illusion",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "The Demon Brothers hide in water, gaining 20 points of destructible defense and 1 taijutsu chakra."
+   },
+   {
+    "name": "Demon Brothers Vanish",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Demon Brothers invulnerable for 1 turn."
+   },
+   {
+    "name": "Chain Shred",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Demon Brothers rip apart one enemy affected by 'Chain Wrap', dealing 45 piercing damage to them."
+   }
+  ]
+ },
+ {
+  "id": "deva-path-pein-(s)",
+  "name": "Deva Path Pein (S)",
+  "skills": [
+   {
+    "name": "Chakra Rod",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Deva Path Pein (S) targets one enemy and uses Chakra Rod. When that enemy uses a new skill they will be dealt 15 piercing damage and Deva will steal 1 bloodline or ninjutsu chakra from them. This skill is invisible until triggered. This skill stacks."
+   },
+   {
+    "name": "Violent Water Wave",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Deva Path Pein (S) uses Violent Water Wave on all enemies. For 1 turn all enemies chakra or ranged skills will cost 1 additional random chakra. Deva Path Pein (S) gains 50% damage reduction during this skill. This skill becomes 'Chibaku Tensei' for 2 turns."
+   },
+   {
+    "name": "Universal Pull",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Chakra",
+     "Action",
+     "Ranged"
+    ],
+    "description": "Deva Path Pein (S) uses Universal Pull on one enemy for 1 turn. If that enemy uses a new harmful physical or chakra skill they will be countered, will take 20 damage and will deal 10 less non-affliction damage for 1 turn. This skill is invisible and becomes 'Shinra Tensei' for 2 turns."
+   },
+   {
+    "name": "Rinnegan Pressure",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Mental",
+     "Instant"
+    ],
+    "description": "This skill makes Deva Path Pein (S) invulnerable for 1 turn."
+   },
+   {
+    "name": "Shinra Tensei",
+    "cost": [
+     "bloodline",
+     "ninjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Deva Path Pein (S) uses 'Shinra Tensei' to deal 30 damage to all enemies. For 1 turn Deva Path Pein (S) will become invulnerable. This skill becomes 'Universal Pull' when used."
+   },
+   {
+    "name": "Chibaku Tensei",
+    "cost": [
+     "bloodline",
+     "ninjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Using his ultimate jutsu Deva Path Pein (S) deals 30 damage to all enemies. For 1 turn damage dealt by the enemy team will be reduced by 5. This skill cannot be countered and becomes 'Violent Water Wave' when used."
+   }
+  ]
+ },
+ {
+  "id": "dodai-(s)",
+  "name": "Dodai (S)",
+  "skills": [
+   {
+    "name": "Rubber Wall",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 5,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "Dodai creates a rubber wall that protects his team. For 3 turns, Dodai and his allies will gain 10 points of unpierceable damage reduction and ignore stun effects. During this time, they are immune to affliction damage."
+   },
+   {
+    "name": "Communication Telepathy",
+    "cost": [
+     "genjutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Mental",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Dodai communicates directly with one enemy through telepathy, dealing 20 piercing damage to them. For 1 turn, that enemy's stunning skills will be stunned for 1 turn. This skill will fully stun an enemy marked by 'Rubber Ball and Rope'."
+   },
+   {
+    "name": "Rubber Ball and Rope",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Dodai traps one enemy inside a rubber ball and restrains them with a rope, dealing 35 damage to them. For 4 turns, that enemy will be marked. Afterwards, a random member of Dodai's team will become invulnerable for 1 turn."
+   },
+   {
+    "name": "Lava Release Defense",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Dodai (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "drunken-lee",
+  "name": "Drunken Lee",
+  "skills": [
+   {
+    "name": "Unpredictable Assault",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Using his drunken master abilities, Lee deals 20 damage to one enemy that cannot be countered. For 1 turn, if that enemy uses a new harmful skill, Lee will instantly heal 10 health. Permanently, Lee will deal 5 additional damage. This effect stacks."
+   },
+   {
+    "name": "Drunken Fist",
+    "cost": [
+     "genjutsu",
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Lee charges at an enemy and hits them with a knockout blow, dealing 30 damage to that enemy, and for 1 turn, their skills will deal 100% less damage."
+   },
+   {
+    "name": "Drunken Counter",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "Lee targets himself or an ally. For 1 turn, the first harmful physical skill used on that ally will be countered. If successful, the countered enemy will have 'Unpredictable Assault' used on them. This skill is invisible."
+   },
+   {
+    "name": "Drunken Leap",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Drunken Lee invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-ameyuri-(s)",
+  "name": "Edo Tensei Ameyuri (S)",
+  "skills": [
+   {
+    "name": "Silent Dual Sword Rampage",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Imbuing her swords with lightning, Ameyuri deals 20 piercing damage to one enemy. This skill will deal 10 additional damage if that enemy has their cooldowns increased or paralyzed. For 2 turns, that enemy's cooldowns will be paralyzed. This effect doesn't stack."
+   },
+   {
+    "name": "Lightning Rain",
+    "cost": [
+     "ninjutsu",
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Ameyuri sends bolts of lightning to electrocute her targets, dealing 35 piercing damage to one enemy and 15 to all others. For 1 turn, all enemies will have their skills cooldown increased by 1. This skill deals 10 additional damage to enemies with their cooldowns paralyzed."
+   },
+   {
+    "name": "Lightning Flow Trap",
+    "cost": [],
+    "cooldown": 2,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Ameyuri surrounds each of her enemies with lightning. For 1 turn, all enemies will have their cooldowns increased by 1, and any enemy that does not use a new skill will receive 10 additional damage from Ameyuri's skills for 1 turn. This skill will permanently last 1 additional turn."
+   },
+   {
+    "name": "Ameyuri Block",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Edo Tensei Ameyuri (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-chiyo-(s)",
+  "name": "Edo Tensei Chiyo (S)",
+  "skills": [
+   {
+    "name": "White Secret Technique Ten Puppets",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Action",
+     "Ranged"
+    ],
+    "description": "Chiyo assaults her enemies using the ten puppets, stunning one enemy's physical and chakra skills for 1 turn. Afterwards, one random enemy will be dealt 20 damage for 2 turns."
+   },
+   {
+    "name": "Possum",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Chiyo plays possum on one enemy and targets them. For 1 turn, if that enemy uses a new harmful skill, they will be countered. If successful, that enemy will be dealt 20 damage and will have their physical skills stunned for 1 turn. This skill is invisible."
+   },
+   {
+    "name": "White Secret Art Illusion",
+    "cost": [
+     "genjutsu"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Edo Tensei Chiyo (S) targets one enemy, dealing 25 damage to them. For 1 turn, Edo Tensei Chiyo (S) will ignore all harmful skills."
+   },
+   {
+    "name": "Chiyo Evade",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Edo Tensei Chiyo (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-chukichi-(s)",
+  "name": "Edo Tensei Chukichi (S)",
+  "skills": [
+   {
+    "name": "Frozen Veil",
+    "cost": [],
+    "cooldown": 2,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "By surrounding himself with a veil of frost, Chukichi conceals his presence from his enemies. For the rest of the game, each turn he will become invulnerable to a random main class of skills for 1 turn. This skill can be used while active to make Chukichi immortal for 1 turn."
+   },
+   {
+    "name": "Chakra Tracing",
+    "cost": [
+     "genjutsu"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Mental",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Using his exceptional sensory abilities, Chukichi detects the chakra signatures of his enemies, increasing the cost of their skills by 1 random chakra for 1 turn. Any invisible skills active on them will be revealed."
+   },
+   {
+    "name": "Soundless Execution",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Taking advantage of his concealed presence, Chukichi silently approaches his enemy and delivers a deadly strike, dealing 35 piercing damage to an enemy. The active cooldown of 'Chakra Tracing' will be reduced by 1 turn. This skill ignores invulnerability and cannot be countered or reflected."
+   },
+   {
+    "name": "Swift Withdrawal",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Chukichi invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-deidara-(s)",
+  "name": "Edo Tensei Deidara (S)",
+  "skills": [
+   {
+    "name": "Katsu!",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Deidara detonates all his bombs creating a great explosion, first becoming invulnerable for 1 turn and after dealing 5 piercing damage to all enemies. Afterwards, all stacks from Deidara's skills will be removed. This skill cannot be countered."
+   },
+   {
+    "name": "Bat Bombs",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Deidara deals 10 affliction damage to all enemies. Permanently, 'Katsu!' will deal 5 additional damage to them. For 1 turn, any enemy that uses a new skill will receive 15 additional damage instead from 'Katsu!'. The following turn, 'Jellyfish Explosives' will deal 5 additional damage."
+   },
+   {
+    "name": "Jellyfish Explosives",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Deidara deals 25 piercing damage to one enemy. Permanently, 'Katsu!' will deal 10 additional damage to that enemy. For 1 turn, any enemy that uses a new skill will permanently receive 10 additional damage from 'Katsu!'. The following turn, 'Bat Bombs' will deal 5 additional damage."
+   },
+   {
+    "name": "Chakra Clay Trap",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Deidara creates a trap to one enemy. For 1 turn, if that enemy uses a new harmful skill they will be countered and will take 10 piercing damage. Permanently, the countered enemy will receive 10 additional damage from 'Katsu!'. The skill is invisible."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-fuguki-(s)",
+  "name": "Edo Tensei Fuguki (S)",
+  "skills": [
+   {
+    "name": "Hair Needle Senbon",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "ET Fuguki deals 20 piercing damage to one enemy. For 1 turn, any enemy that uses a new skill on ET Fuguki or his allies will gain a stack of 'Hair Spikes'; This skill may only grant 1 stack to an enemy per turn."
+   },
+   {
+    "name": "Hardened Spikes",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "ET Fuguki instantly applies a stack of 'Hair Spikes' to the enemy team, and his team gains 15 points of destructible defense for 2 turns. During this time, any enemy that destroys this destructible defense will gain a stack of 'Hair Spikes'."
+   },
+   {
+    "name": "Ranged Supression",
+    "cost": [
+     "ninjutsu",
+     "ninjutsu"
+    ],
+    "cooldown": 5,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "For 3 turns, one enemy will be dealt 5 piercing damage, granting them a stack of 'Hair Spikes' each turn, and the other enemies will be dealt 5 piercing damage every turn. During this time, any enemy that uses a new harmful skill will gain a stack of 'Hair Spikes'. This skill ends if Fuguki dies."
+   },
+   {
+    "name": "Spiked Hair Defense",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Edo Tensei Fuguki (S) invulnerable for 1 turn."
+   },
+   {
+    "name": "Hair Spikes",
+    "cost": [],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "An enemy affected by this skill will be dealt 2 piercing damage every turn for the rest of the game. During this time, that enemy will receive 5 additional damage from 'Hair Needle Senbon'. This skill stacks."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-fuu-(s)",
+  "name": "Edo Tensei Fuu (S)",
+  "skills": [
+   {
+    "name": "Majestic Sting",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Fuu deals 15 damage to one enemy. The following turn, that enemy will receive 10 additional damage from Fuu's skills."
+   },
+   {
+    "name": "Nanabi: Flying Assault",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Fuu becomes invulnerable for 1 turn and deals 30 damage to one enemy ignoring invulnerability."
+   },
+   {
+    "name": "Scale Powder Blinding Attack",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Chakra",
+     "Control",
+     "Ranged"
+    ],
+    "description": "Fuu deals 10 piercing damage to one enemy and makes them unable to reduce damage or become invulnerable for 1 turn. The following turn, that enemy will take another 10 damage and will be stunned for 1 turn."
+   },
+   {
+    "name": "Fuu: Rinnegan Awareness",
+    "cost": [],
+    "cooldown": 4,
+    "classes": [
+     "Mental",
+     "Instant"
+    ],
+    "description": "This skill may be used to cast the last skill used by Fuu, costing random chakra and dealing 5 additional damage. Afterwards, the original version of the casted skill will be unable to be used by Fuu for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-ginkaku-(s)",
+  "name": "Edo Tensei Ginkaku (S)",
+  "skills": [
+   {
+    "name": "Shichiseiken Slash",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Ginkaku deals 20 piercing damage to one enemy. For this turn, any new stun effects used on that enemy will last 1 additional turn."
+   },
+   {
+    "name": "Silence is Golden",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Ginkaku politely approaches an enemy, dealing 10 piercing damage to that enemy and stunning their skills for 1 turn. During this time, that enemy will become invulnerable to helpful skills and will receive 5 additional melee damage."
+   },
+   {
+    "name": "Benihisago",
+    "cost": [],
+    "cooldown": 3,
+    "classes": [
+     "Mental",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Ginkaku targets one enemy, selecting one random skill from that enemy for 3 turns. The next time that enemy uses the selected skill, they will be countered and Shichiseiken Slash will deal 5 additional damage to the countered enemy permanently. The selected skill is invisible."
+   },
+   {
+    "name": "Shichiseiken Defense",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Edo Tensei Ginkaku (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-haku-(s)",
+  "name": "Edo Tensei Haku (S)",
+  "skills": [
+   {
+    "name": "Silent Piercing Murder",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Action",
+     "Melee"
+    ],
+    "description": "Haku deals 20 piercing damage to one enemy. The following turn, that enemy will take 10 piercing damage. For 1 turn, they will lose 1 bloodline or ninjutsu chakra."
+   },
+   {
+    "name": "Cristal Ice Mirrors Execution",
+    "cost": [
+     "ninjutsu",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Haku deals 20 damage to one enemy. For 1 turn, if this enemy uses a new harmful non-mental skill, that skill will be reflected onto another random enemy. If no skill is reflected, Haku will steal 1 bloodline chakra from that enemy."
+   },
+   {
+    "name": "Low Temperature Enhancement",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "Haku grants himself 15 destructible defense for 2 turns. The following 2 turns, he will deal 5 additional damage and gain 1 random chakra each turn."
+   },
+   {
+    "name": "ET Haku Block",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Edo Tensei Haku (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-hanzo-(s)",
+  "name": "Edo Tensei Hanzo (S)",
+  "skills": [
+   {
+    "name": "Poison Sickle",
+    "cost": [
+     "genjutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Hanzo deals 10 physical damage and 10 affliction damage to one enemy. For 1 turn, if that enemy uses a new harmful skill, they take 10 damage."
+   },
+   {
+    "name": "Salamander Swallow",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Hanzo targets one enemy for 1 turn. The next harmful non-mental skill used by that enemy will have its non-damage effects nullified and the duration of the skill reduced by 1 turn. If triggered, the target takes 20 affliction damage. This skill is invisible."
+   },
+   {
+    "name": "Venom Sac",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 3,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Affliction"
+    ],
+    "description": "For 1 turn, Hanzo gains 50% unpierceable damage reduction and ignores affliction damage. During this time, any enemy that uses a new skill on him will be *dealt 5 affliction damage for 3 turns. This skill is invisible until first triggered."
+   },
+   {
+    "name": "Ibuse Guard",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Hanzo invulnerable for 1 turn."
+   },
+   {
+    "name": "Passive: Contaminated Battlefield",
+    "cost": [],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant"
+    ],
+    "description": "At the start of the game, the battlefield becomes Toxic for all characters until Hanzo dies. While Toxic is active: Healing effects and destructible defense will be ignored by all characters. Any character that becomes invulnerable takes 3 permanent affliction damage. This passive cannot be ignored"
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-itachi-(s)",
+  "name": "Edo Tensei Itachi (S)",
+  "skills": [
+   {
+    "name": "Phoenix Flower Shuriken",
+    "cost": [
+     "ninjutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Itachi unleashes a volley of fire-infused shuriken, dealing 10 affliction damage to all enemies. For 1 turn, if they use a new harmful skill, they will have 'Phoenix Flower Shuriken' re-applied on them."
+   },
+   {
+    "name": "Demonic Illusion: Mirage Crow",
+    "cost": [
+     "genjutsu",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Mental",
+     "Action",
+     "Melee"
+    ],
+    "description": "For 2 turns, one enemy will be unable to reduce damage or become invulnerable and will take 15 damage each turn. During this time, Itachi will become invulnerable to that enemy's skills."
+   },
+   {
+    "name": "Passive: Edo Tensei Sharingan",
+    "cost": [],
+    "cooldown": 0,
+    "classes": [
+     "Mental",
+     "Instant"
+    ],
+    "description": "Each turn, this skill will randomly switch between 'Izanami', 'Itachi Mangekyou Sharingan', and 'Itachi Kotoamatsukami'. Each of these skills can only be used once per game. This passive is invisible."
+   },
+   {
+    "name": "Itachi Block",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Edo Tensei Itachi (S) invulnerable for 1 turn."
+   },
+   {
+    "name": "Edo Tensei Mangekyou Sharingan",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Mental",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "This skill can only be used once to apply both 'Amaterasu' and 'Tsukuyomi' on an enemy; This skill ends when Itachi killed. Amaterasu: Deals 20 affliction damage instantly, and 5 affliction permanently. Tsukuyomi: Fully stuns the enemy's skills for 1 turn."
+   },
+   {
+    "name": "Edo Tensei Kotoamatsukami",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Mental",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "This skill can only be used once to target Itachi or an ally permanently. The next time the marked target's health drops to 5 or less, they will instantly heal to 40 health, and then heal 5 health for the following 3 turns. This skill is invisible until triggered."
+   },
+   {
+    "name": "Izanami",
+    "cost": [
+     "bloodline",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Mental",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "This skill can only be used once to target an enemy permanently. The next time that enemy uses a new skill, they will be countered and this skill will end. If successful, the countered skill will be stunned for 3 turns; This duration is increased by the skill's current cooldown. This skill is invisible until triggered."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-jinin-(s)",
+  "name": "Edo Tensei Jinin (S)",
+  "skills": [
+   {
+    "name": "Silent Killing Axe",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "ET Jinin deals 20 piercing damage to one enemy and marks them for 2 turns. While marked, they will be unable to reduce damage or become invulnerable. If the target is marked by 'Silent Killing Hammer', it's duration is extended by 1 turn."
+   },
+   {
+    "name": "Silent Killing Hammer",
+    "cost": [
+     "genjutsu"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "ET Jinin deals 20 damage to one enemy, stuns their non-mental skills and markes them for 1 turn. While marked, they will receive 5 additional non-affliction damage. If the target is marked by 'Silent Killing Axe', it's duration is extended by 1 turn."
+   },
+   {
+    "name": "Axe & Hammer Smash",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "ET Jinin deals 30 damage to one enemy. Before dealing damage, if they are marked by 'Silent Killing Axe', this will destroy destructible defense. If marked by 'Silent Killing Hammer', this will convert any damage reduction into additional non-affliction damage received instead. If marked by both, this deals an additional 10 damage and stuns them for 1 turn."
+   },
+   {
+    "name": "Skilled Evasion",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Edo Tensei Jinin (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-jinpachi-(s)",
+  "name": "Edo Tensei Jinpachi (S)",
+  "skills": [
+   {
+    "name": "Explosive Tag Primer",
+    "cost": [],
+    "cooldown": 2,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Melee"
+    ],
+    "description": "ET Jinpachi gains 10 permanent destructible defense. The next use of 'Silent Explosion' will deal 15 chakra piercing damage* to the target. If an enemy destroys the defense of this skill, they will take 15 piercing damage* and this skill will end."
+   },
+   {
+    "name": "Silent Explosion",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Jinpachi deals 20 piercing damage to one enemy and reduces their non-affliction damage by 5 for 1 turn. If 'Explosive Tag Primer' is used on the last turn, this skill will cost 1 additional random chakra for 1 turn."
+   },
+   {
+    "name": "Shibuki Explosion Chain",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "ET Jinpachi gains 10 permanent destructible defense. The next use of 'Silent Explosion' will deal 10 permanent affliction damage* to the target. If an enemy destroys the defense of this skill, they will take 10 affliction damage* permanently and this skill will end."
+   },
+   {
+    "name": "Shibuki Defense",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Edo Tensei Jinpachi (S) invulnerable for 1 turn."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-jiroubou-(s)",
+  "name": "Edo Tensei Jiroubou (S)",
+  "skills": [
+   {
+    "name": "Flying Strike",
+    "cost": [
+     "taijutsu"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Jiroubou strikes an enemy, dealing 25 damage to them and giving them 1 stack of 'Dark Chakra Unseal'."
+   },
+   {
+    "name": "Boulder Throw",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Jiroubou throws a giant rock at the enemy team, dealing 10 damage to them and giving them 1 stack of 'Dark Chakra Unseal'. Afterwards, Jiroubou gains 10 points of permanent destructible defense."
+   },
+   {
+    "name": "Hostage Kidnapping",
+    "cost": [
+     "taijutsu",
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "For 2 turns, Jiroubou kidnaps an enemy, making them ignore all helpful effects, and this skill will be replaced by 'Hostage Drain'. This skill will consume all stacks of 'Dark Chakra Unseal' from that enemy to last 1 additional turn per stack consumed."
+   },
+   {
+    "name": "Jiroubou Bare Hands Block",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Jiroubou invulnerable for 1 turn."
+   },
+   {
+    "name": "Hostage Drain",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 0,
+    "classes": [
+     "Affliction",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Jiroubou targets an enemy affected by 'Hostage Kidnapping', stealing 10 health and 1 bloodline or genjutsu chakra from them, and granting them 1 stack of 'Dark Chakra Unseal'."
+   },
+   {
+    "name": "Dark Chakra Unseal",
+    "cost": [],
+    "cooldown": 0,
+    "classes": [
+     "Chakra",
+     "Instant"
+    ],
+    "description": "Enemies affected by 'Dark Chakra Unseal' will receive 5 additional damage from Jiroubou's skills."
+   }
+  ]
+ },
+ {
+  "id": "edo-tensei-kakuzu-(s)",
+  "name": "Edo Tensei Kakuzu (S)",
+  "skills": [
+   {
+    "name": "Jiongu: Deadly Embrace",
+    "cost": [
+     "random",
+     "random"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Kakuzu extends his black threads to wrap around an enemy's neck, dealing 25 damage to them and stunning their physical and mental skills for 1 turn."
+   },
+   {
+    "name": "Heart Manifestation Assault",
+    "cost": [
+     "ninjutsu",
+     "genjutsu",
+     "random"
+    ],
+    "cooldown": 2,
+    "classes": [
+     "Chakra",
+     "Instant",
+     "Ranged"
+    ],
+    "description": "Using his Jiongu offensively, Kakuzu sacrifices one of his Jiongu hearts, dealing 60 damage to one enemy and stunning their physical and chakra skills for 1 turn. This skill can only be used as long as Kakuzu has any Jiongu Heart left."
+   },
+   {
+    "name": "Heart Extraction",
+    "cost": [
+     "bloodline"
+    ],
+    "cooldown": 1,
+    "classes": [
+     "Physical",
+     "Instant",
+     "Melee"
+    ],
+    "description": "Kakuzu tears into an enemy to replenish his collection of hearts, stealing 15 health from that enemy and also any damage reduction effect they currently have on them."
+   },
+   {
+    "name": "Jiongu: Thread Evasion",
+    "cost": [
+     "random"
+    ],
+    "cooldown": 4,
+    "classes": [
+     "Physical",
+     "Instant"
+    ],
+    "description": "This skill makes Kakuzu invulnerable for 1 turn."
+   },
+   {
+    "name": "Passive: Jiongu Heart Collection",
+    "cost": [],
+    "cooldown": 0,
+    "classes": [
+     "Instant"
+    ],
+    "description": "Through his Jiongu, Kakuzu starts the game with 4 additional hearts. Everytime his health reaches 0, his health will be set to 15. This can only happen 4 times in the game, one for each Jiongu Heart Kakuzu has. This skill's stacks refers to the amount of hearts lost."
+   }
+  ]
+ }
+]

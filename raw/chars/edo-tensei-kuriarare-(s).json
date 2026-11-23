@@ -1,0 +1,56 @@
+{
+ "slug": "edo-tensei-kuriarare-(s)",
+ "name": "Edo Tensei Kuriarare (S)",
+ "portrait": "https://i.imgur.com/OyYfW0o.png",
+ "description": "Edo Tensei Kuriarare (S) was a member of the Seven Swordsmen of the Mist and a member of the Hidden Mist Village's Anbu. During his life he committed countless atrocities and he is happy to be back from death to engage his newfound opponents.",
+ "unlock": "Mission: The Anbu of the Mists Past",
+ "skills": [
+  {
+   "name": "Spider Sewing",
+   "image": "https://i.imgur.com/RHElMOA.png",
+   "description": "Kuriarare applies 1 stack of 'Wire String' on all enemies. For 1 turn, any enemy affected by this skill will deal 5 less non-affliction damage. If used on enemies with 3 or more stacks of 'Wire String', they will deal 10 less non-affliction damage instead for 1 turn.",
+   "cooldown": "2",
+   "energy": [],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Silent Stiching",
+   "image": "https://i.imgur.com/7bBoGCo.png",
+   "description": "Kuriarare deals 20 piercing damage to one enemy. Afterwards, all other enemies will have 1 stack of 'Wire String' applied on them. If the main target has 3 or more stacks of 'Wire String', they will be instantly killed if they health drops to 15 or less.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Wire Crucifixion",
+   "image": "https://i.imgur.com/7CupDAE.png",
+   "description": "Kuriarare cuts through one enemy trapped in his wire strings, dealing 15 affliction damage to them and stunning their non-mental skills. If used on an enemy with 3 or more stacks of 'Wire String', they will be fully stunned instead.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Senbon Block",
+   "image": "https://i.imgur.com/m8ybFod.png",
+   "description": "This skill makes Edo Tensei Kuriarare (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Wire String",
+   "image": "https://i.imgur.com/ibhFXGo.png",
+   "description": "Enemies marked by 'Wire String' will permanently receive 5 additional damage from Kuriarare's skills.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Physical, Instant, Ranged."
+  }
+ ]
+}

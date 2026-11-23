@@ -1,0 +1,50 @@
+{
+ "slug": "shinobi-alliance-lee-(s)",
+ "name": "Shinobi Alliance Lee (S)",
+ "portrait": "https://i.imgur.com/jwLaNCr.png",
+ "description": "Now a chuunin, Lee has trained endlessly with Gai, and not only learned new abilities, but has learned what it truly means to fight. In battle, Lee now fights for his friends and allies, growing stronger as they fall around him.",
+ "unlock": "Mission: The Power of Youth At War",
+ "skills": [
+  {
+   "name": "Konoha Rising Wind",
+   "image": "https://i.imgur.com/L3SrXyY.png",
+   "description": "Lee tries to hinder an enemy, dealing 15 damage to them and lowering all their non-affliction damage by 15 for 2 turns. This skill will deal an additional 10 damage, and the damage reduction effect will last 1 additional turn for each ally that is dead.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Konoha Great Whirlwind",
+   "image": "https://i.imgur.com/zqIwv7l.png",
+   "description": "Lee gains momentum, dealing 25 damage to one enemy and gaining 10 points of damage reduction for 1 turn. The following turn this skill will deal an additional 10 damage and grant 10 more damage reduction. This skill will deal an additional 10 damage for every ally that has been killed.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "One-Man Front Lotus",
+   "image": "https://i.imgur.com/oskq9Vj.png",
+   "description": "Using a modified version of Front Lotus, Lee dives down on an opponent, dealing 20 damage to them. This skill will deal an additional 20 damage for each ally that is dead, and an additional 20 damage for each 30 health that Lee has lost.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Lee Heavy Block",
+   "image": "https://i.imgur.com/VtaPz2z.png",
+   "description": "This skill makes Rock Lee (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

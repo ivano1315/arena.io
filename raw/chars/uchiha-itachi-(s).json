@@ -1,0 +1,60 @@
+{
+ "slug": "uchiha-itachi-(s)",
+ "name": "Uchiha Itachi (S)",
+ "portrait": "https://i.imgur.com/u67aRg4.png",
+ "description": "Uchiha Itachi is a member of Akatsuki, and the brother of Uchiha Sasuke. He has mastered the sharingan completely.",
+ "unlock": "Mission: Destiny of Itachi",
+ "skills": [
+  {
+   "name": "Amaterasu Field",
+   "image": "https://i.imgur.com/2AS9EMK.png",
+   "description": "Itachi creates a field around his team using Amaterasu. For 1 turn, any enemy that uses a new skill on Itachi or his allies will be dealt 5 affliction damage permanently*. This skill is invisible and is replaced by 'Mangekyou Overexertion' for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged*."
+  },
+  {
+   "name": "Crow Genjutsu",
+   "image": "https://i.imgur.com/elSVDBR.png",
+   "description": "Itachi places a genjutsu on one enemy. For 1 turn, if that enemy uses a new harmful skill they will be countered. If successful, the countered enemy's skills will cost 1 additional random chakra until they use a new skill. This skill is invisible and is replaced by 'Mangekyou Overexertion' for 1 turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Mastered Mangekyou Sharingan",
+   "image": "https://i.imgur.com/0Pgy8yM.png",
+   "description": "Itachi uses his mastered Mangekyou Sharingan to deceive an enemy. For 1 turn, the first new skill used by that enemy will be reflected to a random different enemy. This skill is invisible,  ignores invulnerability and is replaced by 'Mangekyou Overexertion' for 1 turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Clone Genjutsu",
+   "image": "https://i.imgur.com/hQfYhTZ.png",
+   "description": "This skill makes Uchiha Itachi (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Mangekyou Overexertion",
+   "image": "https://i.imgur.com/Gk8QgRa.png",
+   "description": "By pushing his Mangekyou Sharingan beyond its natural limits, Itachi deals 20 damage to one enemy. If this skill is available through: 'Amaterasu Field', the enemy will take 5 additional damage from 'Amaterasu Field' permanently; 'Crow Genjutsu', Itachi is healed for 15 health; 'Mastered Mangekyou Sharingan', Itachi removes all harmful skills from himself.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  }
+ ]
+}

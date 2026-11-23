@@ -1,0 +1,49 @@
+{
+ "slug": "hachibi-bee-(s)",
+ "name": "Hachibi Bee (S)",
+ "portrait": "https://i.imgur.com/B1cuEbq.png",
+ "description": "Having fully bonded with and gained control of the Eight-Tails, Gyuuki, and thus having become what is known as a perfect jinchuuriki, Killer Bee is able to use its abilities to their fullest extent. Using the Eight-Tails' protective chakra to gradually become much stronger, Bee can run a rampage on the battlefield.",
+ "unlock": "Mission: Eight Tails Released",
+ "skills": [
+  {
+   "name": "Hachibi Chakra Bones",
+   "image": "https://i.imgur.com/SKBAxY8.png",
+   "description": "Hachibi Bee enables his skills and gains 1 Hachibe Stack. At 1 Hachibi Stack, he gains 5 points of unpierceable damage reduction. At 2 Hachibi Stacks, he gains 30% unpierceable damage reduction. At 3 Hachibi Stacks, he gains 50% unpierceable damage reduction and heals 5 health.",
+   "cooldown": "2",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Lariat",
+   "image": "https://i.imgur.com/LIy6FVP.png",
+   "description": "Bee decapitates an enemy, healing 10 health and dealing 30 damage to that enemy. At 2 Hachibi Stacks, this skill will instead deal 40 damage to one enemy and stuns the harmful skills of all other enemies for 1 turn; At 3 Hachibi Stacks, deals 65 piercing damage to one enemy ignoring invulnerability.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Hachibi Tailed Beast Bomb",
+   "image": "https://i.imgur.com/HI57mTr.png",
+   "description": "Bee fires a concentrated energy bomb, healing 10 health and then dealing 20 damage to all enemies; At 2 Hachibi Stacks, this skill will instead deal 20 affliction damage to all enemies for 2 turns (Action classed); At 3 Hachibi Stacks, this skill will instead deal 40 damage to all enemies.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Affliction*, Instant, Ranged."
+  },
+  {
+   "name": "Hachibi Tails Block",
+   "image": "https://i.imgur.com/9IKr5u2.png",
+   "description": "This skill makes Hachibi Bee (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "asura-path-pein-(s)",
+ "name": "Asura Path Pein (S)",
+ "portrait": "https://i.imgur.com/aVbEBLw.png",
+ "description": "Asura Path Pein (S) is one of the six paths of Pein. His body style is similar to a puppet filled with hidden weapons.",
+ "unlock": "Mission: Asura Path",
+ "skills": [
+  {
+   "name": "Chakra Burst",
+   "image": "https://i.imgur.com/zEudeFK.png",
+   "description": "Asura prevents one enemy from becoming invulnerable or reducing damage, then deals 20 damage for 1 turn. During this time, any enemy that uses a new skill on him will take 10 damage. This skill will be replaced permanently.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Cluster Bombs",
+   "image": "https://i.imgur.com/6OwwejZ.png",
+   "description": "Asura Path bombs all enemies, dealing 20 piercing damage to them. For 1 turn, any enemy that uses a new harmful physical or chakra skill will be dealt 10 piercing damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Heat Seeker",
+   "image": "https://i.imgur.com/n61eNZT.png",
+   "description": "Asura Path uses Heat Seeker on one enemy. After 3 turns, that enemy will take 25 piercing damage. This skill is invisible until triggered. This skill stacks.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Rinnegan Evasion",
+   "image": "https://i.imgur.com/pS3OQal.png",
+   "description": "This skill makes Asura Path Pein (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Crown Shockwave",
+   "image": "https://i.imgur.com/cclxprX.png",
+   "description": "Asura Path deals 20 damage to all enemies. The following turn, they will be dealt 5 affliction damage. This skill becomes 'Chakra Burst' after being used.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  }
+ ]
+}

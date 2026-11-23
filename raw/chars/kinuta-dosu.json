@@ -1,0 +1,49 @@
+{
+ "slug": "kinuta-dosu",
+ "name": "Kinuta Dosu",
+ "portrait": "https://i.imgur.com/eX7lgm2.png",
+ "description": "Perhaps the strongest of the three sound genin, Kinuta Dosu uses his implanted Melody Arm to amplify sound waves and increase the power of his taijutsu.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Resonating Echo Drill",
+   "image": "https://i.imgur.com/E0ZWhLb.png",
+   "description": "Dosu attacks with his drill, dealing 20 damage to one enemy, who will be unable to reduce damage or become invulnerable for 2 turns. The following 2 turns, that enemy will receive 10 additional damage from 'Sound Manipulation'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Sound Manipulation",
+   "image": "https://i.imgur.com/FsCfPfd.png",
+   "description": "Dosu manipulates the sound to directly disorient one enemy, dealing 10 damage to them and stunning their skills for 1 turn. The following turn, 'Resonating Echo Drill' will deal 10 additional damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Melee."
+  },
+  {
+   "name": "Melody Arm Tuning",
+   "image": "https://i.imgur.com/ONsIZzw.png",
+   "description": "Dosu fine-tunes his Melody Arm to produce debilitating sound vibrations. The following 5 turns, 'Resonating Echo Drill' will deal 20 additional damage and 'Sound Manipulation' will deal 10 additional damage.",
+   "cooldown": "5",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Dosu Hide",
+   "image": "https://i.imgur.com/t60WkZt.png",
+   "description": "This skill makes Kinuta Dosu invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

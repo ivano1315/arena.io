@@ -1,0 +1,58 @@
+{
+ "slug": "yamanaka-ino",
+ "name": "Yamanaka Ino",
+ "portrait": "https://i.imgur.com/5pxmVTr.png",
+ "description": "A Genin from Team 10, Ino is a member of the Yamanaka clan, and a very confident and vain girl. Ino is able to use a variety of abilities to take over and control her enemies, making it difficult to tell friend from foe.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Mind Body Disturbance",
+   "image": "https://i.imgur.com/rAnVK81.png",
+   "description": "Using this skill Ino stuns one enemy's non-mental skills for 1 turn. During this time, that enemy will be unable to reduce damage or become invulnerable. One random different enemy will receive 20 damage that ignores invulnerability.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Change of Heart",
+   "image": "https://i.imgur.com/MYXw3WU.png",
+   "description": "Ino takes over the mind of an enemy. For 3 turns, that enemy will be stunned and cannot reduce damage or become invulnerable. The following 2 turns, this skill will be replaced by 'Art of the Valentine'.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Control, Ranged."
+  },
+  {
+   "name": "Chakra Hair Strand Trap",
+   "image": "https://i.imgur.com/4VxNq83.png",
+   "description": "Ino creates a trap for an enemy. For 1 turn, if that enemy uses a new harmful skill, then for 2 turns, 'Change of Heart' will last 1 additional turn on that enemy and 'Mind Body Disturbance' will make that enemy unable to reduce damage or become invulnerable for 2 turns instead. This skill is invisible.",
+   "cooldown": "1",
+   "energy": [],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Ino Block",
+   "image": "https://i.imgur.com/2o5RnKa.png",
+   "description": "This skill makes Yamanaka Ino invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Art of the Valentine",
+   "image": "https://i.imgur.com/RfWzT2j.png",
+   "description": "Ino deals 25 damage to one enemy. If used on an enemy affected by 'Change of Heart', this skill will deal 30 damage instead.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "hebi-sasuke-(s)",
+ "name": "Hebi Sasuke (S)",
+ "portrait": "https://i.imgur.com/tx2t9cF.png",
+ "description": "After breaking ties with Orochimaru, Sasuke forms Hebi and begins his hunt for Itachi. With greater control over the Cursed Seal and his lightning-nature chakra, Sasuke combines sudden Chidori attacks, automatic defenses, and the overwhelming power of Kirin.",
+ "unlock": "Mission: The Formation of Hebi",
+ "skills": [
+  {
+   "name": "Chidori Surprise Attack",
+   "image": "https://i.imgur.com/kQn2ooZ.png",
+   "description": "Sasuke catches one enemy off guard with Chidori, dealing 20 piercing damage to them. The following 3 turns, Sasuke's skills will deal 10 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Cursed Seal: Automatic Protection",
+   "image": "https://i.imgur.com/Plxi4lC.png",
+   "description": "For 1 turn, the first harmful skill used on Sasuke will be countered. If successful, the countered enemy will take 10 piercing damage and Sasuke will gain 10 points of destructible defense. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Kirin",
+   "image": "https://i.imgur.com/a940sf2.png",
+   "description": "Harnessing natural lightning from the storm clouds above, Sasuke guides a massive thunderbolt onto one enemy, dealing 35 piercing damage to them. If that enemy's health drops to 15 or lower, they will be instantly killed. This skill cannot be countered.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Sasuke Kunai Parry",
+   "image": "https://i.imgur.com/BRsbB7Q.png",
+   "description": "This skill makes Hebi Sasuke (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

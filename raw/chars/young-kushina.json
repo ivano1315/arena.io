@@ -1,0 +1,49 @@
+{
+ "slug": "young-kushina",
+ "name": "Young Kushina",
+ "portrait": "https://i.imgur.com/OVQz2LC.png",
+ "description": "Kushina is a survivor of the Hidden Whirlpool Village's famed Uzumaki clan, and an immigrant into the Hidden Leaf Village after her own village's downfall. Due to her tomboyish and violent nature, and her bright red colored hair, Kushina is known as the \"Red-Hot Habanero\" as she constantly gets into trouble.",
+ "unlock": "Mission: Red-Hot Habanero",
+ "skills": [
+  {
+   "name": "Red-Hot Habanero",
+   "image": "https://i.imgur.com/VtqqsxP.png",
+   "description": "Kushina uses her strength to protect an ally. The following 3 turns, if Kushina uses 'Fierce Punch' or 'Dropping Kick', the protected ally will heal 15 health. During this time, she will ignore stun effects.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Fierce Punch",
+   "image": "https://i.imgur.com/YzbP1gt.png",
+   "description": "Kushina lands a fierce punch on an enemy, dealing 20 damage to them. The following turn, 'Dropping Kick' will deal 20 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Dropping Kick",
+   "image": "https://i.imgur.com/PUppWRN.png",
+   "description": "Kushina drops down with a powerful kick, dealing 10 damage to one enemy and stunning their skills for 1 turn. The following turn, 'Fierce Punch' will deal 10 additional damage and will stun an enemy for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Skilled Landing",
+   "image": "https://i.imgur.com/HBkwB2B.png",
+   "description": "This skill makes Young Kushina invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "cursed-seal-mizuki",
+ "name": "Cursed Seal Mizuki",
+ "portrait": "https://i.imgur.com/V6AYlxZ.png",
+ "description": "Touji Mizuki is now a missing nin that has been corrupted by his own dark ambitions and the will of Orochimaru.",
+ "unlock": "Mission: The Corrupted by Dark Ambitons",
+ "skills": [
+  {
+   "name": "Curse Seal: Tiger",
+   "image": "https://i.imgur.com/wZY8Gg2.jpg",
+   "description": "By drinking a curse seal potion, Mizuki transforms into a wild tiger. The following 3 turns, Mizuki will gain 35 points of destructible defense and during this time, 'Curse Seal: Tiger Punch' will be >improved< and 'Puppets Genjutsu' will be replaced by its alternate version.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Curse Seal: Tiger Punch",
+   "image": "https://i.imgur.com/EEkuwOc.png",
+   "description": "Mizuki fiercely punches one enemy, dealing 30 damage to them. For 2 turns, that enemy's skills will deal 15 less non-affliction damage. During 'Curse Seal: Tiger', this skill is improved and will deal 45 damage instead. This skill does not stack.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Puppets Genjutsu",
+   "image": "https://i.imgur.com/jHkf7ow.png",
+   "description": "Mizuki puts an enemy under a genjutsu. For 2 turns, that enemy will be unable to reduce damage or become invulnerable, and their skills will deal 5 less damage and will cost 1 additional random chakra. During this time, if that enemy does not use a new skill, they will take 10 damage.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Evil Intentions",
+   "image": "https://i.imgur.com/eus0S47.png",
+   "description": "This skill makes Cursed Seal Mizuki invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Curse Seal: Tiger Bomb",
+   "image": "https://i.imgur.com/P7chy1d.png",
+   "description": "Mizuki charges like a bomb, dealing 45 damage to one enemy and becoming invulnerable for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "young-nagato-(s)",
+ "name": "Young Nagato (S)",
+ "portrait": "https://i.imgur.com/CacsZEv.png",
+ "description": "The Rain Orphans were three children who lost their parents due to the Hidden Rain Village's involvement in the Second Shinobi World War. Nagato is a quiet boy who is not only afraid of the world, but also afraid of himself.",
+ "unlock": "Mission: The Young Rinnegan Bearer",
+ "skills": [
+  {
+   "name": "Rinnegan Dominion",
+   "image": "https://i.imgur.com/jngc3YG.png",
+   "description": "Nagato awakens his Rinnegan, gaining 20 points of destructible defense. For 1 turn, 'Wind Style: Air Bullets' and 'Amateur Shinra Tensei' will be improved. Each time this skill is used, its duration and cooldown will increase by 1.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Wind Style: Air Bullets",
+   "image": "https://i.imgur.com/bgNqhpY.png",
+   "description": "Nagato shoots multiple bullets of air at one enemy, dealing 25 damage and stunning their skills for 1 turn. During 'Rinnegan Dominion', this skill will deal 100% more damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Amateur Shinra Tensei",
+   "image": "https://i.imgur.com/QzP3mh5.png",
+   "description": "By activating Shinra Tensei, Nagato protects one ally. For 1 turn, that ally becomes invulnerable. Afterwards, they will heal 10 health and all harmful skills will be removed from them. During 'Rinnegan Dominion', this skill will cost 1 random chakra instead.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Majestic Frog Disguise",
+   "image": "https://i.imgur.com/9XNjIlM.png",
+   "description": "This skill makes Young Nagato (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

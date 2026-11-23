@@ -1,0 +1,51 @@
+{
+ "slug": "akatsuchi-(s)",
+ "name": "Akatsuchi (S)",
+ "portrait": "https://i.imgur.com/Fu0lus7.png",
+ "description": "Akatsuchi (S) is a shinobi of the Hidden Rock Village. Akatsuchi is a powerful shinobi who uses brute strength and earth style jutsus in combat.",
+ "unlock": "Mission: The Rock of the Rock Village",
+ "skills": [
+  {
+   "name": "High Speed Assault",
+   "image": "https://i.imgur.com/CAcVNir.png",
+   "description": "Using High Speed Assault Akatsuchi deals 25 damage to 1 enemy. The following 3 turns, this skill will cost 1 additional random chakra and will deal 15 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Golem",
+   "image": "https://i.imgur.com/Z8IavyU.png",
+   "description": "Akatsuchi uses Golem on all enemies dealing 15 damage to them. The following 3 turns, this skill will cost 1 additional random chakra and will deal 10 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Golem Chakra Devour",
+   "image": "https://i.imgur.com/9pO0uU2.png",
+   "description": "Akatsuchi's golem devours one enemy's chakra, dealing 10 piercing damage and stealing 1 random chakra from them. The following 2 turns, Akatsuchi's skills will cost 1 less random chakra. This skill will cost 1 less random chakra for each stack of 'Golem' and 'High Speed Assault' active on Akatsuchi.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Akatsuchi Retreat",
+   "image": "https://i.imgur.com/VY4Ti0Q.png",
+   "description": "This skill makes Akatsuchi (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

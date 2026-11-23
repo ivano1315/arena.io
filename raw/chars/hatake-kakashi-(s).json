@@ -1,0 +1,62 @@
+{
+ "slug": "hatake-kakashi-(s)",
+ "name": "Hatake Kakashi (S)",
+ "portrait": "https://i.imgur.com/lKc2rbD.png",
+ "description": "Kakashi(s) has used the last couple years to improve upon his sharingan, giving him access to a new deadly but costly ability.",
+ "unlock": "Mission: From Teacher to Partner",
+ "skills": [
+  {
+   "name": "Lightning Beast Fang",
+   "image": "https://i.imgur.com/07efvor.png",
+   "description": "Kakashi forms his raikiri into a lightning dog, dealing 25 piercing damage to one enemy and stunning their skills for 1 turn. The following turn, this skill will be replaced by 'Finishing Raikiri'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Kakashi Kamui",
+   "image": "https://i.imgur.com/46CCve7.png",
+   "description": "If used on an enemy, they will receive 45 piercing damage and for 1 turn the cost of their skills will be increased by 2 random. If used on an ally, all harmful effects on them will be removed and they will become invulnerable for 1 turn. This skill ignores invulnerability.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Team Tactics",
+   "image": "https://i.imgur.com/yPfyM9R.png",
+   "description": "For 3 turns, Kakashi and his team will have will have the cooldown of their skills reduced by 1 for 3 turns. The following 3 turns, 'Kakashi Kamui' will be improved and will cost 1 bloodline and 1 random chakra.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Bunshin Stand-in",
+   "image": "https://i.imgur.com/ToRKfvb.png",
+   "description": "This skill makes Hatake Kakashi (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Finishing Raikiri",
+   "image": "https://i.imgur.com/ITGCcaa.png",
+   "description": "Kakashi moves to finish off an enemy, dealing 40 piercing damage to one enemy. This skill will deal an additional 10 damage to that enemy if they are stunned or if 'Lightning Beast Fang' was used on them the previous turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "akimichi-chouza-(s)",
+ "name": "Akimichi Chouza (S)",
+ "portrait": "https://i.imgur.com/y0UOx6i.png",
+ "description": "Akimichi Chouza (S) is the leader of the Akimichi clan and the father of Chouji. He is a jounin and he is skilled in all of his clan's secret techniques.",
+ "unlock": "Mission: A Proud Father",
+ "skills": [
+  {
+   "name": "Chain Bind",
+   "image": "https://i.imgur.com/V5Ker5n.png",
+   "description": "Chouza slows down an enemy, dealing 10 damage to them and lowering all physical and chakra damage they deal by 10 for 1 turn. During this time, Chouza's team will also gain 10 destructible defense.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Jounin Meat Tank",
+   "image": "https://i.imgur.com/NCr5YOX.png",
+   "description": "Chouza begins rolling, dealing 15 damage to all enemies for 2 turns. During this time, his team will gain 15 destructible defense each turn.",
+   "cooldown": "3",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Action, Melee."
+  },
+  {
+   "name": "Expansion Smash",
+   "image": "https://i.imgur.com/WdjJjx5.png",
+   "description": "If used on an enemy, for 1 turn, the next non-mental harmful skill they use will be countered. If used on an ally, for 1 turn, the next non-mental harmful skill used on them will be countered. The countered enemy will receive 20 damage. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Chouza Block",
+   "image": "https://i.imgur.com/1Kzk8rc.png",
+   "description": "This skill makes Akimichi Chouza (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "baki",
+ "name": "Baki",
+ "portrait": "https://i.imgur.com/f0YWgRx.png",
+ "description": "Baki is the Jounin team leader of Gaara, Temari, and Kankuro. A mysterious and perhaps devious but loyal man, he specializes in wind element jutsu.",
+ "unlock": "Mission: Sand Siblings at War",
+ "skills": [
+  {
+   "name": "Sudden Strike",
+   "image": "https://i.imgur.com/TvDIanB.png",
+   "description": "A simple, blindingly fast attack leaving an illusionary trail to throw off enemies. Baki does 20 piercing damage to one enemy. If that enemy's health drops to 5 or less, they will be instantly killed.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Wind Blade",
+   "image": "https://i.imgur.com/eBHHYKn.png",
+   "description": "Baki conjures a maelstrom of blade-like wind and does 40 piercing damage to one enemy. If that enemy's health drops to 10 or less, they will be instantly killed.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Flak Jacket",
+   "image": "https://i.imgur.com/kaJlaHV.png",
+   "description": "Baki puts on a specialized flak jacket from the sand village on himself, or one ally granting that character 50 destructible defense for 4 turns. During this time, that character will ignore all harmful effects except damage until this defense is destroyed.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Baki Teleportation",
+   "image": "https://i.imgur.com/ZBwSMFi.png",
+   "description": "This skill makes Baki invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

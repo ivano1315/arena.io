@@ -1,0 +1,69 @@
+{
+ "slug": "rock-lee-(s)",
+ "name": "Rock Lee (S)",
+ "portrait": "https://i.imgur.com/DTqDmu4.png",
+ "description": "A member of team Gai; Lee is a genin with no talent at all in ninjutsu or genjutsu, so he has focused his life all on taijutsu. With his powerful hand to hand techniques, Lee can crush any defense with his immense power.",
+ "unlock": "Mission: A Genius of Hard Work",
+ "skills": [
+  {
+   "name": "Leaf Great Whirlwind",
+   "image": "https://i.imgur.com/66wenY8.png",
+   "description": "Lee gains momentum, dealing 25 piercing damage to one enemy. Afterwards, Lee will take 5 affliction damage*, which cannot kill him. Requires 'Power of Youth'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee, Affliction*."
+  },
+  {
+   "name": "Maximum Force Blast",
+   "image": "https://i.imgur.com/1T89JYR.png",
+   "description": "Mixing the power of his gates, his allies, and everything he fights for, Lee deals 35 piercing damage to one enemy. The following turn, this skill will be replaced by 'Fifth Gate: Final Punch'. Requires 'Power of Youth'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Power of Youth",
+   "image": "https://i.imgur.com/WqHzWoD.png",
+   "description": "Lee pushes himself to fight harder. If a skill that deals damage is used on him, Lee's skills will deal 5 additional damage. While active, this skill be replaced by 'Fiery Spirit'.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Mental, Instant."
+  },
+  {
+   "name": "Jumping Dodge",
+   "image": "https://i.imgur.com/Z8QItbi.jpeg",
+   "description": "This skill makes Rock Lee (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Fifth Gate: Final Punch",
+   "image": "https://i.imgur.com/eFTvyS8.png",
+   "description": "Lee opens the Fifth Gate of Closing, dealing 50 piercing damage to one enemy. Afterwards, Lee will take 5 affliction damage*. This skill cannot be countered.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee, Affliction*."
+  },
+  {
+   "name": "Fiery Spirit",
+   "image": "https://i.imgur.com/6qhJCAl.png",
+   "description": "Lee hypes himself up, gaining 1 taijutsu chakra and healing 10 health and an additional 10 health for each 25 health Lee has lost.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

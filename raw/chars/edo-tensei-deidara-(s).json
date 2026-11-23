@@ -1,0 +1,49 @@
+{
+ "slug": "edo-tensei-deidara-(s)",
+ "name": "Edo Tensei Deidara (S)",
+ "portrait": "https://i.imgur.com/WT1FSyz.png",
+ "description": "Edo Tensei Deidara (S) has been revived and is immediately sent out to battle. Fighting on the front lines is nothing new to this old soul.",
+ "unlock": "Mission: Deidara Revived",
+ "skills": [
+  {
+   "name": "Katsu!",
+   "image": "https://i.imgur.com/FxYBog1.png",
+   "description": "Deidara detonates all his bombs creating a great explosion, first becoming invulnerable for 1 turn and after dealing 5 piercing damage to all enemies. Afterwards, all stacks from Deidara's skills will be removed. This skill cannot be countered.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Bat Bombs",
+   "image": "https://i.imgur.com/uUJNeJC.png",
+   "description": "Deidara deals 10 affliction damage to all enemies. Permanently, 'Katsu!' will deal 5 additional damage to them. For 1 turn, any enemy that uses a new skill will receive 15 additional damage instead from 'Katsu!'. The following turn, 'Jellyfish Explosives' will deal 5 additional damage.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Affliction, Instant, Ranged."
+  },
+  {
+   "name": "Jellyfish Explosives",
+   "image": "https://i.imgur.com/jLHzVyh.png",
+   "description": "Deidara deals 25 piercing damage to one enemy. Permanently, 'Katsu!' will deal 10 additional damage to that enemy. For 1 turn, any enemy that uses a new skill will permanently receive 10 additional damage from 'Katsu!'. The following turn, 'Bat Bombs' will deal 5 additional damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Chakra Clay Trap",
+   "image": "https://i.imgur.com/x8ZtRYB.png",
+   "description": "Deidara creates a trap to one enemy. For 1 turn, if that enemy uses a new harmful skill they will be countered and will take 10 piercing damage. Permanently, the countered enemy will receive 10 additional damage from 'Katsu!'. The skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  }
+ ]
+}

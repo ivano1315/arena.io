@@ -1,0 +1,55 @@
+{
+ "slug": "akimichi-chouji",
+ "name": "Akimichi Chouji",
+ "portrait": "https://i.imgur.com/NxOq035.png",
+ "description": "A Genin from Team 10, Chouji is a member of the Akimichi clan, a large eater, and a close friend to his allies. While innately strong, Chouji is able to sacrifice his own life using special pills from his clan to become insanely powerful.",
+ "unlock": "No requirements",
+ "skills": [
+  {
+   "name": "Partial Double Size",
+   "image": "https://i.imgur.com/cnZD5Wd.png",
+   "description": "Chouji doubles the size of his arms and attacks one enemy, dealing 20 damage to them.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Meat Tank",
+   "image": "https://i.imgur.com/sCIWub7.png",
+   "description": "Chouji transforms into a meat tank, becoming invulnerable for 2 turns*. If targetable, one enemy will be dealt 10 damage for 2 turns.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png"
+   ],
+   "classes": "Physical, Action, Instant*, Melee."
+  },
+  {
+   "name": "Akimichi Pills",
+   "image": "https://i.imgur.com/mlL0qYo.png",
+   "description": "Chouji eats a pill, taking 15 affliction damage. 'Partial Double Size' will deal 20 additional damage and 'Meat Tank' will deal 10 additional damage permanently. Each use of this skill will deal 5 more affliction damage and will cost 2 additional random chakra. Chouji can only eat three pills.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Affliction, Instant."
+  },
+  {
+   "name": "Effortless Block",
+   "image": "https://i.imgur.com/wVVFj3V.png",
+   "description": "This skill makes Akimichi Chouji invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Passive: Butterfly Mode",
+   "image": "https://i.imgur.com/cRqzTG1.png",
+   "description": "When Chouji eats the three pills, he will activate the Butterfly Mode, gaining 75% unpierceable damage reduction permanently and gaining 1 random chakra every turn.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

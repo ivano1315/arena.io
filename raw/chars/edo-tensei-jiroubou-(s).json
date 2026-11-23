@@ -1,0 +1,68 @@
+{
+ "slug": "edo-tensei-jiroubou-(s)",
+ "name": "Edo Tensei Jiroubou (S)",
+ "portrait": "https://i.imgur.com/sGSYprG.png",
+ "description": "Reanimated by Kabuto during the Fourth Shinobi World War along with his Sound Four teammates, Jiroubou is back on the battlefield, and is out for blood. With immense brute force through his mastery of the Cursed Seal, as well as his Earth Release and chakra absorption techniques, Jiroubou is a threat to anyone.",
+ "unlock": "Mission: Jiroubou is revived",
+ "skills": [
+  {
+   "name": "Flying Strike",
+   "image": "https://i.imgur.com/Icil0Pf.png",
+   "description": "Jiroubou strikes an enemy, dealing 25 damage to them and giving them 1 stack of 'Dark Chakra Unseal'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Boulder Throw",
+   "image": "https://i.imgur.com/B07iATg.png",
+   "description": "Jiroubou throws a giant rock at the enemy team, dealing 10 damage to them and giving them 1 stack of 'Dark Chakra Unseal'. Afterwards, Jiroubou gains 10 points of permanent destructible defense.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Hostage Kidnapping",
+   "image": "https://i.imgur.com/acpc5Qo.png",
+   "description": "For 2 turns, Jiroubou kidnaps an enemy, making them ignore all helpful effects, and this skill will be replaced by 'Hostage Drain'. This skill will consume all stacks of 'Dark Chakra Unseal' from that enemy to last 1 additional turn per stack consumed.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Jiroubou Bare Hands Block",
+   "image": "https://i.imgur.com/UmOZbdx.png",
+   "description": "This skill makes Jiroubou invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Hostage Drain",
+   "image": "https://i.imgur.com/1NXt95u.png",
+   "description": "Jiroubou targets an enemy affected by 'Hostage Kidnapping', stealing 10 health and 1 bloodline or genjutsu chakra from them, and granting them 1 stack of 'Dark Chakra Unseal'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Dark Chakra Unseal",
+   "image": "https://i.imgur.com/Vao2mMf.png",
+   "description": "Enemies affected by 'Dark Chakra Unseal' will receive 5 additional damage from Jiroubou's skills.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

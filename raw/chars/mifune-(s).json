@@ -1,0 +1,57 @@
+{
+ "slug": "mifune-(s)",
+ "name": "Mifune (S)",
+ "portrait": "https://i.imgur.com/dU6F330.png",
+ "description": "Mifune is a samurai and leader of the Land of Iron, and now in the war he is the commander of the fourth division. His unmatched swordsmanship makes him capable of attacking and counterattacking any enemy regardless of how fast their movements are.",
+ "unlock": "Mission: The General of Land of Iron",
+ "skills": [
+  {
+   "name": "Samurai Troops",
+   "image": "https://i.imgur.com/BTOiy9P.png",
+   "description": "By commanding his samurai troops, Mifune deals 5 piercing damage to all enemies and makes them deal 5 less non-affliction damage for 1 turn. Also for 1 turn, all of Mifune's team will deal 5 more damage from melee skills. This skill becomes 'Flash' with a bloodline cost.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Iaito",
+   "image": "https://i.imgur.com/N9z93nK.png",
+   "description": "Reacting to one enemy's move, Mifune deals them 15 piercing damage to them and becoming invulnerable to physical skills for 1 turn. This skill becomes 'Flash' with a taijutsu cost.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Raiton Pierce",
+   "image": "https://i.imgur.com/0jU2BHv.png",
+   "description": "Mifuse uses a fast lightning chakra to stab to one enemy, dealing them 15 piercing damage to them and makes them invulnerable to new helpful skills. This skill becomes 'Flash' with a genjutsu cost.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "Samurai Guard",
+   "image": "https://i.imgur.com/fXaEM5k.png",
+   "description": "This skill makes Mifune (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Flash",
+   "image": "https://i.imgur.com/g2hH8Tr.png",
+   "description": "With his more powerful cut, Mifune deals 30 piercing damage to one enemy and stuns their non-mental skills. This skill costs a specific chakra depending on the skill that is replaced by it.",
+   "cooldown": "1",
+   "energy": [],
+   "classes": "Chakra, Instant, Ranged."
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "et-sandaime-raikage-(s)",
+ "name": "ET Sandaime Raikage (S)",
+ "portrait": "https://i.imgur.com/9422elw.png",
+ "description": "Edo Tensei Sandaime Raikage (S) is not pleased to be back among the living and forced to do battle. He does however have faith that the new generation of shinobi can defeat him and his peers.",
+ "unlock": "Mission: The Sandaime Raikage",
+ "skills": [
+  {
+   "name": "Four Finger Nukite",
+   "image": "https://i.imgur.com/n1SNQj5.png",
+   "description": "Sandaime Raikage uses Four Finger Nukite on one enemy dealing 25 damage. Sandaime Raikage gains 5 points of damage reduction permanently when this skill is used. This skill becomes 'Three Finger Nukite' permanently when used.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Lightning Release Shockwave",
+   "image": "https://i.imgur.com/JQs7c28.png",
+   "description": "Using Lightning Release Shockwave Edo Tensei Sandaime Raikage (S) targets one enemy dealing 30 damage. One random enemy will be dealt 30 damage that ignores invulnerability.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Ranged."
+  },
+  {
+   "name": "One Finger Nukite Spear",
+   "image": "https://i.imgur.com/3ZbkkbG.png",
+   "description": "Edo Tensei Sandaime Raikage (S) uses One Finger Nukite Spear on one enemy dealing 50 piercing damage. This skill cannot be countered or reflected.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Immense Speed",
+   "image": "https://i.imgur.com/zMRosB6.png",
+   "description": "This skill makes ET Sandaime Raikage (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Three Finger Nukite",
+   "image": "https://i.imgur.com/gT1HHHm.png",
+   "description": "Using Three Finger Nukite, Sandaime Raikage gains 15 points of damage reduction permanently. 'One Finger Nukite Spear' can be used permanently. After that, 'four finger nukite' can only be used on the enemy; this skill cannot be removed.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  }
+ ]
+}

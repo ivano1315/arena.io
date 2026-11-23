@@ -1,0 +1,50 @@
+{
+ "slug": "yakushi-kabuto-(s)",
+ "name": "Yakushi Kabuto (S)",
+ "portrait": "https://i.imgur.com/lBkxaOw.png",
+ "description": "After two years, Kabuto remains Orochimaru's subordinate and Sasori's spy. His medical skills continue to improve, in addition to being able to use his current chakra to attack, Kabuto can use the chakra to heal himself instantly.",
+ "unlock": "Mission: A Double Agent",
+ "skills": [
+  {
+   "name": "Charged Mystical Palm",
+   "image": "https://i.imgur.com/qGHoQYR.png",
+   "description": "If used on an enemy: Kabuto heals 5 health, deals 20 piercing damage to one enemy and stuns their stunning skills for 1 turn.  If used on himself or an ally: They will heal 20 health, remove all affliction skills from themselves, and ignore stun effects for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Dead Soul Jutsu",
+   "image": "https://i.imgur.com/3LOLnbG.png",
+   "description": "Kabuto deals 25 damage to one enemy. For 2 turns, all other enemies will have their healing skills stunned. Permanently, 'Charged Mystical Palm' will increase its damage and heal by 10. This skill cannot be countered.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Orochimaru Cells Takeover",
+   "image": "https://i.imgur.com/OzDQTw0.png",
+   "description": "Kabuto target himself for 2 turns. During this time, if his health reaches 0, it will be set to 35 and he will gain 2 random chakras and then this skill will end. This skill is invisible until triggered.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Kabuto Dodge",
+   "image": "https://i.imgur.com/SzVzU5l.png",
+   "description": "This skill makes Yakushi Kabuto (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "hatake-kakashi",
+ "name": "Hatake Kakashi",
+ "portrait": "https://i.imgur.com/EiPfRpg.png",
+ "description": "Kakashi is the sensei of Naruto, Sakura, and Sasuke. With his Sharingan he is able to turn his foes skills back upon themselves and can cause severe damage with his Raikiri and Nin-Dogs skills.",
+ "unlock": "Mission: Team 7 Fights as a Team",
+ "skills": [
+  {
+   "name": "Raikiri",
+   "image": "https://i.imgur.com/IO6GaRr.png",
+   "description": "An attack so strong it is said to cut lightning. This skill deals 35 piercing damage to one enemy. This skill cannot be countered or reflected.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "Summoning: Ninja Dogs",
+   "image": "https://i.imgur.com/qenftRL.png",
+   "description": "Kakashi summons ninja dogs which bite an enemy. That enemy will have their non-mental skills stunned for 1 turn. For 1 turn, that enemy will be receive 5 additional damage from chakra skills.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Kakashi Sharingan",
+   "image": "https://i.imgur.com/nqbmD13.png",
+   "description": "Kakashi activates his copying sharingan. For 5 turns, Kakashi will every turn imitate a jutsu from a random enemy, copying a random harmful skill from that enemy, while changing the cost of the copied skill to random chakras.",
+   "cooldown": "5",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Clever Hiding",
+   "image": "https://i.imgur.com/8ICr6G8.png",
+   "description": "This skill makes Hatake Kakashi invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant."
+  }
+ ]
+}

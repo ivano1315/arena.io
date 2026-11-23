@@ -1,0 +1,61 @@
+{
+ "slug": "orochimaru",
+ "name": "Orochimaru",
+ "portrait": "https://i.imgur.com/SujZWa4.png",
+ "description": "Orochimaru is one of the Legendary Sannin. He can increase his teams chakra for a price and summon powerful snakes to beat his enemies.",
+ "unlock": "Mission: Disciples of the Snake",
+ "skills": [
+  {
+   "name": "Kusanagi",
+   "image": "https://i.imgur.com/n1J8CAt.png",
+   "description": "Orochimaru pulls the legendary sword Kusanagi and stabs one enemy, dealing 30 damage to them and removing 1 bloodline or genjutsu chakra from that enemy.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Melee."
+  },
+  {
+   "name": "Cursed Seal Technique",
+   "image": "https://i.imgur.com/2AkEZmm.png",
+   "description": "Orochimaru places a cursed seal on an ally or an enemy, dealing 15 affliction damage to them and granting them 1 random chakra. This skill ignores invulnerability.",
+   "cooldown": "3",
+   "energy": [],
+   "classes": "Affliction, Instant, Melee."
+  },
+  {
+   "name": "Major Summoning: Manda",
+   "image": "https://i.imgur.com/fsxSCxd.png",
+   "description": "By summoning Manda in the battlefield, Orochimaru deals 45 damage to one enemy. For the rest of the game, Orochimaru will gain 1 random chakra and this skill will be replaced 'Constrict and Bite'.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Earth Clone Technique",
+   "image": "https://i.imgur.com/cbN5L9k.png",
+   "description": "This skill makes Orochimaru invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Constrict and Bite",
+   "image": "https://i.imgur.com/SQ3UOkV.png",
+   "description": "Manda wraps around an enemy, stunning them for 1 turn. The following turn, Manda will eat them, dealing 30 damage to them.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Control, Melee."
+  }
+ ]
+}

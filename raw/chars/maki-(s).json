@@ -1,0 +1,49 @@
+{
+ "slug": "maki-(s)",
+ "name": "Maki (S)",
+ "portrait": "https://i.imgur.com/7Aokrcx.png",
+ "description": "Maki is a kunoichi of the Hidden Sand Village and the student of Pakura. Maki is also a member of the Allied Shinobi Forces' Sealing Squad. Original Pics by: Pain_Alagoano",
+ "unlock": "Mission: Maki of the Sand",
+ "skills": [
+  {
+   "name": "Cloth Binding",
+   "image": "https://i.imgur.com/WKp753c.png",
+   "description": "Maki deals 20 piercing damage to one enemy and stuns their harmful skills. During 'Cloth Sealing', this skill will deal an additional 20 damage. During 'Weighted Net Scroll', this skill will deal an additional 10 damage.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Cloth Sealing",
+   "image": "https://i.imgur.com/xCx3O1v.png",
+   "description": "Maki uses a giant roll of cloth to seal one enemy, stunning their physical and chakra skills for 1 turn. This skill ignores invulnerability.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Weighted Net Scroll",
+   "image": "https://i.imgur.com/ZDcqtWH.png",
+   "description": "Maki grants herself 50% damage reduction for 1 turn. During this time, if an enemy uses a new harmful skill on her, they will have the damage of their skills reduced by 50% for 1 turn. This skill is invisible.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Cloth Shelter",
+   "image": "https://i.imgur.com/QQ3JUKI.png",
+   "description": "This skill makes Maki (S) invulnerable for 1 turn.",
+   "cooldown": "4",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  }
+ ]
+}

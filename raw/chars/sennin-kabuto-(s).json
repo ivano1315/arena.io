@@ -1,0 +1,70 @@
+{
+ "slug": "sennin-kabuto-(s)",
+ "name": "Sennin Kabuto (S)",
+ "portrait": "https://i.imgur.com/DEHoOC7.png",
+ "description": "Having surpassed Orochimaru and perfected Sage Transformation through relentless experimentation, Kabuto Yakushi has become a living nexus of stolen power. His body endlessly adapts, assimilating DNA, techniques, and chakra with surgical precision.",
+ "unlock": "Mission: The Dragon Sage",
+ "skills": [
+  {
+   "name": "DNA Assimilation",
+   "image": "https://i.imgur.com/gAtRLyp.png",
+   "description": "For the rest of the game, this skill will be replaced every turn by a random skill from any of Orochimaru's Finest Shinobi (Jiroubou, Sakon, Tayuya, Kidoumaru, Kimimaro). This skill cannot be removed or ignored.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Inorganic Reanimation",
+   "image": "https://i.imgur.com/bbknPYh.png",
+   "description": "Kabuto targets all enemies, dealing 15 piercing damage to them, cancelling their delayed skills, and increasing the cost of their skills by 1 random chakra for 1 turn. If this successfully cancels a delayed skill, the enemy who used it will have their non-mental skills stunned for 1 turn.",
+   "cooldown": "1",
+   "energy": [
+    "https://i.imgur.com/U4UQ3nb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant, Ranged."
+  },
+  {
+   "name": "Sage Art: White Rage",
+   "image": "https://i.imgur.com/j0IZ5wj.png",
+   "description": "For 1 turn, all enemies will have their cooldowns increased by 1 and be paralyzed. During this time, if they use a new harmful skill, it will be delayed for 1 turn. The following turn, this skill will be replaced by 'Sage Art: Mystical Palm'.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Mental, Instant, Ranged."
+  },
+  {
+   "name": "Cursed Seal Life-Giving",
+   "image": "https://i.imgur.com/QADXsVG.png",
+   "description": "Kabuto equalizes the health of himself and one ally. Afterwards, that ally heals 15 health has their active cooldowns reduced by 2. For 3 turns, this skill will be replaced by 'White Snake Bite'.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Chakra, Affliction*, Instant."
+  },
+  {
+   "name": "Sage Art: Mystical Palm",
+   "image": "https://i.imgur.com/7Rxd1Dj.png",
+   "description": "This skill deals 30 piercing damage to one enemy and cancels any delayed skill of theirs. If this successfully cancels a delayed skill, the enemy who used it will be stunned for 1 turn.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png"
+   ],
+   "classes": "Chakra, Instant, Melee."
+  },
+  {
+   "name": "White Snake Bite",
+   "image": "https://i.imgur.com/ZIzc6b1.png",
+   "description": "Kabuto equalizes the health of himself and one enemy, then steals 25 health from them.\n➤ Health Equalized: Add the health of both characters together, then divide by 2 and set their health to the result.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Affliction, Instant, Melee."
+  }
+ ]
+}
