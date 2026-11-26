@@ -8,7 +8,7 @@
   {
    "name": "Fan Increase Moon",
    "image": "https://i.imgur.com/1wTEObW.png",
-   "description": "Temari opens her fan and reveals a moon. Temari gains 5 points of damage reduction and increase her damage by 5 permanently. This skill stacks and can only be used 3 times.",
+   "description": "Temari opens her fan and reveals a moon. Temari gains 5 points of damage reduction and increases her damage by 5 permanently. This skill stacks and can only be used 3 times. After its third use, it's replaced by 'Fan Interception' permanently.",
    "cooldown": "None",
    "energy": [],
    "classes": "Physical, Instant."
@@ -41,6 +41,16 @@
    "cooldown": "4",
    "energy": [
     "https://i.imgur.com/nyuJ6Jb.png"
+   ],
+   "classes": "Physical, Instant."
+  },
+  {
+   "name": "Fan Interception",
+   "image": "https://i.imgur.com/lZlHZjE.png",
+   "description": "Temari uses her fan to defend an ally, granting that ally 15 points of damage reduction and making them unable to be killed for 1 turn.",
+   "cooldown": "2",
+   "energy": [
+    "https://i.imgur.com/vQPPFNB.gif"
    ],
    "classes": "Physical, Instant."
   }

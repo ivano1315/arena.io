@@ -26,7 +26,7 @@
   {
    "name": "Space-Time Kunai Scatter",
    "image": "https://i.imgur.com/BreOhEB.png",
-   "description": "By scattering hiraishin kunais, Minato applies 'Space-Time Marking' on all enemies. For 2 turns, Minato gains 1 random chakra.This skill is invisible ignores invulnerability.",
+   "description": "By scattering hiraishin kunais, Minato applies the effects of 'Space-Time Marking' on all enemies. 'Flying Thunder God' will not affect marks applied from this skill. For 2 turns, Minato gains 1 random chakra. This skill is invisible ignores invulnerability.",
    "cooldown": "3",
    "energy": [
     "https://i.imgur.com/oXjj5c8.png"

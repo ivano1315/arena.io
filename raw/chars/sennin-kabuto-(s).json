@@ -38,7 +38,7 @@
   {
    "name": "Cursed Seal Life-Giving",
    "image": "https://i.imgur.com/QADXsVG.png",
-   "description": "Kabuto equalizes the health of himself and one ally. Afterwards, that ally heals 15 health has their active cooldowns reduced by 2. For 3 turns, this skill will be replaced by 'White Snake Bite'.",
+   "description": "Kabuto equalizes the health of himself and one ally. Afterwards, that ally heals 15 health and has their active cooldowns reduced by 1 turn. For 3 turns, this skill will be replaced by 'White Snake Bite'.",
    "cooldown": "2",
    "energy": [
     "https://i.imgur.com/nyuJ6Jb.png"

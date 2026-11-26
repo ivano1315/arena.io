@@ -19,7 +19,7 @@
   {
    "name": "Enton Amaterasu",
    "image": "https://i.imgur.com/ZOECvbm.png",
-   "description": "Sasuke uses his Amaterasu as a shield on himself for 4 turns, granting him 15 points of destructible defense. During this time, any enemy that uses a new non-mental skill on Sasuke will *receive 5 affliction damage permanently. This skill stacks.",
+   "description": "Sasuke uses his Amaterasu as a shield on himself for 3 turns, granting him 15 points of destructible defense. During this time, any enemy that uses a new non-mental skill on Sasuke will *receive 5 affliction damage permanently. This skill stacks.",
    "cooldown": "4",
    "energy": [
     "https://i.imgur.com/oXjj5c8.png"

@@ -29,7 +29,7 @@
   {
    "name": "Silent Mist",
    "image": "https://i.imgur.com/2TFO62S.png",
-   "description": "For 1 turn, if one enemy uses a new skill, they will be stunned for 1 turn in the primary class of that skill. This skill is invisible.",
+   "description": "For 1 turn, if one target enemy uses a new harmful skill, they will be stunned for 1 turn in the primary class of that skill. This skill is invisible.",
    "cooldown": "1",
    "energy": [],
    "classes": "Affliction, Instant, Ranged."

@@ -28,7 +28,7 @@
   {
    "name": "Sealed Bombs Square Formation",
    "image": "https://i.imgur.com/tz3UXHq.png",
-   "description": "Iruka creates a trap with a set of exploding seals. The following 2 turns, one enemy will take 75% more damage from melee skills. During this time, if that enemy use a new skill, they will take 20 piercing damage and this skill will end.",
+   "description": "Iruka creates a trap with a set of exploding seals. The following 2 turns, one enemy will take 75% more damage from melee skills. During this time, if that enemy use a new skill, they will take 20 piercing damage and this skill will end. This skill becomes 'Concealed Attack' for 1 turn after used.",
    "cooldown": "2",
    "energy": [
     "https://i.imgur.com/oXjj5c8.png"
@@ -44,6 +44,16 @@
     "https://i.imgur.com/nyuJ6Jb.png"
    ],
    "classes": "Physical, Instant."
+  },
+  {
+   "name": "Concealed Attack",
+   "image": "https://i.imgur.com/2LQtL1P.png",
+   "description": "Using ambush tactics to both attack and defend, Iruka deals 20 damage to one enemy and applies 'Shield Ally' to a random ally.",
+   "cooldown": "None",
+   "energy": [
+    "https://i.imgur.com/SJuy2eN.png"
+   ],
+   "classes": "Physical, Instant, Melee."
   }
  ]
 }

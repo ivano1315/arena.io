@@ -1,14 +1,14 @@
 {
  "slug": "tsunade-(s)",
  "name": "Tsunade (S)",
- "portrait": "https://i.imgur.com/OwXbh4A.png",
- "description": "No longer just a Sannin, Tsunade is the new Kage of Konoha, and has taken a large amount of responsibility on her shoulders. Knowing that holding back is no longer an option, Tsunade taps into her seal to gain an impressive power over her foes.",
+ "portrait": "https://i.imgur.com/HqR7d1X.png",
+ "description": "As the Fifth Hokage and one of the Legendary Sannin, Tsunade possesses extraordinary physical strength and unparalleled medical ninjutsu. By combining her devastating attacks with Katsuyu's healing abilities and her mastery of chakra control, she protects her allies while overwhelming her enemies on the battlefield.",
  "unlock": "Mission: The Will of the Senju",
  "skills": [
   {
-   "name": "Heavenly Spear Kick",
-   "image": "https://i.imgur.com/FYabOjw.png",
-   "description": "Tsunade spears one enemy with her foot, destroying all their destructible defense and dealing 20 piercing damage to them. For 1 turn, that enemy's physical skills will deal 15 less non-affliction damage. While empowered, this skill will deal 40 piercing damage instead.",
+   "name": "Shattering Fist",
+   "image": "https://i.imgur.com/eAUCd23.png",
+   "description": "Concentrating an immense amount of chakra into her fist, Tsunade destroys one enemy's destructible defense and removes their damage reduction, dealing 25 damage to them.",
    "cooldown": "None",
    "energy": [
     "https://i.imgur.com/vQPPFNB.gif"
@@ -16,10 +16,10 @@
    "classes": "Physical, Instant, Melee."
   },
   {
-   "name": "Enhanced Healing Palm",
-   "image": "https://i.imgur.com/JKvlVA2.png",
-   "description": "Tsunade pours chakra into one ally, healing them for 30 health. Additionally, that character will heal an additional 10 health for 2 turns. If empowered, this skill will heal 40 health and the secondary effect will last an additional 1 turn.",
-   "cooldown": "1",
+   "name": "Katsuyu's Colossal Form",
+   "image": "https://i.imgur.com/eCkDvQZ.png",
+   "description": "Tsunade summons a massive portion of Katsuyu's body with 80 health. While Katsuyu remains summoned, this skill is replaced by 'Network Healing', and Tsunade gains 25% unpierceable damage reduction.",
+   "cooldown": "4",
    "energy": [
     "https://i.imgur.com/oXjj5c8.png",
     "https://i.imgur.com/nyuJ6Jb.png"
@@ -27,22 +27,33 @@
    "classes": "Chakra, Instant."
   },
   {
-   "name": "Tsunade: Strength of a Hundred Seal",
-   "image": "https://i.imgur.com/MWbYl7o.png",
-   "description": "Tsunade taps into her seal. If Tsunade has 75 health or less, she will instantly heal 15 health. The next time Tsunade uses a skill, it will be empowered. If this skill is used while empowered, it will heal Tsunade 50 health and grant her 2 random chakra.",
+   "name": "Medical Chakra Synchronization",
+   "image": "https://i.imgur.com/3LHjRzB.png",
+   "description": "Using her exceptional chakra control and medical ninjutsu, Tsunade establishes a connection with an ally, first healing herself for 35 health and then setting that ally's health to be the same as hers.",
    "cooldown": "2",
-   "energy": [],
+   "energy": [
+    "https://i.imgur.com/oXjj5c8.png",
+    "https://i.imgur.com/nyuJ6Jb.png"
+   ],
    "classes": "Chakra, Instant."
   },
   {
-   "name": "Tsunade Protection",
-   "image": "https://i.imgur.com/7SbfiJG.png",
-   "description": "This skill makes Tsunade (S) invulnerable for 1 turn. This skill is not affected by 'Tsunade: Strength of a Hundred Seal'.",
+   "name": "Exceptional Chakra Shielding",
+   "image": "https://i.imgur.com/6krB8Gv.png",
+   "description": "This skill makes Tsunade invulnerable for 1 turn.",
    "cooldown": "4",
    "energy": [
     "https://i.imgur.com/nyuJ6Jb.png"
    ],
-   "classes": "Physical, Instant."
+   "classes": "Chakra, Instant."
+  },
+  {
+   "name": "Network Healing",
+   "image": "https://i.imgur.com/txhfdQL.png",
+   "description": "Tsunade channels Katsuyu's life force into an ally or herself, healing that character for 20 health and reducing Katsuyu's health by 20 points.",
+   "cooldown": "None",
+   "energy": [],
+   "classes": "Chakra, Instant."
   }
  ]
 }

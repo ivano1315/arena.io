@@ -8,7 +8,7 @@
   {
    "name": "Gentle Step Twin Lions Fist",
    "image": "https://i.imgur.com/RDPoiGZ.png",
-   "description": "Hinata creates two chakra lions and attacks an enemy, dealing 30 piercing damage to them and removing 1 taijutsu or ninjutsu chakra from them. The following turn, 'Pressure Point Closure' will stun for 1 turn.",
+   "description": "Hinata creates two chakra lions and attacks an enemy, dealing 30 piercing damage to them and removing 1 taijutsu or ninjutsu chakra from them. The following turn, 'Pressure Point Closure' will stun non-mental skills for 1 turn.",
    "cooldown": "1",
    "energy": [
     "https://i.imgur.com/U4UQ3nb.png",

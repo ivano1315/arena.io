@@ -19,7 +19,7 @@
    "name": "Searing Combat",
    "image": "https://i.imgur.com/EN0ePFo.png",
    "description": "Pakura deals 5 affliction damage to all enemies for 3 turns. During this time, all enemies that use a new harmful skill will take 5 affliction damage and 'Scorch Release' will deal 10 additional damage on them.",
-   "cooldown": "None",
+   "cooldown": "1",
    "energy": [
     "https://i.imgur.com/SJuy2eN.png"
    ],

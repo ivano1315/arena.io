@@ -11,7 +11,7 @@ npm run build
 
 ## Data
 
-- `raw/chars/*.json` — one file per character (227): description, unlock mission, skills (cost, cooldown, classes).
+- `raw/chars/*.json` — one file per character (228): description, unlock mission, skills (cost, cooldown, classes).
   Collected from the login-gated character pages of naruto-arena.site.
 - `raw/meta/` — the 12 most recent patches (balance cards with published win rate / match counts, and the news text).
 - `npm run data` rebuilds `src/data/*.json` from `raw/` (`scripts/build-data.mjs`).

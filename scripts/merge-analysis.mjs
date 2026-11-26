@@ -20,7 +20,7 @@ for (const f of files) {
   for (const a of arr) {
     const key = `${a.id}::${a.skill}`;
     if (!expected.has(key)) { problems.unknown.push(`${f}: ${key}`); continue; }
-    if (merged[key]) { problems.duplicates.push(key); continue; }
+    if (merged[key]) problems.duplicates.push(key); // later files override earlier ones
     const { s } = expected.get(key);
     const nums = ['dmg', 'dmgTargets', 'dmgTurns', 'ctrl', 'def', 'heal', 'chakra', 'util', 'span', 'reliability'];
     for (const n of nums) if (a[n] != null && typeof a[n] !== 'number') problems.odd.push(`${key}: ${n}=${JSON.stringify(a[n])}`);

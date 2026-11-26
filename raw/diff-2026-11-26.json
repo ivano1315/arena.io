@@ -1,0 +1,95 @@
+{
+ "added": [
+  "shinobi-alliance-tsunade-(s)"
+ ],
+ "removed": [],
+ "changed": [
+  [
+   "deva-path-pein-(s)",
+   [
+    "~Chakra Rod [description,cost]",
+    "~Violent Water Wave [description]",
+    "~Universal Pull [description]"
+   ]
+  ],
+  [
+   "edo-tensei-pakura-(s)",
+   [
+    "~Searing Combat [cooldown]"
+   ]
+  ],
+  [
+   "haruno-sakura-(s)",
+   [
+    "~Chakra Enhanced Punch [description]",
+    "~Trained Healing [description,cooldown,classes,cost]",
+    "~Blossom's Fury [description,cooldown]",
+    "-skill Self Heal"
+   ]
+  ],
+  [
+   "hyuuga-hinata-(s)",
+   [
+    "~Gentle Step Twin Lions Fist [description]"
+   ]
+  ],
+  [
+   "mangekyou-sasuke-(s)",
+   [
+    "~Enton Amaterasu [description]"
+   ]
+  ],
+  [
+   "namikaze-minato",
+   [
+    "~Space-Time Kunai Scatter [description]"
+   ]
+  ],
+  [
+   "sennin-kabuto-(s)",
+   [
+    "~Cursed Seal Life-Giving [description]"
+   ]
+  ],
+  [
+   "shinobi-alliance-kiba-(s)",
+   [
+    "~Three Headed Wolf [description]"
+   ]
+  ],
+  [
+   "shinobi-alliance-mei-(s)",
+   [
+    "~Silent Mist [description]"
+   ]
+  ],
+  [
+   "temari-(s)",
+   [
+    "~Fan Increase Moon [description]",
+    "+skill Fan Interception"
+   ]
+  ],
+  [
+   "tsunade-(s)",
+   [
+    "+skill Shattering Fist",
+    "+skill Katsuyu's Colossal Form",
+    "+skill Medical Chakra Synchronization",
+    "+skill Exceptional Chakra Shielding",
+    "+skill Network Healing",
+    "-skill Heavenly Spear Kick",
+    "-skill Enhanced Healing Palm",
+    "-skill Tsunade: Strength of a Hundred Seal",
+    "-skill Tsunade Protection"
+   ]
+  ],
+  [
+   "umino-iruka",
+   [
+    "~Sealed Bombs Square Formation [description]",
+    "+skill Concealed Attack"
+   ]
+  ]
+ ]
+}

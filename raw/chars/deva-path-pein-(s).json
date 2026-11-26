@@ -8,17 +8,17 @@
   {
    "name": "Chakra Rod",
    "image": "https://i.imgur.com/1GjmoKo.jpg",
-   "description": "Deva Path Pein (S) targets one enemy and uses Chakra Rod. When that enemy uses a new skill they will be dealt 15 piercing damage and Deva will steal 1 bloodline or ninjutsu chakra from them. This skill is invisible until triggered. This skill stacks.",
+   "description": "Deva Path Pein targets one enemy. When that enemy uses a new skill they will be dealt 15 piercing damage and Deva will remove 1 bloodline or ninjutsu chakra from them. This skill is invisible until triggered. This skill stacks.",
    "cooldown": "2",
    "energy": [
-    "https://i.imgur.com/vQPPFNB.gif"
+    "https://i.imgur.com/nyuJ6Jb.png"
    ],
    "classes": "Physical, Instant, Melee."
   },
   {
    "name": "Violent Water Wave",
    "image": "https://i.imgur.com/s02MnAZ.jpg",
-   "description": "Deva Path Pein (S) uses Violent Water Wave on all enemies. For 1 turn all enemies chakra or ranged skills will cost 1 additional random chakra. Deva Path Pein (S) gains 50% damage reduction during this skill. This skill becomes 'Chibaku Tensei' for 2 turns.",
+   "description": "Deva Path Pein attacks all enemies. For 1 turn, all enemies' harmful non-mental skills will cost 1 additional random chakra. Deva Path Pein gains 15 points of damage reduction for 1 turn. This skill becomes 'Chibaku Tensei' for 2 turns.",
    "cooldown": "1",
    "energy": [
     "https://i.imgur.com/oXjj5c8.png"
@@ -28,7 +28,7 @@
   {
    "name": "Universal Pull",
    "image": "https://i.imgur.com/9wvswDP.jpg",
-   "description": "Deva Path Pein (S) uses Universal Pull on one enemy for 1 turn. If that enemy uses a new harmful physical or chakra skill they will be countered, will take 20 damage and will deal 10 less non-affliction damage for 1 turn. This skill is invisible and becomes 'Shinra Tensei' for 2 turns.",
+   "description": "Deva Path Pein targets one enemy for 1 turn. If that enemy uses a new harmful skill they will be countered, will take 20 damage and will deal 10 less non-affliction damage for 1 turn. This skill is invisible and becomes 'Shinra Tensei' for 2 turns.",
    "cooldown": "2",
    "energy": [
     "https://i.imgur.com/U4UQ3nb.png"

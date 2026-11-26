@@ -19,7 +19,7 @@
   {
    "name": "Three Headed Wolf",
    "image": "https://i.imgur.com/8gU92l0.png",
-   "description": "Kiba removes all harmful physical and mental skills from his team and, for 3 turns, targets all enemies. During this time, enemies that use a new harmful skill will take 5 piercing damage and permanently receive 5 additional damage from physical skills. This skill is replaced by 'Tail Rotating Fang'.",
+   "description": "Kiba removes all harmful physical and mental skills from his team and, for 3 turns, targets all enemies. During this time, enemies that use a new harmful skill will take 5 piercing damage and permanently receive 5 additional damage from physical skills. This skill is replaced by 'Tail Rotating Fang' and ends when Kiba dies.",
    "cooldown": "None",
    "energy": [
     "https://i.imgur.com/U4UQ3nb.png",
